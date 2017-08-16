@@ -1,1 +1,4 @@
-# steering
+# Steering Committee
+
+TODO:
+* Charter
