@@ -6,7 +6,7 @@ This is a backlog of items that the steering committee needs to either handle or
 ## Backlog Items
 
 - Check the governance documents into the community repo
-- Clarify the inferface with the CNCF
+- Clarify the interface with the CNCF
 - Update the Code of Conduct Committee to a more recent version, documenting enforcement, broaden coverage
   beyond maintainers and committers, coding activities, and project/public spaces, specify our own reporting
   path, clarify the policy on employer notification and who else may be involved, decide what should
