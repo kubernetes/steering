@@ -138,7 +138,7 @@ and three Members of Standing (including the nominator, if she/he has standing)
 from three different employers, must endorse the nomination.  
 
 Nominators are free to nominate as many people as they wish to. Members of
-Standing may endorse multiple nominees, but we expect endorsements to be be in
+Standing may endorse multiple nominees, but we expect endorsements to be in
 good faith.  If this turns out to be a problem, this will be reconsidered.
 
 ### Eligibility for voting
