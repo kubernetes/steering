@@ -13,7 +13,10 @@ This is a backlog of items that the steering committee needs to either handle or
   be shared with the accused
 - Determine how members of the Code of Conduct Committee should be selected
 - Document resources that the community has and make sure they have a home: releases, twitter handles, etc
-- Find homes for unowned areas of the project, such as the build system
+- Find homes for unowned areas of the project
+  - build system (make, bazel, godep, etc.)
+  - util libraries
+  - Github org/repo management (e.g., dealing with Github changes, consistency across repos, etc.)
 - SIG charter template, including suggested governance and minimum required intra-SIG governance, its scope 
   (topics, subsystems, code repos and directories), responsibilities, areas of authority, how members and roles
   of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved
