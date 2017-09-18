@@ -28,7 +28,10 @@ This is a backlog of items that the steering committee needs to either handle or
 - In particular, develop policies/procedures for donated code (e.g., helm, kubernetes-anywhere, kompose, kargo)
 - Resolve the disconnect between code organization (OWNERS, maintainers) and people organization (SIGs)
 - Simplify the contributor ladder
-- Update incubator process to explain new GitHub organization strategy
+- Improve the incubator process
+  - Clarify the process for approving/vetoing incubator projects and mitigate sponsor shopping
+  - Update incubator process to explain new GitHub organization strategy
+  - Clarify graduation process
 - Explicitly delegate areas to SIGs
 - Escalation process
 - Fund-requesting and budget processes
