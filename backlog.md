@@ -7,6 +7,10 @@ This is a backlog of items that the steering committee needs to either handle or
 
 - Check the governance documents into the community repo
 - [Appoint](https://github.com/cncf/foundation/blob/master/gb-developer-reps.md) a member of the steering committee to the CNCF [Governing Board](https://www.cncf.io/people/governing-board/) to improve the interface with the CNCF
+- Improve the incubator process
+  - Clarify the process for approving/vetoing incubator projects and mitigate sponsor shopping
+  - Update incubator process to explain new GitHub organization strategy
+  - Clarify graduation process
 - Update the Code of Conduct Committee to a more recent version, documenting enforcement, broaden coverage
   beyond maintainers and committers, coding activities, and project/public spaces, specify our own reporting
   path, clarify the policy on employer notification and who else may be involved, decide what should
@@ -28,10 +32,6 @@ This is a backlog of items that the steering committee needs to either handle or
 - In particular, develop policies/procedures for donated code (e.g., helm, kubernetes-anywhere, kompose, kargo)
 - Resolve the disconnect between code organization (OWNERS, maintainers) and people organization (SIGs)
 - Simplify the contributor ladder
-- Improve the incubator process
-  - Clarify the process for approving/vetoing incubator projects and mitigate sponsor shopping
-  - Update incubator process to explain new GitHub organization strategy
-  - Clarify graduation process
 - Explicitly delegate areas to SIGs
 - Escalation process
 - Fund-requesting and budget processes
