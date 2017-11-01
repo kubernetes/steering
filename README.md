@@ -40,3 +40,7 @@ Term ends in October 2019, positions to permanently close to leave final committ
 - [Charter](charter.md)
 - [Backlog](backlog.md)
 - [Relationship with the CNCF](cncf-and-k8s.md)
+
+## Contact
+
+If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering)).
