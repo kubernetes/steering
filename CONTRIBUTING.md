@@ -7,6 +7,7 @@ The right mode to contribute depends on the type of change that you are proposin
 # Non-members
 
 Submit a PR and then send email to steering@kubernetes.io.
+To communicatie sensitive items with the steering committee privately, send an email to steering-private@kubernetes.io.
 
 # Steering Committee Members
 
