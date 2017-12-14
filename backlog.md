@@ -11,7 +11,6 @@ This is a backlog of items that the steering committee needs to either handle or
 
 ## Backlog Items
 
-- [Appoint](https://github.com/cncf/foundation/blob/master/gb-developer-reps.md) a member of the steering committee to the CNCF [Governing Board](https://www.cncf.io/people/governing-board/) to improve the interface with the CNCF
 - Improve the incubator process
   - Clarify the process for approving/vetoing incubator projects and mitigate sponsor shopping
   - Update incubator process to explain new GitHub organization strategy
