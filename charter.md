@@ -50,4 +50,3 @@ following:
 * Declare a release, so that the committee can ensure quality/feature/other
   requirements are met.
 * Request funds and other support from the CNCF (e.g. marketing, press, etc.)
-

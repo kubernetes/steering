@@ -98,16 +98,6 @@ on their behalf or sponsor candidates from partner organizations.  Simply put,
 elections highlight individuals outside of their corporate role and should be
 treated as “brand free” activities.
 
-## Refactoring or reforming the steering committee
-
-At any time the steering committee may vote, via super majority (greater than
-two-thirds of votes), to rewrite or remove any part of this charter. Beyond
-small tweaks, this should be used sparingly, if ever, and in the presence of
-clear failures of the process. We explicitly do not allocate a role for the
-broader community in reformulating governance, we believe that in such a case
-the community will “vote with their feet” by either leaving or forking the
-project.
-
 ## Emeritus Term
 
 Members of the steering committee will graduate to becoming Emeritus members of
