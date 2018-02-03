@@ -2,20 +2,20 @@
 
 This is a backlog of items that the steering committee needs to either handle or delegate. Please add items via a pull request.
 
-## Current Sprint (end of Jan'18)
+## Current Sprint (end of Feb'18)
 
 - Update project values
 - Intra-SIG governance, its scope  (topics, subsystems, code repos and directories), responsibilities, areas of authority, how members and roles of authority/leadership are selected/granted, how decisions are made, and how conflicts are resolved
-- Check the governance documents into the community repo
-- Resolve the disconnect between code organization (OWNERS, maintainers) and people organization (SIGs)
-
-## Backlog Items
-
 - Improve the incubator process
   - Clarify the process for approving/vetoing incubator projects and mitigate sponsor shopping
   - Update incubator process to explain new GitHub organization strategy
   - Clarify graduation process
 - SIG charter template, including suggested governance and minimum required
+- Formalize the concept of subprojects
+
+## Backlog Items
+
+- Resolve the disconnect between code organization (OWNERS, maintainers) and people organization (SIGs)
 - Update the Code of Conduct Committee to a more recent version, documenting enforcement, broaden coverage
   beyond maintainers and committers, coding activities, and project/public spaces, specify our own reporting
   path, clarify the policy on employer notification and who else may be involved, decide what should
@@ -29,7 +29,6 @@ This is a backlog of items that the steering committee needs to either handle or
   - Node controller
   - kube-controller-manager binary
   - hyperkube
-- Formalize the concept of subprojects
 - Decide how/whether ecosystem subprojects (e.g., kops, helm) are governed differently
 - In particular, develop policies/procedures for donated code (e.g., helm, kubernetes-anywhere, kompose, kargo)
 - Simplify the contributor ladder
