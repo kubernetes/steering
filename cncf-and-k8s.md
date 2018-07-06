@@ -1,6 +1,6 @@
 # Relationship with CNCF
 
-The Kubernetes project is a CNCF project, currently in incubation. 
+The Kubernetes project is a CNCF project, graduated in March 6, 2018. 
 
 The Steering Committee is the designated top-level project leadership body which serves 
 as the project's interface to the foundation (as opposed to all of the maintainers of all
