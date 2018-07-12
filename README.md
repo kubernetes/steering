@@ -30,9 +30,14 @@ Term ends in October 2019, positions to permanently close to leave final committ
 | Brendan Burns | @brendandburns | Microsoft | 2y |
 | Clayton Coleman | @smarterclayton | Red Hat | 2y |
 | Brian Grant | @bgrant0607 | Google | 2y | 
-| Tim Hockin | @thockin | Google | 2y |  
 | Sarah Novotny | @sarahnovotny | Google | 2y |
 | Brandon Philips | @philips | Red Hat | 2y | 
+
+### Emeritus members
+
+| Name | Profile |
+| ---- | ------- |
+| Tim Hockin | @thockin |
 
 ## Meetings
 
