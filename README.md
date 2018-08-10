@@ -52,6 +52,18 @@ We meet privately online at Wed 1pm PT every other week if there is quorum
 - [Backlog](backlog.md)
 - [Relationship with the CNCF](cncf-and-k8s.md)
 
+## Top-level Accounts
+
+The steering committee delegates ownership of various Kubernetes community accounts like GitHub, domain names, etc to SIGs and sub-projects. However, the committee also reserves top-level account access for service governance in some cases.
+
+**GSuite**
+
+| Account | Owner |
+| ------- | ----- |
+| sc1@kubernetes.io | Brandon Philips |
+| sc2@kubernetes.io | Joe Beda |
+| sc3@kubernetes.io | Aaron Crickenberger |
+
 ## Contact
 
 If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering)).
