@@ -1,55 +1,36 @@
-# Kubernetes Steering Committee Elections 
+# Kubernetes Steering Committee Elections
 
-This document outlines the process, for steering committee elections.  
+This document outlines the process, for steering committee elections.
 
-**NOTE:** This document is stale and requires reevaluation prior to next election cycle. 
 
-## Elections
+### Eligibility for voting
 
-Special note: The bootstrap committee pledges to recuse itself from any direct
-election activities while they serve as continuity members. Members of the
-bootstrap committee will refrain from endorsing or otherwise advocating for any
-candidate (with the exception that the members of the bootstrap committee may
-vote in the elections, and may choose to run in the 2019 election).
+Eligibility to vote for steering committee members will be defined by:
 
-### Members of Standing
+* People who have at least 50 [contributions to the Kubernetes project over the past year as defined by devstats](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All) as of 2018-08-15
+* People who have submitted the [voting exception form] and are accepted by
+  the election committee. Acceptance will be defined by a simple majority
+  vote, and the criteria used during this process will be used to help refine
+  further elections.
 
-Initial standing in the Kubernetes community will be defined by the union of:
-* SIG leads
-* Approvers and reviewers in any Kubernetes owned repositories
-* Anyone with write access to a Kubernetes owned repository
-
-The bootstrap committee *explicitly* believes that this heuristic will be
-inaccurate and not represent the entire community. An exception form will be
-provided for people who have contributed to the project but may not meet these
-criteria. Exception applications will be approved by the bootstrap committee
-will vote on this eligibility, with simple majority determining eligibility.
-The exception process will be used as data points for refining the criteria for
-the future.
-
-Within its first year, the Steering Committee will redefine these criteria
-around a more robust idea of community membership.
+It is the responsibility of the steering committee to refine these criteria prior
+to each election.
 
 ### Eligibility for candidacy
 
 Anyone may nominate either themselves or someone else to be a candidate in the
 election. To be ratified as a candidate, the nominee must accept the nomination
 and three Members of Standing (including the nominator, if she/he has standing)
-from three different employers, must endorse the nomination.  
+from three different employers, must endorse the nomination.
 
 Nominators are free to nominate as many people as they wish to. Members of
 Standing may endorse multiple nominees, but we expect endorsements to be in
 good faith.  If this turns out to be a problem, this will be reconsidered.
 
-### Eligibility for voting
-
-All Members of Standing are eligible to vote for the steering committee
-members. 
-
 ### Election process
 
 Elections will be held using time-limited Condorcet ranking on CIVS. The top
-vote getters will be elected to the respective positions. 
+vote getters will be elected to the respective positions.
 
 ### Maximal representation
 
@@ -65,17 +46,22 @@ representation is achieved. If it is impossible to find sufficient members to
 resign, the entire company’s representation will be removed and new special
 elections held. In the event of a question of company membership (for example
 evaluating independence of corporate subsidiaries) a majority of all
-non-involved Steering Committee members will decide. 
+non-involved Steering Committee members will decide.
 
-### Initial Election
+### Terms and election cycles
 
-Because of the need to bootstrap a staggered election cycle, some of the
-initial committee members will only serve a single year term. These three
-people will be the lowest vote getters from the top six in the initial
-election.
+Steering committee members are elected to serve two year terms, with roughly
+half of the elected members coming up for re-election each year for purposes
+of continuity.  This staggered election cycle was bootstrapped in 2017 by
+cutting the terms of the lowest vote getters to one year.
 
-The bootstrap committee will operate the election and circulate a timeline for
-nominations, and the vote.
+## Election schedule and operation
+
+The steering committee picks election officers to operate the election and
+circulate a timeline for nominations, and the vote. At present because results
+are announced early October, the steering committee should start looking at
+this process by mid-July, planning to kick things off by mid-August. This
+process is articulated in [kubernetes/community/elections/README.md].
 
 ### Vacancies
 
@@ -102,3 +88,14 @@ treated as “brand free” activities.
 
 Members of the steering committee will graduate to becoming Emeritus members of
 the steering committee.
+
+## Bootstrap recusal
+
+Special note: The bootstrap committee pledges to recuse itself from any direct
+election activities while they serve as continuity members. Members of the
+bootstrap committee will refrain from endorsing or otherwise advocating for any
+candidate (with the exception that the members of the bootstrap committee may
+vote in the elections, and may choose to run in the 2019 election).
+
+[kubernetes/community/events/elections/README.md]: https://git.k8s.io/community/events/elections/README.md
+[voting exception form]: TBD
