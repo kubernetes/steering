@@ -49,7 +49,7 @@ We meet privately online at Wed 1pm PT every other week if there is quorum
 ## Projects
 
 - [Charter](charter.md)
-- [Backlog](backlog.md)
+- [Backlog](https://github.com/kubernetes/steering/projects/1)
 - [Relationship with the CNCF](cncf-and-k8s.md)
 
 ## Top-level Accounts
