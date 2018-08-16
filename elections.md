@@ -100,7 +100,7 @@ themselves from any form of electioneering, including campaigning, nominating,
 endorsing, or even asking people to run.
 
 [kubernetes/community/events/elections/README.md]: https://git.k8s.io/community/events/elections/README.md
-[voting exception form]: TBD
+[voting exception form]: https://www.surveymonkey.com/r/k8s-sc-election-2018
 
 [the SQL query used by devstats for developer stats]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
 [contributions to the Kubernetes project over the past year as defined by devstats]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
