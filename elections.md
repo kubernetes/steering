@@ -2,12 +2,14 @@
 
 This document outlines the process, for steering committee elections.
 
-
 ### Eligibility for voting
 
-Eligibility to vote for steering committee members will be defined by:
+Eligibility to vote for steering committee members is defined by:
 
-* People who have at least 50 [contributions to the Kubernetes project over the past year as defined by devstats](https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All) as of 2018-08-15
+* People who have at least 50 [contributions to the Kubernetes project over the past year as defined by devstats]
+  as of 2018-08-15. Contributions include GitHub events like creating issues,
+  creating pr's, reviewing PR's, commenting on issues, etc. For full details
+  see [the SQL query used by devstats for developer stats]
 * People who have submitted the [voting exception form] and are accepted by
   the election committee. Acceptance will be defined by a simple majority
   vote, and the criteria used during this process will be used to help refine
@@ -18,13 +20,15 @@ to each election.
 
 ### Eligibility for candidacy
 
-Anyone may nominate either themselves or someone else to be a candidate in the
-election. To be ratified as a candidate, the nominee must accept the nomination
-and three Members of Standing (including the nominator, if she/he has standing)
-from three different employers, must endorse the nomination.
+Eligibility for candidacy is defined by:
 
-Nominators are free to nominate as many people as they wish to. Members of
-Standing may endorse multiple nominees, but we expect endorsements to be in
+* Acceptance of a nomination, or self-nomination (anyone may nominate, anyone
+  may be nominated)
+* Sponsorship by three eligible voters from three different employers (the
+  candidate can self-sponsor if they are eligible to vote)
+
+Nominators are free to nominate as many people as they wish to. Eligible
+voters may endorse multiple nominees, but we expect endorsements to be in
 good faith.  If this turns out to be a problem, this will be reconsidered.
 
 ### Election process
@@ -89,13 +93,14 @@ treated as “brand free” activities.
 Members of the steering committee will graduate to becoming Emeritus members of
 the steering committee.
 
-## Bootstrap recusal
+## Steering committee and election officer recusal
 
-Special note: The bootstrap committee pledges to recuse itself from any direct
-election activities while they serve as continuity members. Members of the
-bootstrap committee will refrain from endorsing or otherwise advocating for any
-candidate (with the exception that the members of the bootstrap committee may
-vote in the elections, and may choose to run in the 2019 election).
+Steering committee members and the appointed election offers pledge to recuse
+themselves from any form of electioneering, including campaigning, nominating,
+endorsing, or even asking people to run.
 
 [kubernetes/community/events/elections/README.md]: https://git.k8s.io/community/events/elections/README.md
 [voting exception form]: TBD
+
+[the SQL query used by devstats for developer stats]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
+[contributions to the Kubernetes project over the past year as defined by devstats]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
