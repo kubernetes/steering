@@ -82,7 +82,7 @@ The steering committee picks election officers to operate the election and
 circulate a timeline for nominations, and the vote. At present because results
 are announced early October, the steering committee should start looking at
 this process by mid-July, planning to kick things off by mid-August. This
-process is articulated in [kubernetes/community/elections/README.md].
+process is articulated in [kubernetes/community/events/elections/README.md].
 
 ### Vacancies
 
