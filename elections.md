@@ -119,8 +119,7 @@ Steering committee members _may_ ask other contributors to consider running,
 and they _may_ vote, so long as this information is kept private.
 
 Steering committee members who intend to run for re-election _may_
-self-nominate and campaign for themselves, but are otherwise expected to
-adhere to this recusal.
+self-nominate but are otherwise expected to adhere to this recusal.
 
 
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
