@@ -2,6 +2,8 @@
 
 This document outlines the process, for steering committee elections.
 
+### For the 2018 election check the [2018 Kubernetes Election Voter's Guide][voter-guide]
+
 ### Eligibility for voting
 
 Eligibility to vote for steering committee members is defined by:
@@ -32,6 +34,9 @@ Eligibility for candidacy is defined by:
   may be nominated)
 * Endorsement by three eligible voters from three different employers (the
   candidate can self-endorse if they are eligible to vote)
+
+Check the [2018 Kubernetes Election Voter's Guide][candidacy] for the exact 
+nomination procedure. 
 
 Nominators are free to nominate as many people as they wish to. Eligible
 voters may endorse multiple nominees, but we expect endorsements to be in
@@ -134,3 +139,5 @@ self-nominate but are otherwise expected to adhere to this recusal.
 
 
 [bootstramp committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
+[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2018
+[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2018#candidacy-process
