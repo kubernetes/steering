@@ -4,39 +4,40 @@
 
 See the [Steering Committee Charter](charter.md) for specific committee structure information.
 
+### Term ends in October 2020
+
+| Name | Profile | Affiliation | Term Length |
+| ---- | ------- | ----------- | ----------- |
+| Aaron Crickenberger | @spiffxp | Google | 2y |
+| Davanum Srinivas | @dims | Huawei | 2y |
+| Timothy St. Clair | @timothysc | Heptio | 2y |
+
 ### Term ends in October 2019
 
 | Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- | 
+| ---- | ------- | ----------- | ----------- |
 | Derek Carr | @derekwaynecarr | Red Hat | 2y |
 | Michelle Noorali | @michelleN | Microsoft | 2y |
 | Phillip Wittrock | @pwittrock | Google | 2y |
-
-### Term ends in October 2018
-
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- | 
-| Aaron Crickenberger | @spiffxp | Google | 1y | 
-| Quinton Hoole | @quinton-hoole | Huawei R&D | 1y | 
-| Timothy St. Clair | @timothysc | Heptio | 1y | 
 
 ### Initial Bootstrap Committee
 
 Term ends in October 2019, positions to permanently close to leave final committee size to 7, to be filled out by elections every October.
 
 | Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- | 
+| ---- | ------- | ----------- | ----------- |
 | Joe Beda | @joebeda | Heptio | 2y |
 | Brendan Burns | @brendandburns | Microsoft | 2y |
 | Clayton Coleman | @smarterclayton | Red Hat | 2y |
-| Brian Grant | @bgrant0607 | Google | 2y | 
+| Brian Grant | @bgrant0607 | Google | 2y |
 | Sarah Novotny | @sarahnovotny | Google | 2y |
-| Brandon Philips | @philips | Red Hat | 2y | 
+| Brandon Philips | @philips | Red Hat | 2y |
 
 ### Emeritus
 
 | Name | Profile |
 | ---- | ------- |
+| Quinton Hoole | @quinton-hoole-2 |
 | Tim Hockin | @thockin |
 
 ## Meetings
