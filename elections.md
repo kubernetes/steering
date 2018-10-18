@@ -89,6 +89,17 @@ are announced early October, the steering committee should start looking at
 this process by mid-July, planning to kick things off by mid-August. This
 process is articulated in [kubernetes/community/events/elections/README.md].
 
+### Election officer selection
+
+The steering committee should choose three election officers, ideally by the
+following criteria, so as to promote healthy rotation and diversity:
+
+- election officers must be eligible to vote
+- two election officers should have served before
+- one election officer should have never served before
+- each officer should come from a different company to maintain 1/3 maximal
+  representation
+
 ### Vacancies
 
 In the event of a resignation or other loss of a [bootstrap committee member],
