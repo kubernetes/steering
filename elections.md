@@ -85,9 +85,23 @@ participation in steering committee affairs.
 
 The steering committee picks election officers to operate the election and
 circulate a timeline for nominations, and the vote. At present because results
-are announced early October, the steering committee should start looking at
-this process by mid-July, planning to kick things off by mid-August. This
-process is articulated in [kubernetes/community/events/elections/README.md].
+are announced early October, the steering committee should consider the
+following schedule:
+
+- election officers selected by July 1
+- voter eligibility criteria chosen by Aug 1
+- results announced at first community meeting after Oct 1
+
+### Election officer selection
+
+The steering committee should choose three election officers, ideally by the
+following criteria, so as to promote healthy rotation and diversity:
+
+- election officers must be eligible to vote
+- two election officers should have served before
+- one election officer should have never served before
+- each officer should come from a different company to maintain 1/3 maximal
+  representation
 
 ### Vacancies
 
