@@ -1,52 +1,78 @@
-﻿# Kubernetes Steering Committee Charter
+﻿ # Kubernetes Steering Committee Charter
 
-This document outlines the mission, scope, and objectives of the Kubernetes steering committee.
+This document outlines the mission, scope, and objectives of the Kubernetes
+Steering Committee.
 
 ## Mission
 
-The role of the steering committee is to instantiate the formal process
-for Kubernetes governance. In addition to defining the governance
-process, it is important to provide a means for iterating on processes 
-defined by the steering committee.  The role of the steering committee 
-is to be a live, responsive body that can refactor and reform as necessary 
-to adapt to a changing project and community.
+The Kubernetes Steering Committee is the governing body of the Kubernetes
+project, providing decision-making and oversight pertaining to the Kubernetes
+project bylaws, sub-organizations, and financial planning.  The Steering 
+Committee also defines the project values and structure.
 
-## Scope and Objectives
-The Steering Committee has a set of rights and responsibilities including the
-following:
+## How
 
-* Decide which project subgroups are responsible for each area of the project
-  and to delegate appropriate authority those groups.
-* Define, evolve, and defend the vision, values, mission, and scope of the
-  project.
-* Charter and refine policy for defining new community groups (including
-  Special Interest Groups, Working Groups, and Committees), and establish
-  transparency and accountability policies for such groups
-* Define, evolve, and defend a Code of Conduct, which must include a neutral,
-  unbiased process for resolving conflicts
-* Define and evolve project governance structures and policies, including how
-  contributors become committers/maintainers, approvers, reviewers, members,
-  etc.
-* Decide, for the purpose of elections, who is a member of standing of the
-  Kubernetes project, and what privileges that entails
-* Decide which sub-projects are part of the Kubernetes project, including
-  accepting new sub-projects and pruning existing sub-projects to maintain
-  community focus
-* Decide how and when official releases of Kubernetes artifacts are made and
-  what they include
-* Control access to, establish processes regarding, and provide a final
-  escalation path for any Kubernetes repository, which currently includes all
-  repositories under the github organizations kubernetes, kubernetes-incubator,
-  kubernetes-security, kubernetes-client, etc. and is expected to expand in the
-  future
-* Control and delegate access to and establish processes regarding other
-  project resources/assets, including artifact repositories, build and test
-  infrastructure, web sites and their domains, blogs, social-media accounts,
-  etc.
-* Define what a conformant Kubernetes cluster is as part of any certification
-  process
-* Manage the Kubernetes brand to decide which things can be called “Kubernetes”
-  and how that mark can be used in relation to other efforts or vendors.
-* Declare a release, so that the committee can ensure quality/feature/other
-  requirements are met.
+* Adapt the role and structure of the Steering Committee as needed to meet the
+  needs of the project.
+* Responsibilities not explicitly delegated to other
+  parties<sup>[2](#footnote2)</sup> through their charters reside with
+  the Steering Committee.
+* All management<sup>[1](#footnote1)</sup> responsibilities should be delegated to other
+  parties<sup>[2](#footnote2)</sup>.
+* All technical responsibilities should be delegated to SIGs (i.e. the SC shouldn't
+  retain technical responsibilities itself).
+
+## Direct responsibilities of the Steering Committee
+
+The following responsibilities belong directly to the Steering Committee.
+
+* Through the chartering review process, delegate ownership of, responsibility for
+  and authority over areas of the project to specific entities<sup>[2](#footnote2)</sup>.
+* Define, evolve, and defend the non-technical vision / mission and the values
+  of the project.
+* Charter and refine policy for defining new community groups<sup>[3](#footnote3)</sup>,
+  and establish transparency and accountability policies for such groups
+* Define and evolve project and group<sup>[3](#footnote3)</sup> governance
+  structures and policies<sup>[4](#footnote4)</sup>.
+* Act as a final non-technical escalation point for any Kubernetes repository<sup>[5](#footnote5)</sup>.
 * Request funds and other support from the CNCF (e.g. marketing, press, etc.)
+* Define and enforce requirements for community groups<sup>[3](#footnote3)</sup>
+  to be in good standing such as having an approved charter.
+
+### Not yet delegated responsibilities
+
+The following responsibilities belong to the Steering Committe, but may be delegated in the future.
+
+* Coordinate with the CNCF regarding usage of the Kubernetes brand and deciding
+  which things can be called “Kubernetes”, as well as how that mark can be used
+  in relation to other efforts or vendors.
+* Decide, for the purpose of elections, who is a member of standing of the
+  Kubernetes project, and what privileges that entails.
+* Control and delegate access to and establish processes regarding
+  any Kubernetes repository<sup>[5](#footnote5)</sup> 
+* Control and delegate access to and establish processes regarding
+  project resources/assets<sup>[6](#footnote6)</sup>  
+
+---
+
+<a name="footnote1">1</a>: Decisions and work pertaining to the daily 
+operations of the project.
+
+<a name="footnote2">2</a>: Such as individuals, Special Interest Groups and
+Committees
+
+<a name="footnote3">3</a>: Such as Special Interest Groups, Working Groups,
+and Committees
+
+<a name="footnote4">4</a>: including how contributors become 
+committers/maintainers, approvers, reviewers, members, etc.  As well as 
+responsibilities associated with these role
+
+<a name="footnote5">5</a>: Currently includes all repositories under the 
+github organizations kubernetes, kubernetes-sigs, kubernetes-incubator, 
+kubernetes-security, kubernetes-client, etc. and is expected to expand in the
+future.
+
+<a name="footnote6"6</a>: Including artifact repositories, build and test
+infrastructure, web sites and their domains, blogs, social-media accounts,
+etc.
