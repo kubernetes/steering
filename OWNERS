@@ -1,4 +1,4 @@
-# See the OWNERS docs: https://git.k8s.io/community/docs/devel/owners.md
+# See the OWNERS docs at https://go.k8s.io/owners
 
 approvers:
   - steering-committee
