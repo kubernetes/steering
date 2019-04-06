@@ -37,7 +37,7 @@ Term ends in October 2019, positions to permanently close to leave final committ
 
 | Name | Profile |
 | ---- | ------- |
-| Quinton Hoole | @quinton-hoole-2 |
+| Quinton Hoole | @quinton-hoole |
 | Tim Hockin | @thockin |
 
 ## Meetings
