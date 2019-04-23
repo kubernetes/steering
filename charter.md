@@ -1,4 +1,4 @@
-﻿ # Kubernetes Steering Committee Charter
+﻿# Kubernetes Steering Committee Charter
 
 This document outlines the mission, scope, and objectives of the Kubernetes
 Steering Committee.
@@ -52,6 +52,16 @@ The following responsibilities belong to the Steering Committe, but may be deleg
   any Kubernetes repository<sup>[5](#footnote5)</sup> 
 * Control and delegate access to and establish processes regarding
   project resources/assets<sup>[6](#footnote6)</sup>  
+
+## Quorum
+
+Steering committee members are generally expected to attend every meeting. We
+use the following guidelines to determine whether we have reached quorum and
+are able to proceed with a meeting.
+
+* Round qourum up if total number of members is odd
+* Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
+* Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
 
 ---
 
