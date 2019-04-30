@@ -10,7 +10,7 @@ See the [Steering Committee Charter](charter.md) for specific committee structur
 | ---- | ------- | ----------- | ----------- |
 | Aaron Crickenberger | @spiffxp | Google | 2y |
 | Davanum Srinivas | @dims | Huawei | 2y |
-| Timothy St. Clair | @timothysc | Heptio | 2y |
+| Timothy St. Clair | @timothysc | VMware | 2y |
 
 ### Term ends in October 2019
 
@@ -26,7 +26,7 @@ Term ends in October 2019, positions to permanently close to leave final committ
 
 | Name | Profile | Affiliation | Term Length |
 | ---- | ------- | ----------- | ----------- |
-| Joe Beda | @joebeda | Heptio | 2y |
+| Joe Beda | @joebeda | VMware | 2y |
 | Brendan Burns | @brendandburns | Microsoft | 2y |
 | Clayton Coleman | @smarterclayton | Red Hat | 2y |
 | Brian Grant | @bgrant0607 | Google | 2y |
