@@ -83,6 +83,6 @@ github organizations kubernetes, kubernetes-sigs, kubernetes-incubator,
 kubernetes-security, kubernetes-client, etc. and is expected to expand in the
 future.
 
-<a name="footnote6"6</a>: Including artifact repositories, build and test
+<a name="footnote6">6</a>: Including artifact repositories, build and test
 infrastructure, web sites and their domains, blogs, social-media accounts,
 etc.
