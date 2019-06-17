@@ -9,7 +9,7 @@ See the [Steering Committee Charter](charter.md) for specific committee structur
 | Name | Profile | Affiliation | Term Length |
 | ---- | ------- | ----------- | ----------- |
 | Aaron Crickenberger | @spiffxp | Google | 2y |
-| Davanum Srinivas | @dims | Huawei | 2y |
+| Davanum Srinivas | @dims | VMware | 2y |
 | Timothy St. Clair | @timothysc | VMware | 2y |
 
 ### Term ends in October 2019
