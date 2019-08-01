@@ -6,15 +6,16 @@ To establish and administer a fund for members of the Kubernetes upstream contri
 
 ## Requirements
 
- - Candidates must be a [member of the Kubernetes GitHub organization][membership] or working towards it. Exceptions: TODO
+ - Candidates must be a [member of the Kubernetes GitHub organization][membership] or working towards it. Exceptions may be granted at the discretion of the steering committee. 
  - Those requesting funds must indicate that they do not have funding available from another source, such as an employer or the event itself that might cover costs for presenters.
+ - Candidates may request partial funding for a specific purpose, for example "hotel only" or some other part of a trip. 
 
 ## Process
 
 Submit an issue to a Kubernetes Travel Fund Issue-Only repository. 
 Your issue will go into a private repository where only TODO: $certain_group can see your information due to privacy.
 
-Requests must be made three months before the event. Requests submitted after that will not be approved.
+Requests must be made at least three months before the event. For large events the travel fund coordinators may set a deadline ahead off time for requests. Requests submitted after that will not be approved.
 
 It is strongly recommended that you submit your request far enough in advance to get approval before making relevant expenditures.
 Review of requests will take at least 72 hours and may take considerably longer. Note, with limited funds available, approval is not guaranteed.
@@ -33,6 +34,7 @@ You'll be asked:
  - The location, dates of the event and where you will be traveling from.
  - The presentation you intend to give, if applicable.
  - The size of the stipend you wish to receive.
+   - The stipend could be used for meals, travel expenses, and other conference-related expenses. It should NOT be used as personal spending money. 
 
 ### Approval
 
@@ -74,8 +76,7 @@ After the trip, participants are encouraged to write up a blog post or use simil
 
 ## 2019 Allocation
 
-The request from Technical Steering Committee and the Community Committee for a 2019 joint travel fund
-was approved in the amount of TODO: $xx
+The request from Technical Steering Committee and the Community Committee for a 2019 joint travel fund was approved in the amount of TODO: $xx
 
 Please direct any questions or concerns about the travel fund to `contributors@kubernetes.io`
 
