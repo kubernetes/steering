@@ -12,9 +12,6 @@ To establish and administer a fund for members of the Kubernetes upstream contri
 
 ## Process
 
-Submit an issue to a Kubernetes Travel Fund Issue-Only repository. 
-Your issue will go into a private repository where only TODO: $certain_group can see your information due to privacy.
-
 Requests must be made at least three months before the event. For large events the travel fund coordinators may set a deadline ahead off time for requests. Requests submitted after that will not be approved.
 
 It is strongly recommended that you submit your request far enough in advance to get approval before making relevant expenditures.
@@ -26,7 +23,8 @@ For all events, it is recommended to apply for a visa at least 6 months prior.
 
 ### Requesting Travel Funds
 
-Open an issue template, the results go to a private repo that only TODO: $certain_group of people can see.
+Fill out a request in the TODO: travel form. 
+Your application will only be visible to TODO: $certain_group due to privacy.
         
 You'll be asked:
  - Your Name
