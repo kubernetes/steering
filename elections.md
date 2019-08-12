@@ -2,7 +2,7 @@
 
 This document outlines the process, for steering committee elections.
 
-### For the 2018 election check the [2018 Kubernetes Election Voter's Guide][voter-guide]
+### For the 2019 election check the [2019 Kubernetes Election Voter's Guide][voter-guide]
 
 ### Eligibility for voting
 
@@ -45,7 +45,7 @@ good faith.  If this turns out to be a problem, this will be reconsidered.
 ### Election process
 
 Elections will be held using time-limited [Condorcet] ranking on [CIVS]
-using the [Schulze method]. The top vote getters will be elected to the open
+using the [IRV method]. The top vote getters will be elected to the open
 seats.
 
 ### Maximal representation
@@ -89,8 +89,8 @@ are announced early October, the steering committee should consider the
 following schedule:
 
 - election officers selected by July 1
-- voter eligibility criteria chosen by Aug 1
-- results announced at first community meeting after Oct 1
+- voter eligibility criteria chosen by Aug 23
+- results announced at first community meeting after Oct 4
 
 ### Election officer selection
 
@@ -140,18 +140,16 @@ and they _may_ vote, so long as this information is kept private.
 Steering committee members who intend to run for re-election _may_
 self-nominate but are otherwise expected to adhere to this recusal.
 
-
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
 [CIVS]: http://civs.cs.cornell.edu/
-[Schulze method]: https://en.wikipedia.org/wiki/Schulze_method
+[IRV method]: https://en.wikipedia.org/wiki/Instant-runoff_voting
 
 [kubernetes/community/events/elections/README.md]: https://git.k8s.io/community/events/elections/README.md
-[voting exception form]: https://www.surveymonkey.com/r/k8s-sc-election-2018
+[voting exception form]: https://www.surveymonkey.com/r/k8s-sc-election-2019
 
 [devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
 [devstats-dashboard]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
 
-
 [bootstramp committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
-[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2018
-[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2018#candidacy-process
+[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2019
+[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2019#candidacy-process
