@@ -84,13 +84,21 @@ participation in steering committee affairs.
 ## Election schedule and operation
 
 The steering committee picks election officers to operate the election and
-circulate a timeline for nominations, and the vote. At present because results
-are announced early October, the steering committee should consider the
-following schedule:
+circulate a timeline for nominations, and the vote. The steering committee
+should consider the following rough schedule:
 
-- election officers selected by July 1
-- voter eligibility criteria chosen by Aug 23
-- results announced at first community meeting after Oct 4
+- End of July 
+  - Election officers 
+  - Voter eligibility criteria
+  - Election preparation
+- September   
+  - Nomination period and election
+- October  
+  - Conclusion of Election
+  - Results announced at first community meeting after the election concludes
+
+The election officers will choose exact dates for each step and propose the
+final schedule to steering per the [election procedure].
 
 ### Election officer selection
 
@@ -102,6 +110,8 @@ following criteria, so as to promote healthy rotation and diversity:
 - one election officer should have never served before
 - each officer should come from a different company to maintain 1/3 maximal
   representation
+
+Election officers follow the [election procedure] to administer the election.
 
 ### Vacancies
 
@@ -144,7 +154,7 @@ self-nominate but are otherwise expected to adhere to this recusal.
 [CIVS]: http://civs.cs.cornell.edu/
 [IRV method]: https://en.wikipedia.org/wiki/Instant-runoff_voting
 
-[kubernetes/community/events/elections/README.md]: https://git.k8s.io/community/events/elections/README.md
+[election procedure]: https://git.k8s.io/community/events/elections/README.md
 [voting exception form]: https://www.surveymonkey.com/r/k8s-sc-election-2019
 
 [devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
