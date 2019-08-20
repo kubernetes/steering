@@ -9,15 +9,15 @@ This document outlines the process, for steering committee elections.
 Eligibility to vote for steering committee members is defined by:
 
 * People who had at least 50 contributions to the Kubernetes project over
-  the past year, according to a snapshot taken 2018-08-15 of the data driving
-  the [devstats developer activity counts dashboard][devstats-dashboard],
+  the past year, according to a snapshot taken 2019-08-15 of the data driving
+  the [devstats developer activity counts dashboard][devstats-dashboard].
   Contributions include GitHub events like creating issues, creating pr's,
   reviewing PR's, commenting on issues, etc. For full details see
   [the SQL query used by devstats for developer activity counts][devstats-sql].
 
 * People who have submitted the [voting exception form] and are accepted by
   the election committee. We *explicitly* believe the above heuristic will be
-  innacurate and not represent the entire community.  Thus we provide the form
+  inaccurate and not represent the entire community. Thus we provide the form
   for those who have contributed to the project but may not meet the above
   criteria.  Acceptance of a form submission will be defined by a simple
   majority vote, and the criteria used during this process will be used to
@@ -35,7 +35,7 @@ Eligibility for candidacy is defined by:
 * Endorsement by three eligible voters from three different employers (the
   candidate can self-endorse if they are eligible to vote)
 
-Check the [2018 Kubernetes Election Voter's Guide][candidacy] for the exact 
+Check the [2019 Kubernetes Election Voter's Guide][candidacy] for the exact
 nomination procedure. 
 
 Nominators are free to nominate as many people as they wish to. Eligible
@@ -160,6 +160,6 @@ self-nominate but are otherwise expected to adhere to this recusal.
 [devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
 [devstats-dashboard]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
 
-[bootstramp committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
+[bootstrap committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
 [voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2019
 [candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2019#candidacy-process
