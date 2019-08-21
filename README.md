@@ -42,8 +42,12 @@ Term ends in October 2019, positions to permanently close to leave final committ
 
 ## Meetings
 
-We meet publicly online at Wed 1pm PT every other week if there is [quorum](charter.md#quorum)
+### Schedule and Cadence
+We have two meetings every month.
+- We hold an open and recorded online meeting where the community is welcome to join the first Wednesday of every month if there is [quorum](charter.md#quorum).
+- We have a closed but recorded online meeting every 3rd Wednesday of the month at 1pm PT if there is [quorum](charter.md#quorum).
 
+### Resources
 - [Recordings of our meetings](https://www.youtube.com/watch?v=YAzgJRQxsdc&list=PL69nYSiGNLP1yP1B_nd9-drjoxp0Q14qM) are publicly available on youtube
 - [Meeting notes](https://bit.ly/k8s-steering-wd) are available to members of the [kubernetes-dev mailing list](https://groups.google.com/forum/#!forum/kubernetes-dev)
 
