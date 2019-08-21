@@ -63,6 +63,14 @@ are able to proceed with a meeting.
 * Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
 * Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
 
+## Inclusive Leadership Training
+
+Members of the committee must take an inclusive speaker training
+[course](https://training.linuxfoundation.org/training/inclusive-speaker-orientation/)
+in support of our community values.  Members are encouraged to report
+completion of the course as part of on-boarding within a reasonable period
+of time.
+
 ---
 
 <a name="footnote1">1</a>: Decisions and work pertaining to the daily 
