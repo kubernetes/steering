@@ -59,7 +59,7 @@ Steering committee members are generally expected to attend every meeting. We
 use the following guidelines to determine whether we have reached quorum and
 are able to proceed with a meeting.
 
-* Round qourum up if total number of members is odd
+* Round quorum up if total number of members is odd
 * Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
 * Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
 
