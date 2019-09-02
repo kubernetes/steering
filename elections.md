@@ -139,7 +139,7 @@ treated as “brand free” activities.
 
 ## Steering Committee and Election Officer Recusal
 
-Currently serving steering committee members and the appointed election offers
+Currently serving steering committee members and the appointed election officers
 pledge to recuse themselves from any form of electioneering, including
 campaigning, nominating, or endorsing. We would prefer that the community
 decide without our heavy influence.
