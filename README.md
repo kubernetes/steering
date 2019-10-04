@@ -63,7 +63,7 @@ The steering committee delegates ownership of various Kubernetes community accou
 
 | Account | Owner |
 | ------- | ----- |
-| sc1@kubernetes.io | Brandon Philips |
+| sc1@kubernetes.io | Davanum Srinivas |
 | sc2@kubernetes.io | Joe Beda |
 | sc3@kubernetes.io | Aaron Crickenberger |
 
