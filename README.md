@@ -2,43 +2,41 @@
 
 ## Members
 
-See the [Steering Committee Charter](charter.md) for specific committee structure information.
+The Steering Committee is a 7 member body, overseeing the governance of the
+Kubernetes project. See the [Steering Committee Charter](charter.md) for
+specific committee structure information.
+
+### Term ends in October 2021
+
+| Name | Profile | Affiliation | Term Length |
+| ---- | ------- | ----------- | ----------- |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat | 2y |
+| Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** | Red Hat | 2y |
+| Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** | Loodse | 2y |
+| Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Google | 2y |
 
 ### Term ends in October 2020
 
 | Name | Profile | Affiliation | Term Length |
 | ---- | ------- | ----------- | ----------- |
-| Aaron Crickenberger | @spiffxp | Google | 2y |
-| Davanum Srinivas | @dims | VMware | 2y |
-| Timothy St. Clair | @timothysc | VMware | 2y |
-
-### Term ends in October 2019
-
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Derek Carr | @derekwaynecarr | Red Hat | 2y |
-| Michelle Noorali | @michelleN | Microsoft | 2y |
-| Phillip Wittrock | @pwittrock | Google | 2y |
-
-### Initial Bootstrap Committee
-
-Term ends in October 2019, positions to permanently close to leave final committee size to 7, to be filled out by elections every October.
-
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Joe Beda | @joebeda | VMware | 2y |
-| Brendan Burns | @brendandburns | Microsoft | 2y |
-| Clayton Coleman | @smarterclayton | Red Hat | 2y |
-| Brian Grant | @bgrant0607 | Google | 2y |
-| Sarah Novotny | @sarahnovotny | Google | 2y |
-| Brandon Philips | @philips | Red Hat | 2y |
+| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** | Google | 2y |
+| Davanum Srinivas | **[@dims](https://github.com/dims)** | VMware | 2y |
+| Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** | VMware | 2y |
 
 ### Emeritus
 
 | Name | Profile |
 | ---- | ------- |
-| Quinton Hoole | @quinton-hoole |
-| Tim Hockin | @thockin |
+| Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
+| Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
+| Joe Beda | **[@jbeda](https://github.com/jbeda)** |
+| Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
+| Brandon Philips | **[@philips](https://github.com/philips)** |
+| Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
+| Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
+| Sarah Novotny | **[@sarahnovotny](https://github.com/sarahnovotny)** |
+| Clayton Coleman | **[@smarterclayton](https://github.com/smarterclayton)** |
+| Tim Hockin | **[@thockin](https://github.com/thockin)** |
 
 ## Meetings
 
