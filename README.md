@@ -42,8 +42,8 @@ specific committee structure information.
 
 ### Schedule and Cadence
 We have two meetings every month.
-- We hold an open and recorded online meeting where the community is welcome to join the first Wednesday of every month if there is [quorum](charter.md#quorum).
-- We have a closed but recorded online meeting every 3rd Wednesday of the month at 1pm PT if there is [quorum](charter.md#quorum).
+- We hold an open and recorded online meeting where the community is welcome to join the first Monday at 11am PT of every month if there is [quorum](charter.md#quorum).
+- We have a closed but recorded online meeting every 3rd Monday of the month at 11am PT if there is [quorum](charter.md#quorum).
 
 ### Resources
 - [Recordings of our meetings](https://www.youtube.com/watch?v=YAzgJRQxsdc&list=PL69nYSiGNLP1yP1B_nd9-drjoxp0Q14qM) are publicly available on youtube
