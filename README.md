@@ -69,4 +69,5 @@ The steering committee delegates ownership of various Kubernetes community accou
 
 ## Contact
 
-If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering)).
+If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
+or reach out in [#steering-committee](https://kubernetes.slack.com/messages/steering-committee) on Slack.
