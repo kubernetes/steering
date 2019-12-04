@@ -64,7 +64,7 @@ The steering committee delegates ownership of various Kubernetes community accou
 | Account | Owner |
 | ------- | ----- |
 | sc1@kubernetes.io | Davanum Srinivas |
-| sc2@kubernetes.io | Joe Beda |
+| sc2@kubernetes.io | Paris Pittman |
 | sc3@kubernetes.io | Aaron Crickenberger |
 
 ## Contact
