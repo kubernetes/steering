@@ -53,7 +53,17 @@ We have two meetings every month.
 
 - [Charter](charter.md)
 - [Backlog](https://github.com/kubernetes/steering/projects/1)
-- [Relationship with the CNCF](cncf-and-k8s.md)
+
+## CNCF Representative
+
+There are various cases when the Steering Committee may require interactions with CNCF, so a dedicated person from the CNCF Staff acts a primary communication point between Steering and CNCF.
+
+| Name | Profile |
+| ---- | ------- |
+| Ihor Dvoretskyi | **[@idvoretskyi](https://github.com/idvoretskyi)** |
+
+For more details on the relationship between Steering and CNCF, please see a
+dedicated document [Relationship with the CNCF](cncf-and-k8s.md).
 
 ## Top-level Accounts
 
