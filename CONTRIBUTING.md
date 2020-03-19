@@ -1,13 +1,11 @@
-# Contributing to the steering repo
+# Contributing to Steering  
+This repo and the committee itself   
 
-This repo is for the use of the steering committee to organize itself and record decisions and processes.
+This repo is for the use of the steering committee to organize itself and record
+ decisions and processes.
 
-The right mode to contribute depends on the type of change that you are proposing.
-
-# Non-members
-
-Submit a PR and then send email to steering@kubernetes.io.
-To communicatie sensitive items with the steering committee privately, send an email to steering-private@kubernetes.io.
+The right mode to contribute depends on the type of change that you are
+proposing or engagement level you are seeking with the committee.
 
 # Steering Committee Members
 
@@ -28,3 +26,23 @@ If it is clear that there is no disagreement feel free to self merge.
 Create a PR.
 Discuss at length and have decisions ratified by the larger group.
 Ensure there is live discussion by a quorum of members.
+
+# Non-members
+
+- Open an issue in this repo and follow up an email to steering@kubernetes.io.
+We do watch the repo but this gives us a better heads up to prepare in case we
+need to find or ask for more information.  
+- If you need guidance (example: SIG Chairs, funding*) or have a governance
+discussion topic, please join us at our monthly public meeting! By joining the
+mailing list, you'll also get the calendar invite. Check our [README] to get the
+ info, too.
+  - In order for us to best serve you, please email us steering@kubernetes.io
+  with the topic you'd like to address, supporting documentation and context,
+  the solution you are seeking (if known) and what month you'd like to visit.
+- To communicate sensitive items with the steering committee privately, send an
+email to steering-private@kubernetes.io.
+
+*all funding inquires should start here -> https://github.com/kubernetes/funding 
+
+
+[README]: ./README.md
