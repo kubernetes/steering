@@ -12,7 +12,7 @@ specific committee structure information.
 | ---- | ------- | ----------- | ----------- |
 | Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat | 2y |
 | Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** | Red Hat | 2y |
-| Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** | Loodse | 2y |
+| Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** | VMware | 2y |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Google | 2y |
 
 ### Term ends in October 2020
@@ -21,7 +21,7 @@ specific committee structure information.
 | ---- | ------- | ----------- | ----------- |
 | Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** | Google | 2y |
 | Davanum Srinivas | **[@dims](https://github.com/dims)** | VMware | 2y |
-| Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** | VMware | 2y |
+| Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** | Microsoft | 6 months |
 
 ### Emeritus
 
@@ -37,6 +37,7 @@ specific committee structure information.
 | Sarah Novotny | **[@sarahnovotny](https://github.com/sarahnovotny)** |
 | Clayton Coleman | **[@smarterclayton](https://github.com/smarterclayton)** |
 | Tim Hockin | **[@thockin](https://github.com/thockin)** |
+| Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** |
 
 ## Meetings
 
