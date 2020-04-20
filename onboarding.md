@@ -12,12 +12,7 @@ members and off-board emeritus members.
     GitHub team
   - [ ] [kubernetes/funding]: `OWNERS_ALIASES`
   - [ ] [kubernetes/kubernetes-template-project]: `OWNERS_ALIASES`
-
-- [ ] Add new members with Owner access to the `steering-private`
-  mailing list and remove emeritus members.
-
-- [ ] Grant new members Owner access to the public steering mailing
-  list and revoke access from emeritus members.
+  - [ ] [kubernetes/k8s.io] - update steering@kubernetes.io and steering-private@kubernetes.io in `groups/groups.yaml`
 
 - [ ] Add new members to the `steering-private` slack channel and
   remove emeritus members.
@@ -42,5 +37,6 @@ members and off-board emeritus members.
 [kubernetes/org]: https://github.com/kubernetes/org
 [kubernetes/funding]: https://github.com/kubernetes/funding
 [kubernetes/kubernetes-template-project]: https://github.com/kubernetes/kubernetes-template-project
+[kubernetes/k8s.io]: https://github.com/kubernetes/k8s.io
 [cncf-kubernetes-maintainers]: https://lists.cncf.io/g/cncf-kubernetes-maintainers
 [top-level account]: /README.md#top-level-accounts
