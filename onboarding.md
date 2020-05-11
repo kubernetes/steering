@@ -25,8 +25,10 @@ members and off-board emeritus members.
 - [ ] If a GSuite [top-level account] is owned by an emeritus member,
   transfer it to an existing member.
 
-- [ ] If Zoom license credentials were owned by a majority of emeritus
-  members, share them with exisiting members.
+- [ ] If [Zoom license credentials] were owned by a majority of emeritus
+  members, share them with exisiting members. The Zoom host key is
+  accessible to all members and is a pinned message in the `steering-private`
+  slack channel.
 
 - [ ] Set up a private meeting to go over backlog.
 
@@ -40,3 +42,4 @@ members and off-board emeritus members.
 [kubernetes/k8s.io]: https://github.com/kubernetes/k8s.io
 [cncf-kubernetes-maintainers]: https://lists.cncf.io/g/cncf-kubernetes-maintainers
 [top-level account]: /README.md#top-level-accounts
+[Zoom license credentials]: /README.md#zoom-admins

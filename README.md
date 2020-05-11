@@ -78,6 +78,17 @@ The steering committee delegates ownership of various Kubernetes community accou
 | sc2@kubernetes.io | Paris Pittman |
 | sc3@kubernetes.io | Aaron Crickenberger |
 
+## Zoom Admins
+
+The following committee members have zoom credentials for the `steering-private@kubernetes.io` account.
+However, all Steering Committee members have access to the zoom host key.
+
+| Name | Profile |
+| ---- | ------- |
+| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
+| Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
+
 ## Contact
 
 If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
