@@ -53,7 +53,12 @@ We have two meetings every month.
 ## Projects
 
 - [Charter](charter.md)
-- [Backlog](https://github.com/kubernetes/steering/projects/1)
+- [Backlog](https://github.com/orgs/kubernetes/projects/40)
+
+## Contact
+
+If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
+or reach out in [#steering-committee](https://kubernetes.slack.com/messages/steering-committee) on Slack.
 
 ## CNCF Representative
 
@@ -88,8 +93,3 @@ However, all Steering Committee members have access to the zoom host key.
 | Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
 | Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
-
-## Contact
-
-If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
-or reach out in [#steering-committee](https://kubernetes.slack.com/messages/steering-committee) on Slack.
