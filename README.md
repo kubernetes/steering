@@ -53,7 +53,12 @@ We have two meetings every month.
 ## Projects
 
 - [Charter](charter.md)
-- [Backlog](https://github.com/kubernetes/steering/projects/1)
+- [Backlog](https://github.com/orgs/kubernetes/projects/40)
+
+## Contact
+
+If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
+or reach out in [#steering-committee](https://kubernetes.slack.com/messages/steering-committee) on Slack.
 
 ## CNCF Representative
 
@@ -78,7 +83,13 @@ The steering committee delegates ownership of various Kubernetes community accou
 | sc2@kubernetes.io | Paris Pittman |
 | sc3@kubernetes.io | Aaron Crickenberger |
 
-## Contact
+## Zoom Admins
 
-If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
-or reach out in [#steering-committee](https://kubernetes.slack.com/messages/steering-committee) on Slack.
+The following committee members have zoom credentials for the `steering-private@kubernetes.io` account.
+However, all Steering Committee members have access to the zoom host key.
+
+| Name | Profile |
+| ---- | ------- |
+| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
+| Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
