@@ -13,7 +13,7 @@ specific committee structure information.
 | Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat | 2y |
 | Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** | Red Hat | 2y |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** | VMware | 2y |
-| Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Google | 2y |
+| Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Apple | 2y |
 
 ### Term ends in October 2020
 
