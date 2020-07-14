@@ -3,7 +3,8 @@
 This document covers steps needed to onboard new Steering Committee
 members and off-board emeritus members.
 
-- [ ] All new members must complete the [Inclusive Leadership Training].
+- [ ] All new members must complete the [Inclusive Leadership Training]
+within 30 days from the date of their appointment.
 
 - [ ] Update the following files in the respective repos:
   - [ ] [kubernetes/steering]: `OWNERS_ALIASES` and `README.md`

@@ -67,9 +67,10 @@ are able to proceed with a meeting.
 
 Members of the committee must take an inclusive speaker training
 [course](https://training.linuxfoundation.org/training/inclusive-speaker-orientation/)
-in support of our community values.  Members are encouraged to report
-completion of the course as part of on-boarding within a reasonable period
-of time.
+in support of our community values.  Members are required to report
+completion of the course as part of on-boarding within 30 days from
+the date of their appointment.
+
 
 ---
 
