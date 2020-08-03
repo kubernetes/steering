@@ -111,7 +111,13 @@ following criteria, so as to promote healthy rotation and diversity:
 - each officer should come from a different company to maintain 1/3 maximal
   representation
 
-Election officers follow the [election procedure] to administer the election.
+Election officers follow the [election procedure] to administer the election.  
+
+History of election officers:  
+2017: castrojo and parispittman  
+2018: castrojo, parispittman, idvoretskyi  
+2019: mrbobbytables, castrojo, idvoretskyi  
+2020: jberkus, jdumars, idvoretskyi    
 
 ### Vacancies
 
