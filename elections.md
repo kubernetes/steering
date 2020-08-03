@@ -66,7 +66,8 @@ non-involved Steering Committee members will decide.
 
 ### Terms and Election Cycles
 
-Steering committee members are elected to serve two year terms.
+Steering committee members are elected to serve one, two year term. Members can
+serve two consecutive terms (4 years) and a lifetime of four terms (8 years).
 
 Election cycles are scheduled such that roughly half of the seats come up for
 re-election each year for purposes of continuity.  The exact number of seats
