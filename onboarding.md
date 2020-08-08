@@ -12,7 +12,6 @@ within 30 days from the date of their appointment.
   - [ ] [kubernetes/org]: `OWNERS_ALIASES` and the `steering-committee`
     GitHub team
   - [ ] [kubernetes/funding]: `OWNERS_ALIASES`
-  - [ ] [kubernetes/kubernetes-template-project]: `OWNERS_ALIASES`
   - [ ] [kubernetes/k8s.io] - update steering@kubernetes.io and steering-private@kubernetes.io in `groups/groups.yaml`
 
 - [ ] Add new members to the `steering-private` slack channel and
@@ -39,7 +38,6 @@ within 30 days from the date of their appointment.
 [kubernetes/community]: https://github.com/kubernetes/community
 [kubernetes/org]: https://github.com/kubernetes/org
 [kubernetes/funding]: https://github.com/kubernetes/funding
-[kubernetes/kubernetes-template-project]: https://github.com/kubernetes/kubernetes-template-project
 [kubernetes/k8s.io]: https://github.com/kubernetes/k8s.io
 [cncf-kubernetes-maintainers]: https://lists.cncf.io/g/cncf-kubernetes-maintainers
 [top-level account]: /README.md#top-level-accounts
