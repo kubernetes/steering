@@ -2,11 +2,13 @@
 
 This document outlines the process, for steering committee elections.
 
-### For the 2019 election check the [2019 Kubernetes Election Voter's Guide][voter-guide]
+### For the 2020 election check the [2020 Kubernetes Election Voter's Guide][voter-guide]
 
 ### Eligibility for voting
 
-Eligibility to vote for steering committee members is defined by:
+Eligibility for voting in the 2020 Election is [defined in this year's voter guide][voter-guide]
+
+Eligibility to vote for steering committee members for prior years is defined by:
 
 * People who had at least 50 contributions to the Kubernetes project over
   the past year, according to a snapshot taken 2019-08-15 of the data driving
@@ -35,8 +37,8 @@ Eligibility for candidacy is defined by:
 * Endorsement by three eligible voters from three different employers (the
   candidate can self-endorse if they are eligible to vote)
 
-Check the [2019 Kubernetes Election Voter's Guide][candidacy] for the exact
-nomination procedure. 
+Check the [2020 Kubernetes Election Voter's Guide][candidacy] for the exact
+nomination procedure.
 
 Nominators are free to nominate as many people as they wish to. Eligible
 voters may endorse multiple nominees, but we expect endorsements to be in
@@ -87,8 +89,8 @@ The steering committee picks election officers to operate the election and
 circulate a timeline for nominations, and the vote. The steering committee
 should consider the following rough schedule:
 
-- End of July 
-  - Election officers 
+- End of July
+  - Election officers
   - Voter eligibility criteria
   - Election preparation
 - September   
@@ -167,5 +169,5 @@ self-nominate but are otherwise expected to adhere to this recusal.
 [devstats-dashboard]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
 
 [bootstrap committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
-[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2019
-[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2019#candidacy-process
+[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2020
+[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2020#candidacy-process
