@@ -6,6 +6,15 @@ The Steering Committee is a 7 member body, overseeing the governance of the
 Kubernetes project. See the [Steering Committee Charter](charter.md) for
 specific committee structure information.
 
+### Term ends in October 2022
+
+| Name | Profile | Affiliation | Term Length |
+| ---- | ------- | ----------- | ----------- |
+| Davanum Srinivas | **[@dims](https://github.com/dims)** | VMware | 2y |
+| Jordan Liggitt | **[@liggitt](https://github.com/liggitt)** | Google | 2y |
+| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google | 2y |
+
+
 ### Term ends in October 2021
 
 | Name | Profile | Affiliation | Term Length |
@@ -15,13 +24,6 @@ specific committee structure information.
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** | VMware | 2y |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Apple | 2y |
 
-### Term ends in October 2020
-
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** | Google | 2y |
-| Davanum Srinivas | **[@dims](https://github.com/dims)** | VMware | 2y |
-| Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** | Microsoft | 6 months |
 
 ### Emeritus
 
@@ -30,12 +32,14 @@ specific committee structure information.
 | Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
 | Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
 | Joe Beda | **[@jbeda](https://github.com/jbeda)** |
+| Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** |
 | Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
 | Brandon Philips | **[@philips](https://github.com/philips)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
 | Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
 | Sarah Novotny | **[@sarahnovotny](https://github.com/sarahnovotny)** |
 | Clayton Coleman | **[@smarterclayton](https://github.com/smarterclayton)** |
+| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
 | Tim Hockin | **[@thockin](https://github.com/thockin)** |
 | Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** |
 
@@ -81,7 +85,7 @@ The steering committee delegates ownership of various Kubernetes community accou
 | ------- | ----- |
 | sc1@kubernetes.io | Davanum Srinivas |
 | sc2@kubernetes.io | Paris Pittman |
-| sc3@kubernetes.io | Aaron Crickenberger |
+| sc3@kubernetes.io | Bob Killen |
 
 ## Zoom Admins
 
@@ -90,6 +94,6 @@ However, all Steering Committee members have access to the zoom host key.
 
 | Name | Profile |
 | ---- | ------- |
-| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** |
 | Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
