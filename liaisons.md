@@ -14,12 +14,11 @@ of SIGs, WGs and UGs.
 
 | Community Group            | Steering Committee Liaison |
 | -------------------------- | -------------------------- |
-| SIG Apps                   | Aaron Crickenberger       |
-| SIG Contributor Experience | Aaron Crickenberger       |
-| SIG Scalability            | Aaron Crickenberger       |
-| SIG Windows                | Aaron Crickenberger       |
-| WG Machine Learning        | Aaron Crickenberger       |
-| WG Naming                  | Aaron Crickenberger       |
+| SIG Apps                   | Bob Killen                |
+| SIG Contributor Experience | Bob Killen                |
+| SIG Scalability            | Bob Killen                |
+| WG Machine Learning        | Bob Killen                |
+| WG Naming                  | Bob Killen                |
 | SIG Auth                   | Christoph Blecker         |
 | SIG Instrumentation        | Christoph Blecker         |
 | SIG Service Catalog        | Christoph Blecker         |
@@ -35,11 +34,12 @@ of SIGs, WGs and UGs.
 | WG IoT Edge                | Derek Carr                |
 | UG Big Data                | Derek Carr                |
 | SIG Autoscaling            | Derek Carr                |
-| SIG Architecture           | Lachlan Evenson           |
-| SIG Docs                   | Lachlan Evenson           |
-| SIG Scheduling             | Lachlan Evenson           |
-| WG API Expression          | Lachlan Evenson           |
-| WG Multitenancy            | Lachlan Evenson           |
+| SIG Architecture           | Jordan Liggitt            |
+| SIG Docs                   | Jordan Liggitt            |
+| SIG Scheduling             | Jordan Liggitt            |
+| SIG Windows                | Jordan Liggitt            |
+| WG API Expression          | Jordan Liggitt            |
+| WG Multitenancy            | Jordan Liggitt            |
 | SIG Cloud Provider         | Nikhita Raghunath         |
 | SIG Node                   | Nikhita Raghunath         |
 | SIG  UI                    | Nikhita Raghunath         |
