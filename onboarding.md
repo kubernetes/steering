@@ -22,6 +22,8 @@ within 30 days from the date of their appointment.
 
 - [ ] Add new members to the [cncf-kubernetes-maintainers] mailing list.
 
+- [ ] Add new members to the [Public CNCF Maintainer List] and remove emeritus members.
+
 - [ ] If a GSuite [top-level account] is owned by an emeritus member,
   transfer it to an existing member.
 
@@ -40,5 +42,6 @@ within 30 days from the date of their appointment.
 [kubernetes/funding]: https://github.com/kubernetes/funding
 [kubernetes/k8s.io]: https://github.com/kubernetes/k8s.io
 [cncf-kubernetes-maintainers]: https://lists.cncf.io/g/cncf-kubernetes-maintainers
+[Public CNCF Maintainer List]: https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit
 [top-level account]: /README.md#top-level-accounts
 [Zoom license credentials]: /README.md#zoom-admins
