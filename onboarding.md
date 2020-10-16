@@ -29,6 +29,9 @@ within 30 days from the date of their appointment.
 - [ ] If a GSuite [top-level account] is owned by an emeritus member,
   transfer it to an existing member.
 
+- [ ] If an emeritus member is one of the @kubernetesio Twitter account contributors,
+  transfer access to an existing member.
+
 - [ ] If [Zoom license credentials] were owned by a majority of emeritus
   members, share them with exisiting members. The Zoom host key is
   accessible to all members and is a pinned message in the `steering-private`
