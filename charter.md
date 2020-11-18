@@ -65,8 +65,8 @@ are able to proceed with a meeting.
 
 ## Inclusive Leadership Training
 
-Members of the committee must take an inclusive speaker training
-[course](https://training.linuxfoundation.org/training/inclusive-speaker-orientation/)
+Members of the committee must take an
+[Inclusive Open Source Community Orientation course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 in support of our community values.  Members are required to report
 completion of the course as part of on-boarding within 30 days from
 the date of their appointment.
