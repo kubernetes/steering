@@ -10,6 +10,7 @@ within 30 days from the date of their appointment.
   - [ ] [kubernetes/steering]: `OWNERS_ALIASES` and `README.md`
   - [ ] [kubernetes/community]: `sigs.yaml` and auto-generated content
   - [ ] [kubernetes/org]: `OWNERS_ALIASES` and the `steering-committee`
+  - [ ] [kubernetes/website]: `OWNERS_ALIASES`
     GitHub team
   - [ ] [kubernetes/funding]: `OWNERS_ALIASES`
   - [ ] [kubernetes/k8s.io] - update steering@kubernetes.io and steering-private@kubernetes.io in `groups/groups.yaml`
@@ -44,6 +45,7 @@ within 30 days from the date of their appointment.
 [kubernetes/steering]: https://github.com/kubernetes/steering
 [kubernetes/community]: https://github.com/kubernetes/community
 [kubernetes/org]: https://github.com/kubernetes/org
+[kubernetes/website]: https://github.com/kubernetes/website
 [kubernetes/funding]: https://github.com/kubernetes/funding
 [kubernetes/k8s.io]: https://github.com/kubernetes/k8s.io
 [liaison assignments]: /liaisons.md
