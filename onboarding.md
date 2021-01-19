@@ -8,7 +8,7 @@ within 30 days from the date of their appointment.
 
 - [ ] Update the following files in the respective repos:
   - [ ] [kubernetes/steering]: `OWNERS_ALIASES` and `README.md`
-  - [ ] [kubernetes/community]: `sigs.yaml` and auto-generated content
+  - [ ] [kubernetes/community]: `sigs.yaml` (SC members and liaisons) and auto-generated content
   - [ ] [kubernetes/org]: `OWNERS_ALIASES` and the `steering-committee`
   - [ ] [kubernetes/website]: `OWNERS_ALIASES`
     GitHub team
@@ -48,7 +48,7 @@ within 30 days from the date of their appointment.
 [kubernetes/website]: https://github.com/kubernetes/website
 [kubernetes/funding]: https://github.com/kubernetes/funding
 [kubernetes/k8s.io]: https://github.com/kubernetes/k8s.io
-[liaison assignments]: /liaisons.md
+[liaison assignments]: https://git.k8s.io/community/liaisons.md
 [cncf-kubernetes-maintainers]: https://lists.cncf.io/g/cncf-kubernetes-maintainers
 [Public CNCF Maintainer List]: https://docs.google.com/spreadsheets/d/1Pr8cyp8RLrNGx9WBAgQvBzUUmqyOv69R7QAFKhacJEM/edit
 [top-level account]: /README.md#top-level-accounts
