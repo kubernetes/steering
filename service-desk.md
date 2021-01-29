@@ -9,13 +9,12 @@ The individuals who currently have access are listed below.
 
 | Name | GitHub Profile |
 | ---- | ------- |
-| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Alison Dowdney | **[@alisondy](https://github.com/alisondy)** |
 | Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** |
 | Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
 | Davanum Srinivas | **[@dims](https://github.com/dims)** |
 | Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** |
-| Jorge Castro | **[@castrojo](https://github.com/castrojo)** |
-| Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** |
+| Jordan Liggitt | **[@liggitt](https://github.com/liggitt)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
 | Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** |
