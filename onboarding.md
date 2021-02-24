@@ -8,7 +8,9 @@ within 30 days from the date of their appointment.
 
 - [ ] Update the following files in the respective repos:
   - [ ] [kubernetes/steering]: `OWNERS_ALIASES` and `README.md`
-  - [ ] [kubernetes/community]: `sigs.yaml` (SC members and liaisons) and auto-generated content
+  - [ ] [kubernetes/community]:
+      - [ ]` sigs.yaml` (SC members and liaisons) and auto-generated content
+      - [ ] slack usergroup - `communication/slack-config/usergroups.yaml`, `communication/slack-config/users.yaml`
   - [ ] [kubernetes/org]: `OWNERS_ALIASES` and the `steering-committee`
   - [ ] [kubernetes/website]: `OWNERS_ALIASES`
     GitHub team
