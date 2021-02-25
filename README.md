@@ -61,8 +61,12 @@ We have two meetings every month.
 
 ## Contact
 
-If you need the steering committee please email the list steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
-or reach out in [#steering-committee](https://kubernetes.slack.com/messages/steering-committee) on Slack.
+- Slack: [#steering-committee](https://kubernetes.slack.com/messages/steering-committee)
+- Mailing List: steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
+- Private Mailing List: steering-private@kubernetes.io
+- [Open Community Issues/PRs](https://github.com/kubernetes/community/labels/committee%2Fsteering)
+- GitHub Teams:
+    - [@kubernetes/steering-committee](https://github.com/orgs/kubernetes/teams/steering-committee) - General Discussion
 
 ## CNCF Representative
 
