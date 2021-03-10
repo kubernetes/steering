@@ -79,6 +79,10 @@ There are various cases when the Steering Committee may require interactions wit
 For more details on the relationship between Steering and CNCF, please see a
 dedicated document [Relationship with the CNCF](cncf-and-k8s.md).
 
+### CNCF ServiceDesk access
+
+The CNCF ServiceDesk policy for Kubernetes community is defined at [ServiceDesk](service-desk.md).
+
 ## Top-level Accounts
 
 The steering committee delegates ownership of various Kubernetes community accounts like GitHub, domain names, etc to SIGs and sub-projects. However, the committee also reserves top-level account access for service governance in some cases.
