@@ -1,4 +1,4 @@
-# Kubernetes Community Annual Report, `June 2021`
+# Kubernetes Community Annual Report, 2020
 
 This is a summary of the Kubernetes project's contributor community and
 activities. This report documents both quantitative measures of community health
@@ -6,7 +6,7 @@ activities. This report documents both quantitative measures of community health
 community as reported by community leaders and contributors to the project.
 Please see Appendices for full reports and program goals.
 
-This report is a snapshot of the community as of JUNE 2021. 
+This report is a snapshot of the community as of end of year 2020. 
 
 ### Terminology
 
@@ -98,7 +98,7 @@ At the time of this survey, [all WGs and SIGs] have:
 In 2020, the Kubernetes project has achieved major goals and milestones. As we
 look back, the following accolades paint a picture of our journey:
 
-### Consistent feature graduation to stable status
+### Consistent Feature Graduation to Stable Status
 
 Kubernetes has historically had an issue with features remaining in beta for far
 longer than planned. During 2020, many SIGs made progress to drive these long-
@@ -154,7 +154,7 @@ project stability.
 
 In addition to the speed improvements, this reduces the compute cost for testing
 Kubernetes patches and releases drastically. Thank you to [Google Cloud][credits]
-for both [funding][credits] and [staffing] such a critical piece of the project
+for both [funding][credits] and [staffing] such a critical piece of the project.
 
 [5,000 node]: https://kubernetes.io/docs/setup/best-practices/cluster-large/
 [credits]: https://cloud.google.com/blog/products/containers-kubernetes/google-cloud-credits-support-cncf-work-on-kubernetes
@@ -221,18 +221,18 @@ The following themes emerged from multiple community groups reporting in with
 similar experiences - whether positive or challenging - and areas of research to
 explore more in the future. 
 
-### Project communication strategy 
+### Project Communication Strategy 
   
-During major growth phases, the Steering Committee needed the various [community
-groups to report in and out] regularly with the group's members, the
-project at large, and at KubeCons. This added up to many duplicate meetings and 
-many update slides. The
-COVID-19 pandemic and an increase in contributors outside of the
-North America Pacific Timezone made regular meetings difficult. Chairs and other
-project leads asked for a more streamline and consistent
-reporting and feedback mechanism. 
+During periods of significant contributor growth, [community groups were
+reporting internally and externally regularly with the group's members, the 
+project at large, and at KubeCons. This made sense as we scaled ten thousand 
+casual and active contributors during these growth periods but it's now added up
+to duplicate meetings and too many update slides. The COVID-19 pandemic and an 
+increase in contributors outside of the North America Pacific Timezone made 
+regular meetings difficult. Chairs and other project leads asked for a more 
+streamline and consistent reporting and feedback mechanism. 
     
-#### What we've done
+#### What We've Done
 
 - Changed [Community Meeting] cadence from weekly to monthly, and changed 
 meeting style from a "read out" of updates to more discussion oriented.
@@ -247,7 +247,7 @@ scale reporting to a group on a mailing list.
 [community groups to report in and out]: https://git.k8s.io/community/committee-steering/governance/sig-governance.md
 [Governance requirements]: https://git.k8s.io/community/committee-steering/governance/sig-governance.md#chair
     
-#### Areas of research 
+#### Areas of Research 
 
 - Review SIG charters to re-focus goals of each group at the current state of
   maturity
@@ -270,29 +270,22 @@ Membership can drive:
 - Consensus 
 - Voting
 
-**Project Membership**
+We define [membership] as contributors added to to one of the four GitHub 
+organizations. Membership grants a contributor access to test their pull 
+requests, among other benefits. Membership also defines a member's role within 
+the project based on their place on the [Contributor Ladder][ldr]. Membership 
+does not grant voting rights for Steering Committee and governance matters; 
+there is a separate set of criteria for [elections].
 
-The Kubernetes project defines [membership] as contributors added to to one of 
-the four
-GitHub organizations. Membership grants a contributor access to test their pull
-requests, among other benefits. Membership also defines
-a member's role within the project based on their place on the [Contributor
-Ladder][ldr]. Membership does not grant voting rights for Steering Committe and
-governance matters; there is a separate set of criteria for [elections].
-
-There are two areas to address: early membership (onboarding) and sustainable 
-membership (ongoing contributor activity).
-
-**SIG Membership**
-
-When new contributors onboard to the project, they often ask how to become a 
-member of a SIG. Community group membership is currently ambiguous, and the 
-options available are overwhelming for new contributors. Many SIGs reported that
-"joining the SIG mailing list" is how they define membership.
-Other responses included Slack channel membership and OWNERs files. Some groups
-requested council from the Steering Committee on defining membership.
+These are guidelines for the project as a whole but do not translate to SIG or
+WG based membership, with each group defining membership in their own way.
+These methods vary widely and are often founded in the group's specific
+workflows. However, there is a common pattern throughout all of them, and that
+is the two types of members that are considered early membership (onboarding)
+and sustainable membership (ongoing contributor activity).
 
 **Voting and Consensus with Members**
+
 Voting typically doesn't happen in the project unless it's for a Committee role.
 Technical and nontechnical decisions are driven mostly by 
 consensus of the maintainers in OWNERs files in the code, doc, or policy area of
@@ -323,7 +316,7 @@ has around 1300 active members at any given time.
 [charter process]: https://github.com/kubernetes/community/blob/master/committee-steering/governance/sig-charter-template.md
 
 
-#### Areas of research
+#### Areas of Research
 
 - Automation around suggesting when contributors may be ready to move to the
   next step in the lifecycle
@@ -336,7 +329,7 @@ there are no regular means of celebration or recognition for those that join a
 SIG, community group, or [achievement for climbing the ladder].
 
 
-### Growing a diverse group of OWNERs
+### Growing a Diverse Group of OWNERs
 
 Growing on the contributor ladder to ownership doesn't happen immediately after
 your first contribution. Building trust is a key part of our values and is a
@@ -349,172 +342,40 @@ together. 30 new leaders have stepped up to Chair and other roles in 2020, but
 bandwidth for the reviewers and approvers in many subprojects remains a
 challenge as does the diversity of those folks.
 
-#### What we've done
+#### What We've Done
 
-- Consistent labeling of issues with `good-first-issue` and `help-wanted`. This
-  was reported as the most successful way of landing new contributors.
+- Applied consistent labeling of issues with `good-first-issue` and 
+`help-wanted`. This was reported as the most successful way of landing new 
+contributors.
 - Intentionally creating space at meetings for new contributors to get involved
   and/or a dedicated triage meeting that provide an overview of current 
   priorities
-- Programs such as [Meet Our Contributors], an Office hours like space where
-  people can ask questions related to contributing.
-- Contributor events such as Contributor Summits, or Maintainer focused sessions
-  at KubeCon.
-- One-on-One sessions for dedicated contributors that have demonstrated a vested
-  interest in contributing and climbing the contributor ladder.
-- Group study groups for reviewers, approvers, and Chairs
+- Continued programs such as:
+    - [Meet Our Contributors], an Office hours like space where aspiring and 
+    experienced contributors can ask questions live
+    - Contributor Summits with new contibutor workshops, or Maintainer focused 
+    sessions at KubeCon.
+- Facilitated One-on-One sessions for dedicated contributors that have 
+demonstrated a vested interest in contributing and climbing the contributor 
+ladder and sticking around.
+- Created Group study groups for reviewers, approvers, and Chairs
 
 
 [Meet Our Contributors]: https://www.kubernetes.dev/events/meet-our-contributors/
 
 
-#### Areas of research:
+#### Areas of Research
 
-- specific outreach to new contributors from backgrounds that are
+- Specific outreach to new contributors from backgrounds that are
   underrepresented in the community, such as BIPOC contributors
-- GitHub automation that will suggest contributors to promote for more
-  visibility to OWNERs 
-- ways to encourage regular review of who is actively reviewing in subprojects
-- scaling the [group contributor ladder program]
+- GitHub automation that will suggest contributors to SIG leadership who are 
+making steady contributions to the project that may not have visibility, direct
+access to OWNERs, or may feel ackward asking about maintainership
+- Encouraging regular review of who is actively reviewing in subprojects
+- Scaling the [group contributor ladder program]
 
 
 [group contributor ladder program]: https://git.k8s.io/community/mentoring/programs
-
-
-## /help-wanted
-
-The community groups report that they need to grow code and non-code contributors
-into OWNERs files to help maintain the project. 
-
-Below is list of specific contribution needs, special projects, roles available,
-and more. Building trust is key and we need folks to stick around. There are
-other ways of contributing outside of commits and you'll see those in the
-[Other Types of Upstream Contributions] section.
-
-[Other types of upstream contributions]: #Other-types-of-upstream-contributions
-
-**SIG API Machinery**:
-- Performing triage (go to a triage meeting and you'll see it first hand)
-- Contributors to the Client Libraries like client-go, python-client
-
-**SIG Architecture**:
-- Site Reliability Engineers to review KEPs, Production Readiness Reviews,
-  and API Reviewers
-- Contributors to help curate a mentoring program for people to work across SIGs
-
-**SIG Auth**:
-- Audit logging and testing contributors
-- KMS-Plugin contributors
-
-**SIG Autoscaling**:
-- Creating and running of a triage program
-
-**SIG CLI**:
-- A Product/Feature Manager
-
-**SIG Cloud Provider**:
-- more contributors from every cloud to form teams for triage and support, 
-- folks from clouds to help run the cloud provider extraction working group:
-  kubernetes/kubernetes "cluster" directory and resolving how we properly test
-  kubernetes/kubernetes in the absence of a cloud provider
-
-**SIG Cluster Lifecycle**:
-- Etcdadm
-- Cluster-addons
-- Kubeadm contributors 
-
-**SIG Contributor Experience**: 
-- full-time (or part-time) community managers 
-- automation engineers: zoom to youtube automation, github automation, slack
-  infrastructure, and more
-- recognition programs for contributors
-- and folks to help create/facilitate contributor ladder mentoring programs
-
-**SIG Instrumentation**:
-- Structured logging
-- promq contributors
-
-**SIG Node**:
-- Sustaining CI
-
-**SIG Scalability**:
-- Scalability Test Frameworks and Scalability and Performance tests and
-  validation with a deep understanding of Kubernetes 
-
-**SIG Scheduling**:
-- Docs for scheduler internals, cluster-admin best practices; standardize triage
-  process
-
-**SIG Security**:
-- Future Tech Leads
-
-**SIG Storage**:
-- Reviewers
-- Issue triage (creating and running a program)
-- Feature work for things that are co-owned by sig-node, sig-apps, and 
-sig-scheduling (ContainerNotifier, Volume expansion for stateful set, and more)
-
-**SIG Testing**:
-- Many more companies to invest in this area heavily and bring steady 
-contributors to grow the contributor ladder in areas that are crucial to the projects
-  infrastructure
-
-**SIG UI**:
-- contributors who will stick around with AngularJS, golang, and knowledge of
-  Kubernetes client-go package
-
-**SIG Usability**:
-- We are currently working on a jobs to be done study and an effort to define
-  universal personas for the upstream project. Any one is welcome to join and
-  participate in these efforts, especially any user researchers, designers, and
-  new contributors.
-
-**SIG Windows**: 
-- e2e test coverage and API reviewers
-
-**WG K8s Infra**
--fill this out 
-
-**WG Multitenancy** 
-- We have three main projects: Hierarchical Namespace, Virtual Cluster Project,
-  and Multi-tenancy Profiles (think conformancy but for secure multi-tenant
-  clusters). Contributors and interested parties welcome! 
-
-
-Check out the contributor guide for a comprehensive guide to getting started:
-https://k8s.de/guide.
-
-
-
-### Other types of upstream contributions:
-
-The above list is good for contributors who have the time to join a SIG and/or 
-have support from their employer to submit patches and other common activities
-upstream. Below are areas of the project that need help, without commits
-necssarily, and would help escalate the project. 
-
-- Comment on [KEPs][kep] with your use case (this is helpful from end users
-  too!)
-- Tag `sig/security` on Issues and PRs that you review and have security
-  concerns
-- [SIG Multicluster] needs use cases and validating our approaches for different
-  environments and deployment models 
-- [SIG Usability] would like more participants for their [Job Study] and many
-  other studies that are going on.
-- [SIG Contributor Experience] would welcome part-time and full time contributor
-  community managers; will mentor and grow dedicated contributors in a large
-  environment
-- [SIG Architecture] would like cluster operators to take a 
-[production readiness survey]
-
-
-[SIG Multicluster]: https://git.k8s.io/community/sig-multicluster
-[SIG Usability]: https://git.k8s.io/community/sig-usability
-[Job Study]: https://docs.google.com/document/d/1lkPQdBEw-Xb5GEZ48WnpBgQdZ01EmTBhjcxJBlu5qJs/edit#heading=h.xsg4f6e6yk0p
-[SIG Contributor Experience]: https://git.k8s.io/community/sig-contributor-experience
-[SIG Architecture]: https://git.k8s.io/community/sig-architecture
-[production readiness survey]: https://docs.google.com/forms/d/e/1FAIpQLSc-J-Ydu5vp5G9vdvV5gBcraEDN_Bl-HSkVm15vAlU_orDvoA/viewform
-
 
 ## Growth Areas
 
@@ -523,15 +384,17 @@ necssarily, and would help escalate the project.
 The community is excited to welcome the new lens on reliability through
 Production Readiness Reviews, KEPs, and the new Working Group for Reliability.
 This effort continues to increase confidence for end users use Kubernetes to
-manage production workloads by ensuring the core is stable and reliable.
-This means the features are:
-- Observable - you can tell that it is in use and working properly, and are
+manage production workloads by ensuring the core is stable and reliable.  
+
+This means the features are:  
+
+- Observable: you can tell that it is in use and working properly, and are
   able to define reasonable service level objectives for the feature.
-- Supportable - the feature is well documented with a playbook covering failure
+- Supportable: the feature is well documented with a playbook covering failure
   modes, dependencies and what happens when those fail or degrade, and a
   troubleshooting guide.
-- Scalable - the feature does not introduce scaling issues.
-- Recoverable - the feature can be disabled or rolled back easily and without
+- Scalable: the feature does not introduce scaling issues.
+- Recoverable: the feature can be disabled or rolled back easily and without
   data loss
         
 ### The Words We Use
@@ -588,48 +451,180 @@ play in security response.
 [name change to "Security Response Committee"]: https://github.com/kubernetes/community/pull/5597
 
 
-### Did someone say KEPs?
+### Improving Kubernetes Enhancements
 
-Our project enhancement process, Kubernetes Enhancement Proposals, continues
-to evolve and mature. As we use and iterate on the process, we are consistently
-learning better ways to communicate, debate, and ultimately grow ideas within
-the project.
+Kubernetes Enhancement Proosals, the process by which the community proposes and
+ approves new features, continues to evolve and mature. As we use and iterate on
+  the process, we are consistently learning better ways to communicate, debate, 
+  and ultimately grow ideas within the project.
 
-
-The question "Is My Thing an Enhancement?" is still a frequently asked question,
-and the answer continues to evolve over time. KEPs around process have had
-particular focus, as this year had some significant changes to policies such as
-our [release cadence].
-
-
-As more and more people rely on Kubernetes, continuing to learn and iterate as
-we implement these enhancement changes will be crucial to our growth and
-maturity as a project.
+In 2020, KEPs around process and policies have become a focus, and an area of 
+future growth for KEPs themselves. For example, a KEP changing the 
+[release cadence] of the Kubernetes project garnered attention from the 
+community.
 
 [release cadence]: https://git.k8s.io/enhancements/keps/sig-release/2572-release-cadence
 
+## /help-wanted
 
-## Current initiatives 
+The community groups report that they need to grow more contributors into 
+maintainer-like roles of Reviewers, Approvers, and Subproject OWNERs. 
 
-A summary list of current initiatives from each SIG and WG. Click on the group
-for reported projects completed in 2020 and granular information for each 
+Below is list of specific contribution needs, special projects, roles available,
+and more. Building trust is key and we need folks to stick around. There are
+other ways of contributing outside of commits and you'll see those in the
+[Other Types of Upstream Contributions] section.
+
+Check out the contributor guide for a comprehensive guide to getting started:
+https://k8s.dev/guide.
+
+[Other types of upstream contributions]: #Other-types-of-upstream-contributions
+
+**SIG API Machinery**:
+- Performing triage (go to a triage meeting and you'll see it first hand)
+- Contributors to the Client Libraries like client-go, python-client
+
+**SIG Architecture**:
+- Site Reliability Engineers to review KEPs, Production Readiness Reviews,
+  and API Reviewers
+- Contributors to help curate a mentoring program for people to work across SIGs
+
+**SIG Auth**:
+- Audit logging and testing contributors
+- KMS-Plugin contributors
+
+**SIG Autoscaling**:
+- Creating and running of a triage program
+
+**SIG CLI**:
+- A Product/Feature Manager
+
+**SIG Cloud Provider**:
+- More contributors from every cloud to form teams for triage and support, 
+- Cloud Engineers at service providers to help run the cloud provider extraction
+ working group:
+  kubernetes/kubernetes "cluster" directory and resolving how we properly test
+  kubernetes/kubernetes in the absence of a cloud provider
+
+**SIG Cluster Lifecycle**:
+Code contributors to:  
+- Etcdadm
+- Cluster-addons
+- Kubeadm  
+
+**SIG Contributor Experience**: 
+- Full-time (or part-time) community managers 
+- Automation Engineers: zoom to youtube automation, github automation, slack
+  infrastructure, and more
+- Program Manager types for recognition and contributor ladder mentoring 
+programs
+
+**SIG Instrumentation**:
+- Structured logging
+- promq contributors
+
+**SIG Node**:
+- Sustaining CI
+
+**SIG Scalability**:
+- Scalability Test Frameworks and Scalability and Performance tests and
+  validation with a deep understanding of Kubernetes 
+
+**SIG Scheduling**:
+- Docs for scheduler internals, cluster-admin best practices; standardize triage
+  process
+
+**SIG Security**:
+- Future Tech Leads
+
+**SIG Storage**:
+- Reviewers
+- Issue triage (creating and running a program)
+- Feature work for things that are co-owned by sig-node, sig-apps, and 
+sig-scheduling (ContainerNotifier, Volume expansion for stateful set, and more)
+
+**SIG Testing**:
+- Many more companies to invest in this area heavily and bring steady 
+contributors to grow the contributor ladder in areas that are crucial to the 
+projects infrastructure
+
+**SIG UI**:
+- Contributors who will stick around with AngularJS, golang, and knowledge of
+  Kubernetes client-go package
+
+**SIG Usability**:
+- We are currently working on a jobs to be done study and an effort to define
+  universal personas for the upstream project. 
+- Any one is welcome to join and participate in these efforts, especially any 
+user researchers, designers, and new contributors
+
+**SIG Windows**: 
+- e2e test coverage and API reviewers
+
+**WG K8s Infra**
+- Help with migrating resources from Google owned infrastructure to community 
+owned 
+- At the time of this report, only 288 of the current 1780 prow jobs have 
+been migrated
+
+**WG Multitenancy** 
+- We have three main projects: Hierarchical Namespace, Virtual Cluster Project,
+  and Multi-tenancy Profiles (think conformancy but for secure multi-tenant
+  clusters). Contributors and interested parties welcome! 
+
+### Other Types of Upstream Contributions
+
+The above list is good for contributors who have the time to join a SIG and/or 
+have support from their employer to submit patches and other common activities
+upstream. Below are areas of the project that need help, without commits
+necssarily, and would help escalate the project. 
+
+- Comment on [KEPs][kep] with your use case (this is helpful from end users
+  too!)
+- Tag `sig/security` on Issues and PRs that you review and have security
+  concerns
+- [SIG Multicluster] needs use cases and validating our approaches for different
+  environments and deployment models 
+- [SIG Usability] would like more participants for their [Job Study] and many
+  other studies that are going on.
+- [SIG Contributor Experience] would welcome part-time and full time contributor
+  community managers; will mentor and grow dedicated contributors in a large
+  environment
+- [SIG Architecture] would like cluster operators to take a 
+[production readiness survey]
+
+
+[SIG Multicluster]: https://git.k8s.io/community/sig-multicluster
+[SIG Usability]: https://git.k8s.io/community/sig-usability
+[Job Study]: https://docs.google.com/document/d/1lkPQdBEw-Xb5GEZ48WnpBgQdZ01EmTBhjcxJBlu5qJs/edit#heading=h.xsg4f6e6yk0p
+[SIG Contributor Experience]: https://git.k8s.io/community/sig-contributor-experience
+[SIG Architecture]: https://git.k8s.io/community/sig-architecture
+[production readiness survey]: https://docs.google.com/forms/d/e/1FAIpQLSc-J-Ydu5vp5G9vdvV5gBcraEDN_Bl-HSkVm15vAlU_orDvoA/viewform
+
+## Current Initiatives 
+
+This section summarizes current initiatives from each SIG and WG. Click on the 
+group for reported projects completed in 2020 and granular information for each 
 initiative with supporting links to KEPs and more. 
 
-- [SIG API-Machinery](https://git.k8s.io/community/sig-storage/annual-report-2021.md#current-initiatives-and-project-health)
-    - working on mitigating the impact of removing beta APIs in 1.22
-    - server-side-apply to stable
-    - server-side-apply client
-    - optionally skip backend TLS verification
-    - namespace labels
+- [SIG API-Machinery](https://git.k8s.io/community/sig-api-machinery/annual-report-2021.md#current-initiatives-and-project-health)
+    - Mitigating the impact of removing beta APIs in 1.22
+    - Server-side-apply to stable
+    - Server-side-apply client
+    - Optionally skip backend TLS verification
+    - Namespace labels
     - CRD and admission webhook v1beta1 API removal: reminder on kubernetes-dev.
     - Immutable fields API
     - API unions
-    - warnings to stable
+    - Warnings to stable
     - apiserver network proxy to beta
-    - priority and fairness to stable
-- [SIG Apps](https://git.k8s.io/community/sig-apps/annual-report-2021.md#current-initiatives-and-project-health)
-    - No report
-- [SIG Architecture](https://git.k8s.io/community/sig-architecture/annual-report-2021.md#current-initiatives-and-project-health)
+    - Priority and fairness to stable
+
+- [SIG Apps](https://git.k8s.io/community/sig-apps/annual-report-2020.md#current-initiatives-and-project-health)
+    - Promoting CronJobs to GA
+    - Promoting PodDisruptionBudgets to GA
+
+- [SIG Architecture](https://git.k8s.io/community/sig-architecture/annual-report-2020.md#current-initiatives-and-project-health)
     - Increased coverage of stable endpoints by conformance tests
     - Coordinating dependency updates across projects
     - Production Readiness Review process was made mandatory in 1.21, improving 
@@ -637,6 +632,7 @@ initiative with supporting links to KEPs and more.
     - Set up cross-project policies to move features towards stable ([conformance without beta](https://git.k8s.io/enhancements/keps/sig-architecture/1333-conformance-without-beta), [preventing "permabeta"](https://git.k8s.io/enhancements/keps/sig-architecture/1635-prevent-permabeta))
     - Enhancements subproject is working with sig-release to assist SIGs in 
     taking greater ownership of their KEPs during the release cycle
+
 - [SIG Auth](https://git.k8s.io/community/sig-auth/annual-report-2021.md#current-initiatives-and-project-health)
     - BoundServiceAccountToken
     - CSR v1
@@ -645,24 +641,32 @@ initiative with supporting links to KEPs and more.
     - external kubelet credential providers
     - New features in Secrets Store CSI driver
     - Pod Security Policy Replacement
-    - and several other KEPs going to stable on the report
-- [SIG Autoscaling](https://git.k8s.io/community/sig-autoscaling/annual-report-2021.md#current-initiatives-and-project-health)
-    - No report
-- [SIG CLI](https://git.k8s.io/community/sig-cli/annual-report-2021.md#current-initiatives-and-project-health)
+    - Several other KEPs going to General Availability on the report
+
+- [SIG Autoscaling](https://git.k8s.io/community/sig-autoscaling/annual-report-2020.md#current-initiatives-and-project-health)
+    - Promoting HPA v2 to stable
+    - Promoting HPAScaleToZero to beta
+    - Vertical pod autoscaler adding support for customized recommenders
+    - Cluster autoscaler adding support for gRPC custom cloud providers
+ 
+- [SIG CLI](https://git.k8s.io/community/sig-cli/annual-report-2020.md#current-initiatives-and-project-health)
     - Moving kubectl package code to staging
     - Our multi-year effort to split out of the main kubernetes repository.
     - kubectl debug (beta)
     - Several smaller efforts to unify code across all the commands, and 
     removing technical debt
-- [SIG Cloud Provider](https://git.k8s.io/community/sig-cloud-provider/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Cloud Provider](https://git.k8s.io/community/sig-cloud-provider/annual-report-2020.md#current-initiatives-and-project-health)
     - Feature: implement the BackendManager list
     - Fix flag passing in CCM
     - Extending Apiserver Network Proxy to handle traffic originated from Node 
     network
-- [SIG Cluster Lifecycle](https://git.k8s.io/community/sig-cluster-lifecycle/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Cluster Lifecycle](https://git.k8s.io/community/sig-cluster-lifecycle/annual-report-2020.md#current-initiatives-and-project-health)
     - Standard for communicating a local registry
-    - several KEPs in a separate KEP process https://github.com/kubernetes-sigs/cluster-api/tree/master/docs/proposals
-- [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience/annual-report-2021.md#current-initiatives-and-project-health)
+    - Several KEPs in a separate KEP process https://github.com/kubernetes-sigs/cluster-api/tree/master/docs/proposals
+
+- [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience/annual-report-2020.md#current-initiatives-and-project-health)
   - Community Management
   - Contributor Documentation
   - Contributor Comms
@@ -673,75 +677,93 @@ initiative with supporting links to KEPs and more.
   - Slack Infra 
   - KEP for revamping the prow approval plugin
   - Migrating the default branch on GitHub from master to main
-- [SIG Docs](https://git.k8s.io/community/sig-docs/annual-report-2021.md#current-initiatives-and-project-health)
-    - coordination with WG naming for things like removing the word “slave” 
+
+- [SIG Docs](https://git.k8s.io/community/sig-docs/annual-report-2020.md#current-initiatives-and-project-health)
+    - Coordination with WG naming for things like removing the word “slave” 
     (and other problematic terms) from docs
-    - publishing better information about releases
-    - docsy theme work as well as the reference documentation generation
-    - doc policies for third party content
-- [SIG Instrumentation](https://git.k8s.io/community/sig-instrumentation/annual-report-2021.md#current-initiatives-and-project-health)
+    - Publishing better information about releases
+    - Docsy theme work as well as the reference documentation generation
+    - Doc policies for third party content
+
+- [SIG Instrumentation](https://git.k8s.io/community/sig-instrumentation/annual-report-2020.md#current-initiatives-and-project-health)
     - Reducing metrics exposed by the kubelet
     - Tracing
     - Structured Logging
     - and many other KEPs listed in the report
-- [SIG Multicluster](https://git.k8s.io/community/sig-multicluster/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Multicluster](https://git.k8s.io/community/sig-multicluster/annual-report-2020.md#current-initiatives-and-project-health)
     - Cluster ID for ClusterSet identification 
     - Multi Cluster Services API
     - Kubefed - support for pull-based reconciliation 
     - Work API - road to alpha
-- [SIG Network](https://git.k8s.io/community/sig-network/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Network](https://git.k8s.io/community/sig-network/annual-report-2020.md#current-initiatives-and-project-health)
     - No report
-- [SIG Node](https://git.k8s.io/community/sig-node/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Node](https://git.k8s.io/community/sig-node/annual-report-2020.md#current-initiatives-and-project-health)
     - cgroups v2
     - Topology manager/device alignment 
-    - and the many KEPs listed in their report
-- [SIG Release](https://git.k8s.io/community/sig-release/annual-report-2021.md#current-initiatives-and-project-health)
+    - Many KEPs listed in their report
+
+- [SIG Release](https://git.k8s.io/community/sig-release/annual-report-2020.md#current-initiatives-and-project-health)
     - Release cadence 
     - North Star Vision Roadmap
     - Enhancing tooling
     - New Program Manager role
-- [SIG Scalability](https://git.k8s.io/community/sig-scalability/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Scalability](https://git.k8s.io/community/sig-scalability/annual-report-2020.md#current-initiatives-and-project-health)
     - Reduced time for 5k scalability tests from 14 hours to < 5 hours
     - Improved testing frameworks and extended scalability test coverage 
     - [Efficient Watch Resumption](https://github.com/kubernetes/enhancements/issues/1904)
     - [Immutable Secrets and ConfigMaps](https://github.com/kubernetes/enhancements/issues/1412)
-- [SIG Scheduling](https://git.k8s.io/community/sig-scheduling/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Scheduling](https://git.k8s.io/community/sig-scheduling/annual-report-2020.md#current-initiatives-and-project-health)
     - Continuing to refactor the core code around the scheduling framework
     - Graduating the scheduler's ComponentConfig to stable
     - Scheduler into a pluggable framework outside of the main repo
-    - and more alpha and beta features listed in the report
-- [SIG Security](https://git.k8s.io/community/sig-security/annual-report-2021.md#current-initiatives-and-project-health)
+    - More alpha and beta features listed in the report
+
+- [SIG Security](https://git.k8s.io/community/sig-security/annual-report-2020.md#current-initiatives-and-project-health)
     - Kubernetes Hardening Guide
     - Third Party Security Audit
     - PodSecurityPolicy replacement: PodSecurity admission 
     - Support for Windows privileged containers
     - Run control-plane as non-root in kubeadm
     - Defend against logging secrets via static analysis
-    - and more KEPs listed in their report
-- [SIG Service Catalog](https://git.k8s.io/community/sig-service-catalog/annual-report-2021.md#current-initiatives-and-project-health)
+    - More KEPs listed in their report
+
+- [SIG Service Catalog](https://git.k8s.io/community/sig-service-catalog/annual-report-2020.md#current-initiatives-and-project-health)
     - No report
-- [SIG Storage](https://git.k8s.io/community/sig-storage/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Storage](https://git.k8s.io/community/sig-storage/annual-report-2020.md#current-initiatives-and-project-health)
     - Container Object Storage Interface
     - Generic Ephemeral Volumes
     - CSI Support for Windows
     - Volume Snapshots stable
-    - and other beta, alpha, road to alpha, and stable KEPs listed in the report 
-- [SIG Testing](https://git.k8s.io/community/sig-testing/annual-report-2021.md#current-initiatives-and-project-health)
+    - and other beta, alpha, road to alpha, and stable KEPs listed in the report
+
+- [SIG Testing](https://git.k8s.io/community/sig-testing/annual-report-2020.md#current-initiatives-and-project-health)
     - No report
-- [SIG UI](https://git.k8s.io/community/sig-ui/annual-report-2021.md#current-initiatives-and-project-health)
-    - ongoing maintenance 
-    - a real time dashboard
-    - new language translations
-- [SIG Usability](https://git.k8s.io/community/sig-usability/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG UI](https://git.k8s.io/community/sig-ui/annual-report-2020.md#current-initiatives-and-project-health)
+    - Ongoing maintenance 
+    - Real time dashboard
+    - New language translations
+
+- [SIG Usability](https://git.k8s.io/community/sig-usability/annual-report-2020.md#current-initiatives-and-project-health)
     - Jobs-to-be-done research proposal 
-- [SIG Windows](https://git.k8s.io/community/sig-windows/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [SIG Windows](https://git.k8s.io/community/sig-windows/annual-report-2020.md#current-initiatives-and-project-health)
     - Privileged containers
     - Network Policy Support
-- [WG API Expression](https://git.k8s.io/community/wg-api-expression/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [WG API Expression](https://git.k8s.io/community/wg-api-expression/annual-report-2020.md#current-initiatives-and-project-health)
     - Server Side Apply landing stable in 1.21; will complete the groups mission
-- [WG Component Standard](https://git.k8s.io/community/wg-component-standard/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [WG Component Standard](https://git.k8s.io/community/wg-component-standard/annual-report-2020.md#current-initiatives-and-project-health)
     - n/a
-- [WG Data Protection](https://git.k8s.io/community/wg-data-protection/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [WG Data Protection](https://git.k8s.io/community/wg-data-protection/annual-report-2020.md#current-initiatives-and-project-health)
     - Volume Backups
     - Backup Repositories
     - Data Populator
@@ -749,14 +771,17 @@ initiative with supporting links to KEPs and more.
     - CBT
     - Volume Group and Group Snapshot
     - Application Snapshots and Backups
-- [WG IoT/Edge](https://git.k8s.io/community/wg-iot-edge/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [WG IoT/Edge](https://git.k8s.io/community/wg-iot-edge/annual-report-2020.md#current-initiatives-and-project-health)
     - n/a
-- [WG K8s Infra](https://git.k8s.io/community/wg-k8s-infra/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [WG K8s Infra](https://git.k8s.io/community/wg-k8s-infra/annual-report-2020.md#current-initiatives-and-project-health)
     - Ensure SIG ownership of all infra and services
-    - migrate .deb/.rpm package building/hosting to community
+    - Migrate .deb/.rpm package building/hosting to community
     - stop using google-containers, k8s-prow, k8s-prow-build, k8s-gubernator, kubernetes-jenkins,  GCP project
     - Migrate images used by CI jobs and test-infra components
-- [WG Multitenancy](https://git.k8s.io/community/multitenancy/annual-report-2021.md#current-initiatives-and-project-health)
+
+- [WG Multitenancy](https://git.k8s.io/community/multitenancy/annual-report-2020.md#current-initiatives-and-project-health)
     - [Multi-Tenancy Benchmarks](https://sigs.k8s.io/multi-tenancy/benchmarks)
     - [Virtual Cluster Project](https://sigs.k8s.io/multi-tenancy/incubator/virtualcluster)
     - [Hierarchical Namespace Controller](https://sigs.k8s.io/multi-tenancy/incubator/hnc)
@@ -802,8 +827,8 @@ are you participating in to grow contributors throughout the contributor ladder?
 
 Current initiatives and project health
   
-* What are initiatives that should be highlighted, lauded, shout outs, that your
- group is proud of? Currently underway? What are some of the longer tail 
+* What are some initiatives that should be highlighted, lauded, shoutouts, that 
+your group is proud of? Currently underway? What are some of the longer tail 
  projects that your group is working on?
 * Year to date KEP work: What's now stable? Beta? Alpha? Road to alpha?
 * What initiatives are you working on that aren't being tracked in KEPs?
