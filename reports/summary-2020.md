@@ -6,7 +6,7 @@ activities. This report documents both quantitative measures of community health
 community as reported by community leaders and contributors to the project.
 Please see Appendices for full reports and program goals.
 
-This report is a snapshot of the community as of end of year 2020. 
+This report is a snapshot of the community as of December 2020. 
 
 ### Terminology
 
@@ -21,8 +21,7 @@ This report uses the following terminology:
 - **Chair and/or Tech Lead**: a contributor who organizes and leads a community
   group.
 - **KEP**: [Kubernetes Enhancement Proposal][kep]
-- **OWNER/maintainer**: a reviewer or approver listed in an OWNERs file who
-  reviews, approves, and/or merges commits. 
+- **OWNER/maintainer**: a GitHub user who reviews, approves, and/or merges commits. 
 
 For more on SIG and WG governance, see:
 
@@ -73,7 +72,7 @@ Reliabilty!*
 
 ## Community Milestones
 
-- `100,000` Issues/PRs in the `kubernetes/kubernetes` repository 
+- `100,000` Issues/pull requests in the `kubernetes/kubernetes` repository 
 - `50000` Contributors mark
 - `75%`of [API Endpoints included in Conformance]
 - `43` Subproject additions or movements
@@ -95,18 +94,19 @@ At the time of this survey, [all WGs and SIGs] have:
 
 ## Accolades
 
-In 2020, the Kubernetes project has achieved major goals and milestones. As we
-look back, the following accolades paint a picture of our journey:
+The Kubernetes project has achieved major goals and milestones every year. As we
+look back, the following accolades paint a picture of our journey in 2020:
 
 ### Consistent Feature Graduation to Stable Status
 
-Kubernetes has historically had an issue with features remaining in beta for far
-longer than planned. During 2020, many SIGs made progress to drive these long-
-standing beta features to completion, and collectively pay down some of their
-associated tech-debt.
+Kubernetes had an issue with features remaining in beta for far
+longer than planned. During 2020, many SIGs started driving these long-
+standing beta features to completion, and collectively paying down some of their
+associated technical debt.
 
 A few features of note that graduated to stable status or made significant
-progress to reach that point include:
+progress include:
+
 - Driving [`CronJobs`] and [`PodDisruptionBudgets`] (SIG Apps)
 - [Moving `kubectl` to a staging repo] (SIG CLI)
 - [containerd] and [Cluster API support for Windows] (SIG Windows)
@@ -127,11 +127,11 @@ and is more stable for end consumers.
 
 ### Issue Triage Improvements 
 
-The [kubernetes/kubernetes] repository has over 100,000 issues and PRs combined.
+The [kubernetes/kubernetes] repository has over 100,000 issues and pull requests at any time.
 To manage this, the community adopted [new triage workflows]. Several SIGs, such
 as SIG Node, SIG Network, and SIG API Machinery established their own triage
 processes and structure. This resulted in a noticeable reduction in 
-[Inactive Issues] and [Inactive PRs] open for 30 days or more.
+[Inactive Issues] and [Inactive Pull Requests] open for 30 days or more.
 
 As SIGs improve their processes with the new workflow, many are having dedicated
 triage meetings. Those who have started triage meetings noted they serve as an
@@ -140,9 +140,9 @@ excellent engagement point for new contributors.
 [kubernetes/kubernetes]: https://github.com/kubernetes/kubernetes
 [new triage workflows]: https://git.k8s.io/enhancements/keps/sig-contributor-experience/1553-issue-triage
 [Inactive Issues]: https://k8s.devstats.cncf.io/d/77/inactive-issues-by-sig-and-repository?viewPanel=11&orgId=1&from=1577854800000&to=1609390800000
-[Inactive PRs]: https://k8s.devstats.cncf.io/d/78/inactive-prs-by-sig-and-repository?viewPanel=11&orgId=1&from=1577854800000&to=1609390800000
+[Inactive Pull Requests]: https://k8s.devstats.cncf.io/d/78/inactive-prs-by-sig-and-repository?viewPanel=11&orgId=1&from=1577854800000&to=1609390800000
 
-### Testing, CI, and Scalability
+### Testing, Continuous Integration, and Scalability
 
 SIG Testing improved the project's testing frameworks and infrastructure. Along
 with improvements to scalability tests and other test suites, the Kubernetes
@@ -224,10 +224,10 @@ explore more in the future.
 ### Project Communication Strategy 
   
 During periods of significant contributor growth, [community groups were
-reporting internally and externally regularly with the group's members, the 
-project at large, and at KubeCons. This made sense as we scaled ten thousand 
-casual and active contributors during these growth periods but it's now added up
-to duplicate meetings and too many update slides. The COVID-19 pandemic and an 
+reporting internally and externally] regularly with the group's members, the 
+project at large, and at KubeCons. This made sense as the project scaled ten thousand 
+casual and active contributors, but it's resulted in
+duplicate meetings and too many update slides. The COVID-19 pandemic and an 
 increase in contributors outside of the North America Pacific Timezone made 
 regular meetings difficult. Chairs and other project leads asked for a more 
 streamline and consistent reporting and feedback mechanism. 
@@ -244,7 +244,7 @@ scale reporting to a group on a mailing list.
 
 
 [Community Meeting]: https://k8s.dev/events/community-meeting/
-[community groups to report in and out]: https://git.k8s.io/community/committee-steering/governance/sig-governance.md
+[community groups were reporting internally and externally]: https://git.k8s.io/community/committee-steering/governance/sig-governance.md
 [Governance requirements]: https://git.k8s.io/community/committee-steering/governance/sig-governance.md#chair
     
 #### Areas of Research 
@@ -263,14 +263,15 @@ scale reporting to a group on a mailing list.
 
 There are a number of ways to define membership to the Kubernetes project
 and its community groups. The project's community groups must define
-their own membership terms and then various other activities and roles.
-Membership can drive:
+their own membership terms and any other roles within their group.
+
+Membership drives:
 
 - Kubernetes GitHub Organization membership 
 - Consensus 
 - Voting
 
-We define [membership] as contributors added to to one of the four GitHub 
+The project defines [membership] as contributors added to to one of the four GitHub 
 organizations. Membership grants a contributor access to test their pull 
 requests, among other benefits. Membership also defines a member's role within 
 the project based on their place on the [Contributor Ladder][ldr]. Membership 
@@ -299,8 +300,8 @@ reaching out to those members outside of GitHub is difficult.
 
 While onboarding new contributors is a critical part of a sustainable open
 source project, contributors shift focus, change jobs, or
-step away from the project for a variety of other reasons. In late 2019, the 
-Steering Committee updated our guidelines to include an [emeritus status]. 
+step away from the project for a variety of other reasons. In late 2019, 
+Steering Committee updated the project's guidelines to introduce an [emeritus status]. 
 Emeritus community members have stepped away from the project, but are still 
 recognized for their work. Giving people the ability to step away gracefully 
 helps ensure an overall healthy and active community.
@@ -331,16 +332,18 @@ SIG, community group, or [achievement for climbing the ladder].
 
 ### Growing a Diverse Group of OWNERs
 
-Growing on the contributor ladder to ownership doesn't happen immediately after
-your first contribution. Building trust is a key part of our values and is a
+Moving up the contributor ladder – from contributor, to reviewer, to approver – involves work 
+on the part of the contributor. Building trust is a key part of our values and is a
 step in the "contributor journey", called the Kubernetes [contributor
-ladder][ldr]. We need more diverse, trusted folks from all backgrounds to grow
-in these areas. Balancing being welcoming and identifying contributors to
+ladder][ldr]. 
+
+The Kubernetes project needs more diverse, trusted people from all backgrounds to grow
+as contributors. Balancing being welcoming and identifying contributors to
 encourage to stick around at scale is difficult, especially with tens of
-thousands of casual contributors (yes, a small city) and many cultures that come
+thousands of casual contributors, and many cultures that come
 together. 30 new leaders have stepped up to Chair and other roles in 2020, but
 bandwidth for the reviewers and approvers in many subprojects remains a
-challenge as does the diversity of those folks.
+challenge as does the diversity of those contributing.
 
 #### What We've Done
 
@@ -435,17 +438,14 @@ like Kubernetes. This new SIG grew out of the previous Security Audit Working
 Group, and is designed to be a clear home for security-focused discussions
 across the project.
 
-
 This new group, partnering with the existing Product Security Committee, will
 focus on horizontal security initiatives for the Kubernetes project, including
 regular security audits, the vulnerability management process, cross-cutting
 security documentation, and security community management.
 
-
 The Product Security Committee is also currently discussing a
 [name change to "Security Response Committee"] to better reflect the role they
 play in security response.
-
 
 [SIG Security]: https://git.k8s.io/community/sig-security/charter.md
 [name change to "Security Response Committee"]: https://github.com/kubernetes/community/pull/5597
@@ -574,14 +574,13 @@ been migrated
 
 ### Other Types of Upstream Contributions
 
-The above list is good for contributors who have the time to join a SIG and/or 
-have support from their employer to submit patches and other common activities
-upstream. Below are areas of the project that need help, without commits
-necssarily, and would help escalate the project. 
+The above list is good for contributors who have the time or
+support from their employer to submit patches and participate in other upstream activities. 
+Below are areas of the project that need help but require less dedicated time.
 
 - Comment on [KEPs][kep] with your use case (this is helpful from end users
   too!)
-- Tag `sig/security` on Issues and PRs that you review and have security
+- Tag `sig/security` on issues and pull requests that you review and have security
   concerns
 - [SIG Multicluster] needs use cases and validating our approaches for different
   environments and deployment models 
