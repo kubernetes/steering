@@ -606,7 +606,7 @@ This section summarizes current initiatives from each SIG and WG. Click on the
 group for reported projects completed in 2020 and granular information for each 
 initiative with supporting links to KEPs and more. 
 
-- [SIG API-Machinery](https://git.k8s.io/community/sig-api-machinery/annual-report-2021.md#current-initiatives-and-project-health)
+- [SIG API-Machinery](https://git.k8s.io/community/sig-api-machinery/annual-report-2020.md#current-initiatives-and-project-health)
     - Mitigating the impact of removing beta APIs in 1.22
     - Server-side-apply to stable
     - Server-side-apply client
@@ -632,7 +632,7 @@ initiative with supporting links to KEPs and more.
     - Enhancements subproject is working with sig-release to assist SIGs in 
     taking greater ownership of their KEPs during the release cycle
 
-- [SIG Auth](https://git.k8s.io/community/sig-auth/annual-report-2021.md#current-initiatives-and-project-health)
+- [SIG Auth](https://git.k8s.io/community/sig-auth/annual-report-2020.md#current-initiatives-and-project-health)
     - BoundServiceAccountToken
     - CSR v1
     - Token Request / bound SA token admission
@@ -731,7 +731,7 @@ initiative with supporting links to KEPs and more.
     - Defend against logging secrets via static analysis
     - More KEPs listed in their report
 
-- [SIG Service Catalog](https://git.k8s.io/community/sig-service-catalog/annual-report-2020.md#current-initiatives-and-project-health)
+- SIG Service Catalog
     - No report
 
 - [SIG Storage](https://git.k8s.io/community/sig-storage/annual-report-2020.md#current-initiatives-and-project-health)
@@ -741,7 +741,7 @@ initiative with supporting links to KEPs and more.
     - Volume Snapshots stable
     - and other beta, alpha, road to alpha, and stable KEPs listed in the report
 
-- [SIG Testing](https://git.k8s.io/community/sig-testing/annual-report-2020.md#current-initiatives-and-project-health)
+- SIG Testing
     - No report
 
 - [SIG UI](https://git.k8s.io/community/sig-ui/annual-report-2020.md#current-initiatives-and-project-health)
@@ -759,7 +759,7 @@ initiative with supporting links to KEPs and more.
 - [WG API Expression](https://git.k8s.io/community/wg-api-expression/annual-report-2020.md#current-initiatives-and-project-health)
     - Server Side Apply landing stable in 1.21; will complete the groups mission
 
-- [WG Component Standard](https://git.k8s.io/community/wg-component-standard/annual-report-2020.md#current-initiatives-and-project-health)
+- WG Component Standard
     - n/a
 
 - [WG Data Protection](https://git.k8s.io/community/wg-data-protection/annual-report-2020.md#current-initiatives-and-project-health)
@@ -771,7 +771,7 @@ initiative with supporting links to KEPs and more.
     - Volume Group and Group Snapshot
     - Application Snapshots and Backups
 
-- [WG IoT/Edge](https://git.k8s.io/community/wg-iot-edge/annual-report-2020.md#current-initiatives-and-project-health)
+- WG IoT/Edge
     - n/a
 
 - [WG K8s Infra](https://git.k8s.io/community/wg-k8s-infra/annual-report-2020.md#current-initiatives-and-project-health)
@@ -780,7 +780,7 @@ initiative with supporting links to KEPs and more.
     - stop using google-containers, k8s-prow, k8s-prow-build, k8s-gubernator, kubernetes-jenkins,  GCP project
     - Migrate images used by CI jobs and test-infra components
 
-- [WG Multitenancy](https://git.k8s.io/community/multitenancy/annual-report-2020.md#current-initiatives-and-project-health)
+- [WG Multitenancy](https://git.k8s.io/community/wg-multitenancy/annual-report-2020.md#current-initiatives-and-project-health)
     - [Multi-Tenancy Benchmarks](https://sigs.k8s.io/multi-tenancy/benchmarks)
     - [Virtual Cluster Project](https://sigs.k8s.io/multi-tenancy/incubator/virtualcluster)
     - [Hierarchical Namespace Controller](https://sigs.k8s.io/multi-tenancy/incubator/hnc)
