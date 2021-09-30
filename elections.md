@@ -2,16 +2,16 @@
 
 This document outlines the process, for steering committee elections.
 
-### For the 2020 election check the [2020 Kubernetes Election Voter's Guide][voter-guide]
+### For the 2021 election check the [2021 Kubernetes Election Voter's Guide][voter-guide]
 
 ### Eligibility for voting
 
-Eligibility for voting in the 2020 Election is [defined in this year's voter guide][voter-guide]
+Eligibility for voting in the 2021 Election is [defined in this year's voter guide][voter-guide]
 
 Eligibility to vote for steering committee members for prior years is defined by:
 
 * People who had at least 50 contributions to the Kubernetes project over
-  the past year, according to a snapshot taken 2019-08-15 of the data driving
+  the past year, according to a snapshot taken 2021-09-15 of the data driving
   the [devstats developer activity counts dashboard][devstats-dashboard].
   Contributions include GitHub events like creating issues, creating pr's,
   reviewing PR's, commenting on issues, etc. For full details see
@@ -37,7 +37,7 @@ Eligibility for candidacy is defined by:
 * Endorsement by three eligible voters from three different employers (the
   candidate can self-endorse if they are eligible to vote)
 
-Check the [2020 Kubernetes Election Voter's Guide][candidacy] for the exact
+Check the [2021 Kubernetes Election Voter's Guide][candidacy] for the exact
 nomination procedure.
 
 Nominators are free to nominate as many people as they wish to. Eligible
@@ -46,9 +46,9 @@ good faith.  If this turns out to be a problem, this will be reconsidered.
 
 ### Election process
 
-Elections will be held using time-limited [Condorcet] ranking on [CIVS]
-using the [IRV method]. The top vote getters will be elected to the open
-seats.
+Elections will be held using an online preference election system which 
+supports [Condorcet] elections. The most preferred candidates will be elected to 
+the open seats.
 
 ### Maximal representation
 
@@ -123,6 +123,7 @@ History of election officers:
 2018: castrojo, parispittman, idvoretskyi  
 2019: mrbobbytables, castrojo, idvoretskyi  
 2020: jberkus, jdumars, idvoretskyi    
+2021: jberkus, alisondy, coderanger
 
 ### Vacancies
 
@@ -162,15 +163,13 @@ Steering committee members who intend to run for re-election _may_
 self-nominate but are otherwise expected to adhere to this recusal.
 
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
-[CIVS]: http://civs.cs.cornell.edu/
-[IRV method]: https://en.wikipedia.org/wiki/Instant-runoff_voting
 
 [election procedure]: https://git.k8s.io/community/events/elections/README.md
-[voting exception form]: https://www.surveymonkey.com/r/k8s-sc-election-2019
 
 [devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
 [devstats-dashboard]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
 
 [bootstrap committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
-[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2020
-[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2020#candidacy-process
+[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2021
+[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2021#candidacy-process
+[voting exception form]: https://elections.k8s.io/app/elections/2021/exception
