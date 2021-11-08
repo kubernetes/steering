@@ -6,6 +6,15 @@ The Steering Committee is a 7 member body, overseeing the governance of the
 Kubernetes project. See the [Steering Committee Charter](charter.md) for
 specific committee structure information.
 
+### Term ends in October 2023
+
+| Name | Profile | Affiliation | Term Length |
+| ---- | ------- | ----------- | ----------- |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat | 2y |
+| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco | 2y |
+| Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Apple | 2y |
+| Tim Pepper | **[@tpepper](https://github.com/tpepper)** | VMware | 2y |
+
 ### Term ends in October 2022
 
 | Name | Profile | Affiliation | Term Length |
@@ -14,26 +23,17 @@ specific committee structure information.
 | Jordan Liggitt | **[@liggitt](https://github.com/liggitt)** | Google | 2y |
 | Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google | 2y |
 
-
-### Term ends in October 2021
-
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat | 2y |
-| Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** | Red Hat | 2y |
-| Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** | VMware | 2y |
-| Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Apple | 2y |
-
-
 ### Emeritus
 
 | Name | Profile |
 | ---- | ------- |
 | Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
 | Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
+| Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** |
 | Joe Beda | **[@jbeda](https://github.com/jbeda)** |
 | Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** |
 | Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
+| Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
 | Brandon Philips | **[@philips](https://github.com/philips)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
 | Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
@@ -46,11 +46,14 @@ specific committee structure information.
 ## Meetings
 
 ### Schedule and Cadence
+
 We have two meetings every month.
+
 - We hold an open and recorded online meeting where the community is welcome to join the first Monday at 9:30am PT of every month if there is [quorum](charter.md#quorum).
 - We have a closed but recorded online meeting every 3rd Monday of the month at 9:30am PT if there is [quorum](charter.md#quorum).
 
 ### Resources
+
 - [Recordings of our meetings](https://www.youtube.com/watch?v=YAzgJRQxsdc&list=PL69nYSiGNLP1yP1B_nd9-drjoxp0Q14qM) are publicly available on youtube
 - [Meeting notes](https://bit.ly/k8s-steering-wd) are available to members of the [kubernetes-dev mailing list](https://groups.google.com/forum/#!forum/kubernetes-dev)
 
@@ -66,7 +69,7 @@ We have two meetings every month.
 - Private Mailing List: steering-private@kubernetes.io
 - [Open Community Issues/PRs](https://github.com/kubernetes/community/labels/committee%2Fsteering)
 - GitHub Teams:
-    - [@kubernetes/steering-committee](https://github.com/orgs/kubernetes/teams/steering-committee) - General Discussion
+  - [@kubernetes/steering-committee](https://github.com/orgs/kubernetes/teams/steering-committee) - General Discussion
 
 ## CNCF Representative
 
@@ -87,7 +90,7 @@ The CNCF ServiceDesk policy for Kubernetes community is defined at [ServiceDesk]
 
 The steering committee delegates ownership of various Kubernetes community accounts like GitHub, domain names, etc to SIGs and sub-projects. However, the committee also reserves top-level account access for service governance in some cases.
 
-**GSuite**
+### Google Workspace
 
 | Account | Owner |
 | ------- | ----- |
