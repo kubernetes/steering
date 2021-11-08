@@ -46,11 +46,14 @@ specific committee structure information.
 ## Meetings
 
 ### Schedule and Cadence
+
 We have two meetings every month.
+
 - We hold an open and recorded online meeting where the community is welcome to join the first Monday at 9:30am PT of every month if there is [quorum](charter.md#quorum).
 - We have a closed but recorded online meeting every 3rd Monday of the month at 9:30am PT if there is [quorum](charter.md#quorum).
 
 ### Resources
+
 - [Recordings of our meetings](https://www.youtube.com/watch?v=YAzgJRQxsdc&list=PL69nYSiGNLP1yP1B_nd9-drjoxp0Q14qM) are publicly available on youtube
 - [Meeting notes](https://bit.ly/k8s-steering-wd) are available to members of the [kubernetes-dev mailing list](https://groups.google.com/forum/#!forum/kubernetes-dev)
 
@@ -66,7 +69,7 @@ We have two meetings every month.
 - Private Mailing List: steering-private@kubernetes.io
 - [Open Community Issues/PRs](https://github.com/kubernetes/community/labels/committee%2Fsteering)
 - GitHub Teams:
-    - [@kubernetes/steering-committee](https://github.com/orgs/kubernetes/teams/steering-committee) - General Discussion
+  - [@kubernetes/steering-committee](https://github.com/orgs/kubernetes/teams/steering-committee) - General Discussion
 
 ## CNCF Representative
 
@@ -87,7 +90,7 @@ The CNCF ServiceDesk policy for Kubernetes community is defined at [ServiceDesk]
 
 The steering committee delegates ownership of various Kubernetes community accounts like GitHub, domain names, etc to SIGs and sub-projects. However, the committee also reserves top-level account access for service governance in some cases.
 
-**GSuite**
+### Google Workspace
 
 | Account | Owner |
 | ------- | ----- |
