@@ -41,7 +41,7 @@ The following responsibilities belong directly to the Steering Committee.
 
 ### Not yet delegated responsibilities
 
-The following responsibilities belong to the Steering Committe, but may be delegated in the future.
+The following responsibilities belong to the Steering Committee, but may be delegated in the future.
 
 * Coordinate with the CNCF regarding usage of the Kubernetes brand and deciding
   which things can be called “Kubernetes”, as well as how that mark can be used

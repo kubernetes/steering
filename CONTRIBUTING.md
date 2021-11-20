@@ -1,11 +1,16 @@
 # Contributing to Steering  
-This repo and the committee itself   
+This repo and the Committee itself   
 
-This repo is for the use of the steering committee to organize itself and record
+This repo is for the use of the Steering Committee to organize itself and record
  decisions and processes.
 
 The right mode to contribute depends on the type of change that you are
-proposing or engagement level you are seeking with the committee.
+proposing or engagement level you are seeking with the Committee.
+
+# Non-members
+
+Submit a PR and then send email to steering@kubernetes.io.
+To communicate sensitive items with the Steering Committee privately, send an email to steering-private@kubernetes.io.
 
 # Steering Committee Members
 
