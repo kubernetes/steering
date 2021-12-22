@@ -8,6 +8,17 @@ Please see Appendices for full reports and program goals.
 
 This report is a snapshot of the community as of December 2020. 
 
+1. [Terminology](#terminology)
+2. [Contributor Snapshot](#contributor-snapshot)
+3. [Community Milestones](#community-milestones)
+4. [Governance](#governance)
+5. [Accolades](#accolades)
+6. [Themes](#themes)
+7. [Growth Areas](#growth-areas)
+8. [/help-wanted](#/help-wanted)
+9. [Current Initiatives](#current-initiatives)
+10. [Appendices](#appendices)
+
 ### Terminology
 
 This report uses the following terminology:
