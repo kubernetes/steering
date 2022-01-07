@@ -80,11 +80,11 @@ There are various cases when the Steering Committee may require interactions wit
 | Ihor Dvoretskyi | **[@idvoretskyi](https://github.com/idvoretskyi)** |
 
 For more details on the relationship between Steering and CNCF, please see a
-dedicated document [Relationship with the CNCF](cncf-and-k8s.md).
+dedicated document [Relationship with the CNCF](operations/cncf-and-k8s.md).
 
 ### CNCF ServiceDesk access
 
-The CNCF ServiceDesk policy for Kubernetes community is defined at [ServiceDesk](service-desk.md).
+The CNCF ServiceDesk policy for Kubernetes community is defined at [ServiceDesk](operations/service-desk.md).
 
 ## Top-level Accounts
 
