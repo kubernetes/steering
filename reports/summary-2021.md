@@ -21,9 +21,9 @@ This report uses the following terminology:
   Interest Groups + Working Groups + Committees = community groups. For a full
   list, visit the Kubernetes Contributor Site at: https://k8s.dev/groups 
 - **Chair and/or Tech Lead:** a contributor who organizes and leads a community group.
-- **KEP:** [Kubernetes Enhancement Proposal][kep]
+- **KEP:** a [Kubernetes Enhancement Proposal][kep]
 - **OWNER:** a GitHub user who reviews, approves, and/or merges commits and is listed in an
-  [OWNERs file]. Maintainer is a good industry synonym.
+  [`OWNERS` file]. Maintainer is a good industry synonym.
 - **Contributor Ladder:** [member, reviewer, approver, subproject owner].
 
 
@@ -36,7 +36,7 @@ For community groups governance:
   - [WG governance]
 
 
-[OWNERs file]: https://www.kubernetes.dev/docs/guide/owners/
+[`OWNERS` file]: https://www.kubernetes.dev/docs/guide/owners/
 [member, reviewer, approver, subproject owner]: https://git.k8s.io/community/community-membership.md
 [SIG governance]: https://git.k8s.io/community/committee-steering/governance/sig-governance.md
 [WG governance]: https://git.k8s.io/community/committee-steering/governance/wg-governance.md
@@ -113,7 +113,7 @@ Several features that graduated to stable or made notable progress include:
   plugins to out-of-tree CSI drivers.
 
 Other project processes are maturing, too, and not just the code. A new way to
-cast votes in elections for runs like Steering Committee and more via [Elekto].
+cast votes in elections (like Steering Committee and more) runs via [Elekto].
 The [Kubernetes Monthly Community meeting] was rebooted to include discussions
 and not just presentations.
 
@@ -138,7 +138,7 @@ formula for growing OWNERs and leaders on the project.
 An example of an intentional contributor ladder growth effort happened in SIG 
 Docs by growing its contributor and reviewer base in 2021. They introduced a 
 shadow program for PR Wrangling and dedicated more time to being active in 
-#sig-docs slack channel, helping grow the community. SIG Docs also worked on 
+the `#sig-docs` Slack channel, helping grow the community. SIG Docs also worked on
 a leadership transition strategy to bring community members into leadership 
 roles via a specialized six-month group mentorship program. They were able to 
 cultivate leaders for the SIG and some of its subgroups, adding new co-chairs 
@@ -152,22 +152,25 @@ Thanks for your service and great job, team!
 #### Amping up Kubernetes security
 
 Every group in Kubernetes has a responsibility to make sure we are putting
-our best foot forward with supply chain security. Accolades to both
-sig-release, sig-auth, and sig-security for their sustained efforts in this 
+our best foot forward with supply chain security. Accolades to all of
+SIG Release, SIG Auth, and SIG Security for their sustained efforts in this
 area that include: 
 - generating SBOMs, 
 - complining to SLSA 3 standards, 
 - artifact signing,
-- rearchitecting release process from bash to Go
-- Adding new features, tests and checks to the release process which were 
-missing from the original anago (binary verification, CVE disclosure, building 
-from custom branches and repositories).
-- improving end-user security documentation.
+- rearchitecting release process from bash to Go,
+- and adding new features, tests and checks to the release process - these were 
+  missing from the original anago tooling (binary verification, CVE disclosure, building 
+  from custom branches and repositories).
+
+Alongside those improvements specifically to supply-chain security, we've seen:
+
+- improvements to end-user security documentation.
 - Pod credentials are auto-revoked when pods complete or are deleted (1.22+)
 - 1.22, CSI drivers can use pod-scoped credentials with [`CSIServiceAccountToken`]
 - Certificates can be requested with shorter lifetimes (1.22+)
 - Pods can listen on low ports without requiring a root user or expanded capabilities (1.22+)
-- 1.23, [Pod Security admission] has graduated to beta and is enabled by default
+- [Pod Security admission] has graduated to beta and is enabled by default (1.23+)
   
 [Pod Security admission]: https://kubernetes.io/docs/concepts/security/pod-security-admission/
 [`CSIServiceAccountToken`]: https://git.k8s.io/enhancements/keps/sig-storage/1855-csi-driver-service-account-token
@@ -177,8 +180,8 @@ from custom branches and repositories).
 There are plenty of processes, tools, and policy that are put 
 together in a project lifecycle that eventually need to be phased 
 out for whatever reason. A contributor painpoint that we've had with 
-a codebase this large is [bazel]. The crews in sig-testing and 
-sig-release put in a lot of time and attention on removing bazel 
+a codebase this large is [bazel]. The crews in SIG Testing and 
+SIG Release put in a lot of time and attention on removing bazel
 from kubernetes/kubernetes. There are some pieces left in 
 kubernetes/test-infra but needless to say, we are on the road to 
 moving on in our build processes.  
@@ -187,7 +190,7 @@ moving on in our build processes.
 
 #### Growing Windows support 
 
-Thanks to the sig-windows team and surrounding groups for their efforts 
+Thanks to the SIG Windows team and surrounding groups for their efforts 
 in growing the support in this space! A true testament to the power of the 
 ecosystem. They have more upcoming work to do and we are looking forward 
 to seeing their growth in 2022 and beyond. 
@@ -195,7 +198,7 @@ to seeing their growth in 2022 and beyond.
 Details:
 Implemented hostProcess container support in Kubernetes (now in beta) and
 pomoted adoption in multiple open source communities
-Defined the kubectl node logs command interface.
+Defined the kubectl subcommand for fetching node-level logs.
 Made the developer UX for windows transparent with sig-windows-dev-tools.
 Defined windows operational readiness standards.
 Defined the pod OS field.
@@ -242,7 +245,7 @@ reverse this trend:
 [reviewers and approvers should apply]: https://groups.google.com/a/kubernetes.io/g/dev/c/6F3h0Z1QzVg
 
 
-#### Independent contributors play a critial role on the project
+#### Independent contributors play a critical role on the project
 
 A misconception is that this project is just cloud providers maintaining it;
 however, one of our biggest contributor bases are "[independent]" that is, not
@@ -271,7 +274,7 @@ lasting contributions.
 
 As part of upcoming surveys, we will poll the indpedenet contributors on various
 topics and how we can support them more. As always, we welcome feedback via
-[SIG Contributor Exerperience] or for high level goverannce matters, the
+[SIG Contributor Experience] or for high level governance matters, the
 [Steering Committee].
 
 [SIG Contributor Exerperience]:https://git.k8s.io/community/sig-contributor-experience#contact
@@ -386,7 +389,7 @@ tackle long term strategies together.
 - Are there additional actions we might take in the short term?
 
 
-#### This reporting process and it's summary 
+#### This reporting process and its summary
 
 This process takes us 6 months. This is both not sustainable and not helpful.
 Between our groups being heads down shipping reliable and stable enhancements, 
@@ -436,7 +439,7 @@ Specifically SIG Auth is looking for help in these initatives:
 - Specifying multiple webhooks in the kube-apiserver authorization chain
 - Structured config for OIDC authentication
 - Audit logging improvements
-- system:masters rename
+- Renaming the `system:masters` group
  
 
 [KEPs that need help]: https://docs.google.com/document/d/1sY8fRyRtk4eG9R439z5ao5i9bFuuxilS03XaNlqoni0/edit
@@ -450,9 +453,10 @@ SIG CLI has three areas where they're looking for more help:
 - Optimizing [kubectl memory usage].
 - Contributors that can dedicate time and grow into maintainer roles (reviewer /
   approver) for [Kustomize].
-- SIG-CLI's docs for both kubectl and kustomize need additional support. They
+- SIG CLI's docs for both kubectl and kustomize need additional support. They
   are built off [cli-experimental], are outdated, need SEO improvements and
-  migrated to the new kustomize.io and kubectl.io domains.
+  migrated to the new kustomize.io and kubectl.io domains. Alignment with k8s.io docs
+  would be useful too.
 
 [kubectl memory usage]: https://github.com/kubernetes/kubectl/issues/978
 [kustomize]: https://github.com/kubernetes-sigs/kustomize
@@ -480,7 +484,7 @@ The SIG is looking for a full time community manager. Also, there are three
     to newer, prospective community members, guiding them through the process
     to request membership to a Kubernetes GitHub organization.
 - [Community Management Automation]
-  - [Auto upload recordings from Zoom to Youtube]
+  - [Auto upload recordings from Zoom to YouTube]
     - Every community group (SG/WG/Committee) records and publishes their meetings
       for transparency. The current process is frought with manual work and toil,
       frequently leading to recordings being published in batches long after the
@@ -547,7 +551,8 @@ active approver and is used a number of endusers.
 
 SIG K8s Infra is looking for engineers to help build tools to automate more of the
 project's infrastructure and to help migrate more tests to community owned resources.
-Please show up to #sig-k8s-infra on slack to help with this important group. 
+Please show up to #sig-k8s-infra on Slack to help with this important group.
+(You can get an invitation to Slack from https://slack.k8s.io/)
 
 
 
@@ -560,7 +565,7 @@ SIG Release is looking for more contributors in a number of subprojects
   The tool that generates the site downloadkubernetes.com, making it easier to
   download Kubernetes release artifacts
 - [kubernetes-sigs/mdtoc](https://github.com/kubernetes-sigs/mdtoc) - A small
-  utility that generates markdown Table of Contents
+  utility that generates a Table of Contents in Markdown.
 - [kubernetes-sigs/release-notes](https://github.com/kubernetes-sigs/release-notes) -
   Generator for Kubernetes release notes
 - [kubernetes-sigs/zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) -
@@ -593,7 +598,7 @@ scheduling profiles/plugins needs more reviewers and approvers.
 The SIG Security [docs subproject] is always looking for security-minded
 contributors of all experience levels to share their learning and knowledge
 with the community. This subproject has consistently been a place where people
-merge their first Kubernetes PRs.There’s always room for continuous improvement
+merge their first Kubernetes PRs. There’s always room for continuous improvement
 in our documentation, and contributing to this provides an opportunity to
 learn more about Kubernetes security while helping everyone run their clusters
 more safely. We’re really proud of the way Docs encourages and welcomes new
@@ -658,7 +663,7 @@ Looking for full time contributors to help with:
 
 #### [WG API Expression](https://git.k8s.io/community/wg-api-expression/annual-report-2021.md#project-health)
 
-- No Report
+_No Report_
 
 
 #### [WG Data Protection](https://git.k8s.io/community/wg-data-protection/annual-report-2021.md#project-health)
@@ -673,7 +678,7 @@ Spinning down inside of Kubernetes and heading to CNCF level
 
 #### [WG Multitenancy](https://git.k8s.io/community/wg-multitenancy/annual-report-2021.md#project-health)
 
-- https://github.com/kubernetes/community/pull/6598 open, but no help wanted items in that report
+No specific help needed! Contributions are still welcome.
 
 
 #### [WG Structured Logging](https://git.k8s.io/community/wg-structured-logging/annual-report-2021.md#project-health)
@@ -696,9 +701,9 @@ There are a number of  [Other initiatives]
 
 #### [SIG Apps](https://git.k8s.io/community/sig-apps/annual-report-2021.md#current-initatives)
 
-- Significant improvements were made to the job API. Finally driving Cronjobs
+- Significant improvements were made to the Job API, along with finally driving CronJobs
   to stable and introduced several long-desired features. This work is expected
-  to continue through 2022 to finish rounding out the job API.
+  to continue through 2022 to finish rounding out the Job API.
   - [CronJobs promoted to stable (1.21)](https://git.k8s.io/enhancements/keps/sig-apps/19-Graduate-CronJob-to-Stable)
   - [Indexed Job promoted to beta (1.22)](https://git.k8s.io/enhancements/keps/sig-apps/2214-indexed-job)
   - [Suspend Job promoted to beta (1.22)](https://git.k8s.io/enhancements/keps/sig-apps/2232-suspend-jobs)
@@ -770,7 +775,7 @@ Kubernetes Enhancements:
 
 #### [SIG CLI](https://git.k8s.io/community/sig-cli/annual-report-2021.md#current-initiatives)
 
-SIG CLI made progress on a number of initatives in 2021:
+SIG CLI made progress on a number of initiatives in 2021:
 - [kubectl events alpha command](https://github.com/kubernetes/enhancements/blob/master/keps/sig-cli/1440-kubectl-events/README.md).
 - [KRM Functions subproject started](https://github.com/kubernetes-sigs/krm-functions-registry).
 - New changes to leadership.
@@ -804,7 +809,7 @@ Kubernetes Enhancements
 
 #### [SIG Cloud Provider](https://git.k8s.io/community/sig-cloud-provider/annual-report-2021.md#current-initiatives)
 
-No Report
+_No Report_
 
 
 #### [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience/annual-report-2021.md#current-initiatives)
@@ -828,7 +833,7 @@ twitter account to reach 5700 follows with a number of them being contributors.
 [@k8scontributors]: https://twitter.com/k8scontributors
 
 
-Contribex is a service and program orientated SIG. Most of it's initiatives
+Contributor Experience (“ContribEx”) is a service and program orientated SIG. Most of its initiatives
 cover long term services for the Kubernetes project.
 
 |                                                  **Subproject**                                                 |                                                **Initiative / Program**                                               |
