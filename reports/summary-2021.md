@@ -105,7 +105,7 @@ Several features that graduated to stable or made notable progress include:
   Instrumentation)
 - [Server-side Apply] graduated to stable in v1.22 (SIG API Machinery)
 - [Client credential plugins] graduated to stable in v1.22 (SIG Auth)
-- [kubetest2] is maturing (SIG Testing)
+- [Kubetest2] is maturing (SIG Testing)
 - [CSI migration] has been an effort that has been going on for several releases.
   It involves SIG Storage, SIG Cloud Provider, and contributors across many
   cloud providers and storage vendors to work together and move in-tree volume
@@ -347,7 +347,7 @@ this space.
 
 ### Growth Areas
 
-An area of the project that we've identified as having a growth opportunity or need to grow
+This section represents an area of the project that we've identified as having a growth opportunity or need.
 
 
 
@@ -392,7 +392,7 @@ tackle long term strategies together.
 
 This process takes us 6 months. This is both not sustainable and not helpful.
 Between our groups being heads down shipping reliable and stable enhancements, 
-societal challenges and atrocities that effect us like the war in Ukraine and 
+societal challenges and atrocities that affect us such the war in Ukraine, not to mention
 a global pandemic, we have a lot of leniency for groups getting this together.
 Our contributors live all over the world, have day jobs, and might have their
 own challenges that they are living through. 
