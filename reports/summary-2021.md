@@ -4,7 +4,6 @@ This is a summary of the Kubernetes project’s contributor community and
 activities. This report documents both quantitative measures of community
 health (project milestones and snapshot) as well as qualitative measures of the
 community as reported by community leaders and contributors to the project.
-Please see Appendices for full reports and program goals.
 
 
 ## Terminology
@@ -1134,7 +1133,7 @@ Kubernetes Enhancements
 
 #### [WG API Expression](https://git.k8s.io/community/wg-api-expression/annual-report-2021.md#current-initiatives)
 
-- Server-side Apply went GA
+- Server-side Apply went GA in 1.22
 - Started new initiatives around OpenAPI v3
 - Enum for built-in types in OpenAPI
 - Server-side field validation
