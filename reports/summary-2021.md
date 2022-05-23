@@ -156,7 +156,7 @@ our best foot forward with supply chain security. Accolades to all of
 SIG Release, SIG Auth, and SIG Security for their sustained efforts in this
 area that include: 
 - generating SBOMs, 
-- complining to SLSA 3 standards, 
+- compliance with [SLSA 3 standards](https://slsa.dev), 
 - artifact signing,
 - rearchitecting release process from bash to Go,
 - and adding new features, tests and checks to the release process - these were 
@@ -167,7 +167,7 @@ Alongside those improvements specifically to supply-chain security, we've seen:
 
 - improvements to end-user security documentation.
 - Pod credentials are auto-revoked when pods complete or are deleted (1.22+)
-- 1.22, CSI drivers can use pod-scoped credentials with [`CSIServiceAccountToken`]
+- CSI drivers can use pod-scoped credentials using [Service Account Token for CSI Driver] (1.22+)
 - Certificates can be requested with shorter lifetimes (1.22+)
 - Pods can listen on low ports without requiring a root user or expanded capabilities (1.22+)
 - [Pod Security admission] has graduated to beta and is enabled by default (1.23+)
@@ -196,12 +196,12 @@ ecosystem. They have more upcoming work to do and we are looking forward
 to seeing their growth in 2022 and beyond. 
 
 Details:
-Implemented hostProcess container support in Kubernetes (now in beta) and
+- Implemented hostProcess container support in Kubernetes (now in beta) and
 pomoted adoption in multiple open source communities
-Defined the kubectl subcommand for fetching node-level logs.
-Made the developer UX for windows transparent with sig-windows-dev-tools.
-Defined windows operational readiness standards.
-Defined the pod OS field.
+- Defined the kubectl subcommand for fetching node-level logs.
+- Made the developer UX for windows transparent with sig-windows-dev-tools.
+- Defined windows operational readiness standards.
+- Defined the pod OS field.
 
 
 
@@ -267,7 +267,7 @@ contributors with employer-backed time, and this was a great step toward that
 goal. Aligning contributors with the right incentives is the sweet spot for
 lasting contributions. 
 
-[cncf.jobs.io site]: https://cncf.jobs.io
+[jobs.cncf.io site]: https://jobs.cncf.io
 
 
 ##### Areas to research?
@@ -299,7 +299,7 @@ is a great way to get involved if you are new to a group! Want to become an OWNE
 Set someone up for success behind you by creating documentation for your area.
 
 [k8s.dev/guide]: https://k8s.dev/guide
-[this information]:
+[this information]: https://github.com/kubernetes/community/tree/master/contributors/devel
 
 
 #### What have we done?
@@ -366,7 +366,7 @@ keep their area healthy.
 #### Every group needs more reviewers
 
 If you've been watching open source news over the last year, supply chain security has made headlines. According to OpenSSF and other security groups, [insert line about reviewers are important] 
-Reviewers are a key part of our success in quality code and documentation changes upstream. Reviewer is the next step on our [contributor ladder](link to URL) post member 
+Reviewers are a key part of our success in quality code and documentation changes upstream. Reviewer is the next step on our [contributor ladder](https://github.com/kubernetes/community/blob/master/community-membership.md) post member 
 - talk about showing up and sticking around
 - talk about chopping wood and carrying water first 
 - maybe include the reviewer graph stats 
@@ -421,7 +421,7 @@ a call for interns soon. [Have other advice for us?]
 
 #### [SIG Apps](https://git.k8s.io/community/sig-apps/annual-report-2021.md#project-health)
 
-SIG Apps is looking to grow their pool of [reviewer and appprover]. Contributors
+SIG Apps is looking to grow their pool of [reviewers and appprovers]. Contributors
 looking at growing into these roles can join the[SIG Apps / SIG CLI Review club].
 
 [reviewer and appprover]: #OWNERmaintainer
@@ -695,7 +695,7 @@ No specific help needed! Contributions are still welcome.
 #### [SIG API Machinery](https://git.k8s.io/community/sig-api-machinery/annual-report-2021.md#current-initiatives)
 
 API Machinery is evaluating the potential for generics in go1.19.
-There are a number of  [Other initiatives]
+There are a number of [other initiatives].
 
 [Other initiatives]: https://github.com/kubernetes/enhancements/issues?q=is%3Aissue+label%3Asig%2Fapi-machinery+updated%3A%3E%3D2021-01-01+is%3Aopen
 
@@ -1167,7 +1167,7 @@ in a KEP:
 
 #### [WG IoT/Edge](https://git.k8s.io/community/wg-iot-edge/annual-report-2021.md#current-initiatives)
 
-The IoT/Edge Working Ground is moving to the CNCF ecosystem. Home to be announced soon.
+The IoT/Edge Working Ground is moving to the CNCF ecosystem. 
 
 #### [WG Structured Logging](https://git.k8s.io/community/wg-structured-logging/annual-report-2021.md#current-initiatives)
 
@@ -1183,10 +1183,6 @@ Alpha:
 
 
 
-### Appendix A
-
-
-### Appendix B
 
 
 
