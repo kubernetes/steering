@@ -1,10 +1,12 @@
-## Annual Report summary 21/22
+## Annual Report Summary 2021
 
 This is a summary of the Kubernetes project’s contributor community and
 activities. This report documents both quantitative measures of community
 health (project milestones and snapshot) as well as qualitative measures of the
 community as reported by community leaders and contributors to the project.
 
+Authors: The Kubernetes Steering Committee
+Editor: Tim Bannister, @sftim, sig-docs Tech Lead 
 
 ## Terminology
 
@@ -20,6 +22,7 @@ This report uses the following terminology:
   Interest Groups + Working Groups + Committees = community groups. For a full
   list, visit the Kubernetes Contributor Site at: https://k8s.dev/groups 
 - **Chair and/or Tech Lead:** a contributor who organizes and leads a community group.
+- **Contributor:** An individual who creates an event in GitHub like a Pull Request, Issue, Review, or Comment
 - **KEP:** a [Kubernetes Enhancement Proposal][kep]
 - **OWNER:** a GitHub user who reviews, approves, and/or merges commits and is listed in an
   [`OWNERS` file]. Maintainer is a good industry synonym.
@@ -54,9 +57,9 @@ For more, see:
 
 ## Contributor snapshot
 
-66000 
+62000 
 contributors all time
-TODO: add a contributors for the year
+10000 new contributors this year
 
 1 
 new sig SIG K8s Infra, converted from WG
@@ -339,8 +342,9 @@ this space.
 
 #### What have we done
 - Reducing the release cadence. While this wasn't the only reason for having 
-3 and not 4 releases in a year, 
-
+3 and not 4 releases in a year, it factored in. [Check out this blog for more on the release cadence change](https://kubernetes.io/blog/2021/07/20/new-kubernetes-release-cadence/).
+- Continue to talk about how we can do better in our monthly Chairs and Tech Leads and keeping our doors open for contributors to have these conversations with us.
+- Keep educating contributors and OWNERs on the use of "Emeritus" and why it's ok to take breaks.
 
 
 
