@@ -22,7 +22,7 @@ This report uses the following terminology:
   Interest Groups + Working Groups + Committees = community groups. For a full
   list, visit the Kubernetes Contributor Site at: https://k8s.dev/groups 
 - **Chair and/or Tech Lead:** a contributor who organizes and leads a community group.
-- **Contributor:** An individual who creates an event in GitHub like a Pull Request, Issue, Review, or Comment
+- **Contributor:** an individual who creates an event in GitHub like a Pull Request, Issue, Review, or Comment
 - **KEP:** a [Kubernetes Enhancement Proposal][kep]
 - **OWNER:** a GitHub user who reviews, approves, and/or merges commits and is listed in an
   [`OWNERS` file]. Maintainer is a good industry synonym.
@@ -420,7 +420,7 @@ a call for interns soon. [Have other advice for us?]
 #### [SIG Apps](https://git.k8s.io/community/sig-apps/annual-report-2021.md#project-health)
 
 SIG Apps is looking to grow their pool of [reviewers and appprovers]. Contributors
-looking at growing into these roles can join the[SIG Apps / SIG CLI Review club].
+looking at growing into these roles can join the [SIG Apps / SIG CLI Review club].
 
 [reviewer and appprover]: #OWNERmaintainer
 [SIG Apps / SIG CLI Review club]: https://groups.google.com/g/kubernetes-sig-apps/c/aTymvEPd2y0/m/HbqV7NiZBAAJ
