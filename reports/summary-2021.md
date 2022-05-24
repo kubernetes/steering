@@ -6,7 +6,7 @@ health (project milestones and snapshot) as well as qualitative measures of the
 community as reported by community leaders and contributors to the project.
 
 Authors: The Kubernetes Steering Committee  
-Editor: Tim Bannister, @sftim, sig-docs Tech Lead 
+Editor: Tim Bannister, @sftim, SIG Docs Tech Lead
 
 ## Terminology
 
@@ -201,8 +201,8 @@ Details:
 - Implemented hostProcess container support in Kubernetes (now in beta) and
 pomoted adoption in multiple open source communities
 - Defined the kubectl subcommand for fetching node-level logs.
-- Made the developer UX for windows transparent with sig-windows-dev-tools.
-- Defined windows operational readiness standards.
+- Made the developer UX for Windows transparent with sig-windows-dev-tools.
+- Defined operational readiness standards for Windows.
 - Defined the pod OS field.
 
 
