@@ -1165,7 +1165,7 @@ in a KEP:
 
 #### [WG IoT/Edge](https://git.k8s.io/community/wg-iot-edge/annual-report-2021.md#current-initiatives)
 
-The IoT/Edge Working Ground is moving to the CNCF ecosystem. 
+The IoT/Edge Working Group is moving to the CNCF ecosystem. 
 
 #### [WG Structured Logging](https://git.k8s.io/community/wg-structured-logging/annual-report-2021.md#current-initiatives)
 
