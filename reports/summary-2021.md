@@ -344,7 +344,7 @@ this space.
 - Reducing the release cadence. While this wasn't the only reason for having 
 3 and not 4 releases in a year, it factored in. [Check out this blog for more on the release cadence change](https://kubernetes.io/blog/2021/07/20/new-kubernetes-release-cadence/).
 - Continue to talk about how we can do better in our monthly Chairs and Tech Leads and keeping our doors open for contributors to have these conversations with us.
-- Keep educating contributors and OWNERs on the use of "Emeritus" and why it's ok to take breaks.
+- Educating contributors and OWNERs on the use of "Emeritus" and why it's ok to take breaks.
 
 
 
@@ -368,12 +368,9 @@ keep their area healthy.
 
 #### Every group needs more reviewers
 
-If you've been watching open source news over the last year, supply chain security has made headlines. According to OpenSSF and other security groups, [insert line about reviewers are important] 
-Reviewers are a key part of our success in quality code and documentation changes upstream. Reviewer is the next step on our [contributor ladder](https://github.com/kubernetes/community/blob/master/community-membership.md) post member 
-- talk about showing up and sticking around
-- talk about chopping wood and carrying water first 
-- maybe include the reviewer graph stats 
-
+If you've been watching open source news over the last year, supply chain security has made headlines. According to OpenSSF and other security groups, code reviews are an important piece to putting prioritization on security. Kubernetes strives for two reviews (a reviewer and approver) to match our values of quality and high-trust. 
+Reviewers are a key part of our success in quality code and documentation changes upstream. Reviewer is the next step on our [contributor ladder](https://github.com/kubernetes/community/blob/master/community-membership.md) post Org Member; however, you don't need to be in an OWNERs file as a Reviewer to review. Anyone can leave a comment or an "/lgtm" (looks good to me!). As we try and grow top level approvers, sticking around and getting into an OWNERs file as a Reviewer is crucial for our sustainability as a project to keep pace.  
+As a data point, in 1.19, the average daily PR reviewers were down -15% across Kubernetes Orgs and -24% in the Kubernetes/Kubernetes repo while still receiving the same amount of issues and PRs. If you are trying to get a change into Kubernetes, this will effect you.
 
 #### The 9 to 5 contributor is almost over and we have to adjust
 
