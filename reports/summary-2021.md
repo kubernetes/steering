@@ -57,31 +57,29 @@ For more, see:
 
 ## Contributor snapshot
 
-62000 
-contributors all time
-10000 new contributors this year
+62000   
+contributors all time  
+10000  
+new contributors this year  
+  
+1   
+new sig SIG K8s Infra, converted from WG  
+  
 
-1 
-new sig SIG K8s Infra, converted from WG
-
-3 
-emeritus leads 
-TODO: we need the stat for OWNERs 
-
-1 
-new working group
-
-5 
-new chairs and tech leads 
-
-10 or less 
-unique reviewers in 8 groups
-
-8.29 
-average active meeting participants in each group
-
-~70000 
-slack members in SIG/WG rooms
+1   
+new working group  
+  
+5   
+new chairs and tech leads   
+  
+10 or less  
+unique reviewers in 8 groups  
+  
+8.29   
+average active meeting participants in each group  
+  
+~70000   
+slack members in SIG/WG rooms  
 
 
 [Kubernetes Community repo]: https://github.com/kubernetes/community
@@ -199,7 +197,7 @@ to seeing their growth in 2022 and beyond.
 
 Details:
 - Implemented hostProcess container support in Kubernetes (now in beta) and
-pomoted adoption in multiple open source communities
+promoted adoption in multiple open source communities
 - Defined the kubectl subcommand for fetching node-level logs.
 - Made the developer UX for Windows transparent with sig-windows-dev-tools.
 - Defined operational readiness standards for Windows.
@@ -336,7 +334,7 @@ The topics of burnout and workload management are frequent in our Leads and
 group meetings, Steering Committee, and even the growing voices at ecosystem
 level during talks and events at KubeCon/CloudNativeCons. This is an industry
 wide problem that we need to solve together. With a mix of reasons why 
-contributors are burning out, there is no one solve all solution here. 
+contributors are burning out, there is no one "solve all" solution here. 
 Aligning incentives to grow OWNERs seems to be one of the main challenges in 
 this space. 
 
