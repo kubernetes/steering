@@ -53,6 +53,14 @@ The following responsibilities belong to the Steering Committe, but may be deleg
 * Control and delegate access to and establish processes regarding
   project resources/assets<sup>[6](#footnote6)</sup>  
 
+## Changes
+
+In instances where a process is not already specified within this document,
+changes to the Steering Committee charter will be considered according to the
+processes set forth in the committee's [operations documentation][changes].
+
+[changes]: /operations/changes.md
+
 ## Quorum
 
 Steering committee members are generally expected to attend every meeting. We
