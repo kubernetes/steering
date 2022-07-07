@@ -53,6 +53,38 @@ The following responsibilities belong to the Steering Committe, but may be deleg
 * Control and delegate access to and establish processes regarding
   project resources/assets<sup>[6](#footnote6)</sup>  
 
+## Changes
+
+In instances where a process is not already specified within this document,
+changes to the Steering Committee charter will be considered according to the
+processes set forth in the committee's [operations documentation][changes].
+
+[changes]: /operations/changes.md
+
+## Elections
+
+Every year, the Steering Committee holds a general election for open seats.
+
+Our [election policy document][general-elections] covers the details for how
+this works.
+
+[general-elections]: /elections.md
+
+### Vacancies
+
+In the event of a resignation or other loss of an elected steering committee
+member, the candidate with the next most votes from the previous election will
+be offered the seat.  This process will continue until the seat is filled.
+
+In case this fails to fill the seat, a special election for that position will
+be held as soon as possible. [Eligible voters][voter-eligibility] from the most
+recent election will vote in the special election i.e., eligibility will not be
+redetermined at the time of the special election. A committee member elected in
+a special election will serve out the remainder of the term for the person they
+are replacing, regardless of the length of that remainder.
+
+[voter-eligibility]: /elections.md#eligibility-for-voting
+
 ## Quorum
 
 Steering committee members are generally expected to attend every meeting. We

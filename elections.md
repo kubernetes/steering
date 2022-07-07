@@ -127,19 +127,7 @@ History of election officers:
 
 ### Vacancies
 
-In the event of a resignation or other loss of a [bootstrap committee member],
-the position will not be refilled.
-
-In the event of a resignation or other loss of an elected steering committee
-member, the candidate with the next most votes from the previous election will
-be offered the seat.  This process will continue until the seat is filled.
-
-In case this fails to fill the seat, a special election for that position will
-be held as soon as possible. Eligible voters from the most recent election
-will vote in the special election (ie: eligibility will not be redetermined
-at the time of the special election). A committee member elected in a special
-election will serve out the remainder of the term for the person they are
-replacing, regardless of the length of that remainder.
+See [Steering Committee charter](/charter.md).
 
 ### Limiting Corporate Campaigning
 
