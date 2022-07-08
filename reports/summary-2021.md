@@ -576,7 +576,7 @@ SIG Release is looking for more contributors in a number of subprojects
 
 SIG Scalability is looking to grow their contributors base across all their
 [subprojects][scale-sp]. Good entry points for new scalability contributors are
-the [Scalability Test Framework] and [Performance Tests & Validaiton subproject].
+the [Scalability Test Framework] and [Performance Tests & Validation subproject].
 
 [scale-sp]: https://git.k8s.io/community/sig-scalability/#subprojects
 [Scalability Test Framework]: https://git.k8s.io/community/sig-scalability/#kubernetes-scalability-test-frameworks-1
