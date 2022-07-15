@@ -1176,7 +1176,7 @@ Kubernetes Enhancements
 Beta:
 - [Structured Logging](https://git.k8s.io/enhancements/keps/sig-instrumentation/1602-structured-logging) v1.23
 Alpha:
-- [Deprecation of klog specific flags](https://git.k8s.io/enhancements/keps/sig-instrumentation/2845-deprecate-klog-specific-flags-in-k8s-components v1.23
+- [Deprecation of klog specific flags](https://git.k8s.io/enhancements/keps/sig-instrumentation/2845-deprecate-klog-specific-flags-in-k8s-components) v1.23
 
 
 
