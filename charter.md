@@ -61,7 +61,13 @@ processes set forth in the committee's [operations documentation][changes].
 
 [changes]: /operations/changes.md
 
-## Elections
+## Membership
+
+### Composition
+
+The Steering Committee is composed of seven (7) members.
+
+### Elections
 
 Every year, the Steering Committee holds a general election for open seats.
 
@@ -72,28 +78,150 @@ this works.
 
 ### Vacancies
 
-In the event of a resignation or other loss of an elected steering committee
-member, the candidate with the next most votes from the previous election will
-be offered the seat.  This process will continue until the seat is filled.
+In the event of a resignation or other loss of an elected committee member, the
+next most preferred candidate from the previous election will be offered the
+seat.
+
+A maximum of one (1) committee member may be selected this way between
+elections.
 
 In case this fails to fill the seat, a special election for that position will
-be held as soon as possible. [Eligible voters][voter-eligibility] from the most
-recent election will vote in the special election i.e., eligibility will not be
-redetermined at the time of the special election. A committee member elected in
-a special election will serve out the remainder of the term for the person they
-are replacing, regardless of the length of that remainder.
+be held as soon as possible.
 
+[Eligible voters][voter-eligibility] from the most recent election will vote in
+the special election i.e., eligibility will not be redetermined at the time of
+the special election.
+
+A committee member elected in a special election will serve out the remainder
+of the term for the person they are replacing, regardless of the length of that
+remainder.
+
+[maximal-representation]: /elections.md#maximal-representation
 [voter-eligibility]: /elections.md#eligibility-for-voting
 
-## Quorum
+### Resignation
 
-Steering committee members are generally expected to attend every meeting. We
+If a committee member chooses not to continue in their role, for whatever
+self-elected reason, they must notify the committee in writing.
+
+### Removal
+
+#### No confidence
+
+A Steering Committee member may be removed by an affirmative vote of a
+**_three-quarters supermajority of the
+[fixed membership of the committee](#composition)_**.
+
+Example:
+
+* 7 (members) / 4 = 1.75
+* 1.75 * 3 = 5.25
+* Round up to the nearest whole number (6)
+* Six (6) affirmative votes would be required to remove a member through a vote
+  of no confidence
+
+The call for a vote of no confidence will happen in a public Steering Committee
+meeting and must be documented as a GitHub issue in the committee's
+[repository][steering-repo].
+
+The call for a vote of no confidence must be made by a current member of the
+committee and must be seconded by another current member.
+
+The committee member who calls for the vote will prepare a statement which
+provides context on the reason for the vote. This statement must be seconded by
+the committee member who seconded the vote.
+
+Once a vote of no confidence has been called, the committee will notify the
+community through the following channels:
+
+* the [community mailing list][dev-list]
+* the [Steering Committee public mailing list][steering-public-list]
+
+This notification will include:
+
+* a link to the aforementioned GitHub issue
+* the statement providing context on the reason for the vote
+
+There will be a period of two weeks for members of the community to reach
+out to Steering Committee members to provide feedback.
+
+Community members may provide feedback by the following methods:
+
+* commenting on the GitHub issue
+* sending an email to the
+  [Steering Committee private mailing list][steering-private-list]
+* sending a message to individual committee members
+
+After this feedback period, Steering Committee members must vote on the issue
+within 48 hours.
+
+If the vote of no confidence is passed, the member in question will be
+immediately removed from the committee.
+
+[dev-list]: mailto:dev@kubernetes.io
+[steering-private-list]: mailto:steering-private@kubernetes.io
+[steering-public-list]: mailto:steering@kubernetes.io
+[steering-repo]: https://git.k8s.io/steering
+
+## Voting
+
+In the course of the committee's operations, members will be expected to vote
+on decisions within the body's purview.
+
+These votes may be called on agreed-upon platforms by the committee, such as:
+
+* a pull request
+* an issue
+* a Steering Committee [meeting](#meetings)
+* a mailing list
+
+For public business, the vote must be captured on an issue or pull request.
+
+### Routine business
+
+Unless otherwise specified by a process, the requirement for passing a vote is
+a **_majority of the [fixed membership of the committee](#composition)_**.
+
+Example:
+
+* 7 (members) / 2 = 3.5
+* Round up to the nearest whole number (4)
+* 4 members would be required to pass a vote
+
+### Abstention
+
+For any self-elected reason, members of the committee may decide to abstain
+from a vote.
+
+Abstaining members will only be considered as contributing to quorum, in the
+event that a vote is called in a meeting.
+
+## Meetings
+
+Steering Committee members are generally expected to attend every meeting. We
 use the following guidelines to determine whether we have reached quorum and
 are able to proceed with a meeting.
 
-* Round quorum up if total number of members is odd
-* Quorum to meet is 1/2 members attending (eg: 6/12, 6/11, 4/7)
-* Quorum to vote in a meeting is 2/3 members attending (eg: 8/12, 8/11, 5/7)
+### Quorum
+
+Quorum **to meet** is a **_majority of the
+[fixed membership of the committee](#composition)_**.
+
+Example:
+
+* 7 (members) / 2 = 3.5
+* Round up to the nearest whole number (4)
+* 4 members in attendance would be required to meet
+
+Quorum **to vote in a meeting** is a **_two-thirds supermajority of the
+[fixed membership of the committee](#composition)_**.
+
+Example:
+
+* 7 (members) / 3 = 2.333...
+* 2.333... * 2 = 4.666...
+* Round up to the nearest whole number (5)
+* 5 members in attendance would be required to vote during a meeting
 
 ## Inclusive Leadership Training
 
