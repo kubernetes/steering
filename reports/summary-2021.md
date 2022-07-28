@@ -5,7 +5,7 @@ activities. This report documents both quantitative measures of community
 health (project milestones and snapshot) as well as qualitative measures of the
 community as reported by community leaders and contributors to the project.
 
-Authors: The Kubernetes Steering Committee  
+Authors: The Kubernetes Steering Committee
 Editor: Tim Bannister, @sftim, SIG Docs Tech Lead
 
 ## Terminology
@@ -20,7 +20,7 @@ This report uses the following terminology:
   Working groups are cross-functional efforts sponsored by a SIG.
 - **Community Groups:** all of our official groups of the upstream project. Special
   Interest Groups + Working Groups + Committees = community groups. For a full
-  list, visit the Kubernetes Contributor Site at: https://k8s.dev/groups 
+  list, visit the Kubernetes Contributor Site at: https://k8s.dev/groups
 - **Chair and/or Tech Lead:** a contributor who organizes and leads a community group.
 - **Contributor:** an individual who creates an event in GitHub like a Pull Request, Issue, Review, or Comment
 - **KEP:** a [Kubernetes Enhancement Proposal][kep]
@@ -57,29 +57,29 @@ For more, see:
 
 ## Contributor snapshot
 
-62000   
-contributors all time  
-10000  
-new contributors this year  
-  
-1   
-new sig SIG K8s Infra, converted from WG  
-  
+62000
+contributors all time
+10000
+new contributors this year
 
-1   
-new working group  
-  
-5   
-new chairs and tech leads   
-  
-10 or less  
-unique reviewers in 8 groups  
-  
-8.29   
-average active meeting participants in each group  
-  
-~70000   
-slack members in SIG/WG rooms  
+1
+new sig SIG K8s Infra, converted from WG
+
+
+1
+new working group
+
+5
+new chairs and tech leads
+
+10 or less
+unique reviewers in 8 groups
+
+8.29
+average active meeting participants in each group
+
+~70000
+slack members in SIG/WG rooms
 
 
 [Kubernetes Community repo]: https://github.com/kubernetes/community
@@ -129,19 +129,19 @@ and not just presentations.
 [Kubernetes Monthly Community meeting]: https://youtube.com/playlist?list=PL69nYSiGNLP1pkHsbPjzAewvMgGUpkCnJ
 
 
-#### Showing up and sticking around 
+#### Showing up and sticking around
 
 Climbing the contributor ladder is a trust-building exercise as much as it is
 a skills one. Sticking around, chopping wood, and carrying water is the main
 formula for growing OWNERs and leaders on the project.
 
-An example of an intentional contributor ladder growth effort happened in SIG 
-Docs by growing its contributor and reviewer base in 2021. They introduced a 
-shadow program for PR Wrangling and dedicated more time to being active in 
+An example of an intentional contributor ladder growth effort happened in SIG
+Docs by growing its contributor and reviewer base in 2021. They introduced a
+shadow program for PR Wrangling and dedicated more time to being active in
 the `#sig-docs` Slack channel, helping grow the community. SIG Docs also worked on
-a leadership transition strategy to bring community members into leadership 
-roles via a specialized six-month group mentorship program. They were able to 
-cultivate leaders for the SIG and some of its subgroups, adding new co-chairs 
+a leadership transition strategy to bring community members into leadership
+roles via a specialized six-month group mentorship program. They were able to
+cultivate leaders for the SIG and some of its subgroups, adding new co-chairs
 and tech leads.
 
 SIG CLI deserves another great shoutout for having long-standing Chairs and
@@ -154,13 +154,13 @@ Thanks for your service and great job, team!
 Every group in Kubernetes has a responsibility to make sure we are putting
 our best foot forward with supply chain security. Accolades to all of
 SIG Release, SIG Auth, and SIG Security for their sustained efforts in this
-area that include: 
-- generating SBOMs, 
-- compliance with [SLSA 3 standards](https://slsa.dev), 
+area that include:
+- generating SBOMs,
+- compliance with [SLSA 3 standards](https://slsa.dev),
 - artifact signing,
 - rearchitecting release process from bash to Go,
-- and adding new features, tests and checks to the release process - these were 
-  missing from the original anago tooling (binary verification, CVE disclosure, building 
+- and adding new features, tests and checks to the release process - these were
+  missing from the original anago tooling (binary verification, CVE disclosure, building
   from custom branches and repositories).
 
 Alongside those improvements specifically to supply-chain security, we've seen:
@@ -171,29 +171,29 @@ Alongside those improvements specifically to supply-chain security, we've seen:
 - Certificates can be requested with shorter lifetimes (1.22+)
 - Pods can listen on low ports without requiring a root user or expanded capabilities (1.22+)
 - [Pod Security admission] has graduated to beta and is enabled by default (1.23+)
-  
+
 [Pod Security admission]: https://kubernetes.io/docs/concepts/security/pod-security-admission/
 [`CSIServiceAccountToken`]: https://git.k8s.io/enhancements/keps/sig-storage/1855-csi-driver-service-account-token
 
 #### Things that no longer spark joy
 
-There are plenty of processes, tools, and policy that are put 
-together in a project lifecycle that eventually need to be phased 
-out for whatever reason. A contributor painpoint that we've had with 
-a codebase this large is [bazel]. The crews in SIG Testing and 
+There are plenty of processes, tools, and policy that are put
+together in a project lifecycle that eventually need to be phased
+out for whatever reason. A contributor painpoint that we've had with
+a codebase this large is [bazel]. The crews in SIG Testing and
 SIG Release put in a lot of time and attention on removing bazel
-from kubernetes/kubernetes. There are some pieces left in 
-kubernetes/test-infra but needless to say, we are on the road to 
-moving on in our build processes.  
+from kubernetes/kubernetes. There are some pieces left in
+kubernetes/test-infra but needless to say, we are on the road to
+moving on in our build processes.
 
 [bazel]: https://github.com/kubernetes/enhancements/issues/2420
 
-#### Growing Windows support 
+#### Growing Windows support
 
-Thanks to the SIG Windows team and surrounding groups for their efforts 
-in growing the support in this space! A true testament to the power of the 
-ecosystem. They have more upcoming work to do and we are looking forward 
-to seeing their growth in 2022 and beyond. 
+Thanks to the SIG Windows team and surrounding groups for their efforts
+in growing the support in this space! A true testament to the power of the
+ecosystem. They have more upcoming work to do and we are looking forward
+to seeing their growth in 2022 and beyond.
 
 Details:
 - Implemented hostProcess container support in Kubernetes (now in beta) and
@@ -205,7 +205,7 @@ promoted adoption in multiple open source communities
 
 
 
-### Themes / Trends 
+### Themes / Trends
 
 
 #### Prioritizing Quality
@@ -249,9 +249,9 @@ reverse this trend:
 
 A misconception is that this project is just cloud providers maintaining it;
 however, one of our biggest contributor bases are "[independent]" that is, not
-affliated with an organization. 
+affliated with an organization.
 
-There is space for everyone here. 
+There is space for everyone here.
 
 
 [independent]: https://k8s.devstats.cncf.io/d/8/company-statistics-by-repository-group?orgId=1&from=1609480800000&to=1641016800000&viewPanel=1&var-period=d7&var-metric=committers&var-repogroup_name=All&var-repo_name=kubernetes%2Fkubernetes&var-companies=All
@@ -265,7 +265,7 @@ employment, many are. This year we worked with CNCF to add a feature to the
 that they would support upstream activities. The Kubernetes project needs more
 contributors with employer-backed time, and this was a great step toward that
 goal. Aligning contributors with the right incentives is the sweet spot for
-lasting contributions. 
+lasting contributions.
 
 [jobs.cncf.io site]: https://jobs.cncf.io
 
@@ -288,14 +288,14 @@ there, expect our contribution guides to be in-depth and extensive.
 [k8s.dev/guide] is our primary guide; no matter where you contribute to the
 project, you start there. But because the project is so large, some groups have
 other style guides, code review processes, and more that define how they do
-business and operationalize. This is an important part of our [values]. Same 
-thing at big employers: everyone gets the standard onboarding docs, but 
-your department might have an additional "here's how to get work done" 
-document floating around. 
+business and operationalize. This is an important part of our [values]. Same
+thing at big employers: everyone gets the standard onboarding docs, but
+your department might have an additional "here's how to get work done"
+document floating around.
 
 Many of our groups reported in that they have a hard time keeping [this
-information] up to date, if they even have this kind of documentation at all. This 
-is a great way to get involved if you are new to a group! Want to become an OWNER? 
+information] up to date, if they even have this kind of documentation at all. This
+is a great way to get involved if you are new to a group! Want to become an OWNER?
 Set someone up for success behind you by creating documentation for your area.
 
 [k8s.dev/guide]: https://k8s.dev/guide
@@ -318,28 +318,28 @@ remain (relatively) up-to-date.
 [auditing]: https://github.com/kubernetes/community/issues/5229
 
 
-#### Areas to research 
+#### Areas to research
 
-Updating documentation is usually a good onboarding path for interns and 
+Updating documentation is usually a good onboarding path for interns and
 new contributors but this can get murky with some of the complexities of
 the code and doc set. It can take up to 3 months to onboard on to the project
 before suggestion and submitting changes. Is there a program that SIGs could
-create as an onboarding path towards OWNERship here? 
+create as an onboarding path towards OWNERship here?
 
 
 
-#### Burnout 
+#### Burnout
 
-The topics of burnout and workload management are frequent in our Leads and 
+The topics of burnout and workload management are frequent in our Leads and
 group meetings, Steering Committee, and even the growing voices at ecosystem
 level during talks and events at KubeCon/CloudNativeCons. This is an industry
-wide problem that we need to solve together. With a mix of reasons why 
-contributors are burning out, there is no one "solve all" solution here. 
-Aligning incentives to grow OWNERs seems to be one of the main challenges in 
-this space. 
+wide problem that we need to solve together. With a mix of reasons why
+contributors are burning out, there is no one "solve all" solution here.
+Aligning incentives to grow OWNERs seems to be one of the main challenges in
+this space.
 
 #### What have we done
-- Reducing the release cadence. While this wasn't the only reason for having 
+- Reducing the release cadence. While this wasn't the only reason for having
 3 and not 4 releases in a year, it factored in. [Check out this blog for more on the release cadence change](https://kubernetes.io/blog/2021/07/20/new-kubernetes-release-cadence/).
 - Continue to talk about how we can do better in our monthly Chairs and Tech Leads and keeping our doors open for contributors to have these conversations with us.
 - Educating contributors and OWNERs on the use of "Emeritus" and why it's ok to take breaks.
@@ -366,8 +366,8 @@ keep their area healthy.
 
 #### Every group needs more reviewers
 
-If you've been watching open source news over the last year, supply chain security has made headlines. According to OpenSSF and other security groups, code reviews are an important piece to putting prioritization on security. Kubernetes strives for two reviews (a reviewer and approver) to match our values of quality and high-trust. 
-Reviewers are a key part of our success in quality code and documentation changes upstream. Reviewer is the next step on our [contributor ladder](https://github.com/kubernetes/community/blob/master/community-membership.md) post Org Member; however, you don't need to be in an OWNERs file as a Reviewer to review. Anyone can leave a comment or an "/lgtm" (looks good to me!). As we try and grow top level approvers, sticking around and getting into an OWNERs file as a Reviewer is crucial for our sustainability as a project to keep pace.  
+If you've been watching open source news over the last year, supply chain security has made headlines. According to OpenSSF and other security groups, code reviews are an important piece to putting prioritization on security. Kubernetes strives for two reviews (a reviewer and approver) to match our values of quality and high-trust.
+Reviewers are a key part of our success in quality code and documentation changes upstream. Reviewer is the next step on our [contributor ladder](https://github.com/kubernetes/community/blob/master/community-membership.md) post Org Member; however, you don't need to be in an OWNERs file as a Reviewer to review. Anyone can leave a comment or an "/lgtm" (looks good to me!). As we try and grow top level approvers, sticking around and getting into an OWNERs file as a Reviewer is crucial for our sustainability as a project to keep pace.
 As a data point, in 1.19, the average daily PR reviewers were down -15% across Kubernetes Orgs and -24% in the Kubernetes/Kubernetes repo while still receiving the same amount of issues and PRs. If you are trying to get a change into Kubernetes, this will effect you.
 
 #### The 9 to 5 contributor is almost over and we have to adjust
@@ -390,11 +390,11 @@ tackle long term strategies together.
 #### This reporting process and its summary
 
 This process takes us 6 months. This is both not sustainable and not helpful.
-Between our groups being heads down shipping reliable and stable enhancements, 
+Between our groups being heads down shipping reliable and stable enhancements,
 societal challenges and atrocities that affect us such the war in Ukraine, not to mention
 a global pandemic, we have a lot of leniency for groups getting this together.
 Our contributors live all over the world, have day jobs, and might have their
-own challenges that they are living through. 
+own challenges that they are living through.
 
 With the theme of burnout, how can we support groups without bogging them down
 with paperwork? How can we communicate our needs at a level that hears and takes
@@ -412,9 +412,9 @@ a call for interns soon. [Have other advice for us?]
 
 #### [SIG API Machinery](https://git.k8s.io/community/sig-api-machinery/annual-report-2021.md#project-health)
 
-- Client libraries 
+- Client libraries
 - Triage
-- Sticking around and growing into contributor ladder roles 
+- Sticking around and growing into contributor ladder roles
 
 
 #### [SIG Apps](https://git.k8s.io/community/sig-apps/annual-report-2021.md#project-health)
@@ -438,7 +438,7 @@ Specifically SIG Auth is looking for help in these initatives:
 - Structured config for OIDC authentication
 - Audit logging improvements
 - Renaming the `system:masters` group
- 
+
 
 [KEPs that need help]: https://docs.google.com/document/d/1sY8fRyRtk4eG9R439z5ao5i9bFuuxilS03XaNlqoni0/edit
 [onboarding guide and PR review guidance]: https://github.com/kubernetes/community/blob/master/sig-auth/CONTRIBUTING.md
@@ -529,7 +529,7 @@ Kubernetes contributions and involvement with other SIGs.
 The Ukrainian localization team is primarily worked on by people based in Ukraine,
 where the ongoing and intensifying conflict creates challenges that take priority
 over open source contribution.
-     
+
 [SIG Docs]: https://git.k8s.io/community/sig-docs/
 [Blog subproject]: https://git.k8s.io/community/sig-docs/blog-subproject/
 
@@ -576,11 +576,11 @@ SIG Release is looking for more contributors in a number of subprojects
 
 SIG Scalability is looking to grow their contributors base across all their
 [subprojects][scale-sp]. Good entry points for new scalability contributors are
-the [Scalability Test Framework] and [Performance Tests & Validaiton subproject].
+the [Scalability Test Framework] and [Performance Tests & Validation subproject].
 
 [scale-sp]: https://git.k8s.io/community/sig-scalability/#subprojects
 [Scalability Test Framework]: https://git.k8s.io/community/sig-scalability/#kubernetes-scalability-test-frameworks-1
-[Performance Tests & Validaiton subproject]: https://git.k8s.io/community/sig-scalability/#kubernetes-scalability-and-performance-tests-and-validation-1
+[Performance Tests & Validation subproject]: https://git.k8s.io/community/sig-scalability/#kubernetes-scalability-and-performance-tests-and-validation-1
 
 
 #### [SIG Scheduling](https://git.k8s.io/community/sig-scheduling/annual-report-2021.md#project-health)
@@ -671,7 +671,7 @@ _No Report_
 
 #### [WG IoT/Edge](https://git.k8s.io/community/wg-iot-edge/annual-report-2021.md#project-health)
 
-Spinning down inside of Kubernetes and heading to CNCF level 
+Spinning down inside of Kubernetes and heading to CNCF level
 
 
 #### [WG Multitenancy](https://git.k8s.io/community/wg-multitenancy/annual-report-2021.md#project-health)
@@ -820,7 +820,7 @@ voting system, and the seamless migration of the [CLA system to EasyCLA].
 
 SIG Contributor Experience also ran the [North America Contributor Summit], the
 end of year [Contributor Celebration], ran three successful mentoring cohorts,
-and the [Contributor Comms team] automated and started using the [@k8scontributors] 
+and the [Contributor Comms team] automated and started using the [@k8scontributors]
 twitter account to reach 5700 follows with a number of them being contributors.
 
 [migration of the large public kubernetes-dev]: https://github.com/kubernetes/community/issues/5877
@@ -996,7 +996,7 @@ Kubernetes Enhancements:
   - [1845 - Prioritization on Volume Capacity](https://git.k8s.io/enhancements/keps/sig-storage/1845-prioritization-on-volume-capacity) - 1.22
 - Beta
   - [2249 - Namespace Selector for Pod Affinity](https://git.k8s.io/enhancements/keps/sig-scheduling/2249-pod-affinity-namespace-selector) - 1.22
-  - [1923 - Prefer Nominated Node](https://git.k8s.io/enhancements/keps/sig-scheduling/1923-prefer-nominated-node) - 1.22   
+  - [1923 - Prefer Nominated Node](https://git.k8s.io/enhancements/keps/sig-scheduling/1923-prefer-nominated-node) - 1.22
   - [2458 - Resource Fit Scoring Strategy](https://git.k8s.io/enhancements/keps/sig-scheduling/2458-node-resource-score-strategy) - 1.22
   - [2891 - Simplified Scheduler Config](https://git.k8s.io/enhancements/keps/sig-scheduling/2891-simplified-config/kep.yaml) - 1.22
   - [785 - Scheduler Component Config API](https://git.k8s.io/enhancements/keps/sig-scheduling/785-scheduler-component-config-api) - 1.23
@@ -1165,7 +1165,7 @@ in a KEP:
 
 #### [WG IoT/Edge](https://git.k8s.io/community/wg-iot-edge/annual-report-2021.md#current-initiatives)
 
-The IoT/Edge Working Group is moving to the CNCF ecosystem. 
+The IoT/Edge Working Group is moving to the CNCF ecosystem.
 
 #### [WG Structured Logging](https://git.k8s.io/community/wg-structured-logging/annual-report-2021.md#current-initiatives)
 
