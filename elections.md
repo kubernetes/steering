@@ -1,23 +1,29 @@
 # Kubernetes Steering Committee Elections
 
-This document outlines the process, for steering committee elections.
+This document outlines the process for steering committee elections.
 
-### For the 2021 election check the [2021 Kubernetes Election Voter's Guide][voter-guide]
+### For the current election, check the [Steering Elections][elections] directory
 
 ### Eligibility for voting
 
-Eligibility for voting in the 2021 Election is [defined in this year's voter guide][voter-guide]
+Precise eligibility for voting in the current Election is 
+[defined in the current year's voter guide][elections]
 
-Eligibility to vote for steering committee members for prior years is defined by:
+Eligibility to vote for steering committee members is generally defined by:
 
-* People who had at least 50 contributions to the Kubernetes project over
-  the past year, according to a snapshot taken 2021-09-15 of the data driving
+* [Kubernetes Org Members][members] who had at least a certain number of 
+  contributions to the Kubernetes project over the past year, according to a 
+  data snapshot taken shortly before the election starts, based on
   the [devstats developer activity counts dashboard][devstats-dashboard].
-  Contributions include GitHub events like creating issues, creating pr's,
-  reviewing PR's, commenting on issues, etc. For full details see
+  Contributions include GitHub events like creating issues, creating PRs,
+  reviewing PRs, commenting on issues, etc. For full details see
   [the SQL query used by devstats for developer activity counts][devstats-sql].
+  
+* Members of certain committees that involve substantial contributions to
+  Kubernetes that are frequently not recorded by DevStats, such as the 
+  Security Response Committee and the Code of Conduct Committee.
 
-* People who have submitted the [voting exception form] and are accepted by
+* People who have submitted the voting exception form and are accepted by
   the election committee. We *explicitly* believe the above heuristic will be
   inaccurate and not represent the entire community. Thus we provide the form
   for those who have contributed to the project but may not meet the above
@@ -26,7 +32,8 @@ Eligibility to vote for steering committee members for prior years is defined by
   help refine further elections.
 
 It is the responsibility of the steering committee to refine these criteria
-prior to each election.
+prior to each election, including setting the number of required contributions,
+and adding any additional committee memberships that include eligibility.
 
 ### Eligibility for candidacy
 
@@ -37,7 +44,7 @@ Eligibility for candidacy is defined by:
 * Endorsement by three eligible voters from three different employers (the
   candidate can self-endorse if they are eligible to vote)
 
-Check the [2021 Kubernetes Election Voter's Guide][candidacy] for the exact
+Check the current [election Voters Guide][elections] for the exact
 nomination procedure.
 
 Nominators are free to nominate as many people as they wish to. Eligible
@@ -111,8 +118,9 @@ The steering committee should choose three election officers, ideally by the
 following criteria, so as to promote healthy rotation and diversity:
 
 - election officers must be eligible to vote
-- two election officers should have served before
-- one election officer should have never served before
+- election officers should have been an org member for at least one year
+- at least one (ideally two) election officers should have served before
+- at least one election officer should have never served before
 - each officer should come from a different company to maintain 1/3 maximal
   representation
 
@@ -124,6 +132,7 @@ History of election officers:
 2019: mrbobbytables, castrojo, idvoretskyi  
 2020: jberkus, jdumars, idvoretskyi    
 2021: jberkus, alisondy, coderanger
+2022: coderanger, kaslin, dims
 
 ### Vacancies
 
@@ -158,6 +167,5 @@ self-nominate but are otherwise expected to adhere to this recusal.
 [devstats-dashboard]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
 
 [bootstrap committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
-[voter-guide]: https://github.com/kubernetes/community/tree/master/events/elections/2021
-[candidacy]: https://github.com/kubernetes/community/tree/master/events/elections/2021#candidacy-process
-[voting exception form]: https://elections.k8s.io/app/elections/2021/exception
+[elections]: https://github.com/kubernetes/community/tree/master/elections/steering
+[members]: https://github.com/kubernetes/community/blob/master/community-membership.md
