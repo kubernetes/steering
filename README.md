@@ -6,6 +6,14 @@ The Steering Committee is a 7 member body, overseeing the governance of the
 Kubernetes project. See the [Steering Committee Charter](charter.md) for
 specific committee structure information.
 
+### Term ends in October 2024
+
+| Name | Profile | Affiliation | Term Length |
+| ---- | ------- | ----------- | ----------- |
+| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google | 2y |
+| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google | 2y |
+| Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware | 2y |
+
 ### Term ends in October 2023
 
 | Name | Profile | Affiliation | Term Length |
@@ -15,22 +23,16 @@ specific committee structure information.
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Apple | 2y |
 | Tim Pepper | **[@tpepper](https://github.com/tpepper)** | VMware | 2y |
 
-### Term ends in October 2022
-
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Davanum Srinivas | **[@dims](https://github.com/dims)** | VMware | 2y |
-| Jordan Liggitt | **[@liggitt](https://github.com/liggitt)** | Google | 2y |
-| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google | 2y |
-
 ### Emeritus
 
 | Name | Profile |
 | ---- | ------- |
 | Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
 | Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
+| Davanum Srinivas | **[@dims](https://github.com/dims)** |
 | Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** |
 | Joe Beda | **[@jbeda](https://github.com/jbeda)** |
+| Jordan Liggitt | **[@liggitt](https://github.com/liggitt)** |
 | Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** |
 | Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
@@ -94,7 +96,7 @@ The steering committee delegates ownership of various Kubernetes community accou
 
 | Account | Owner |
 | ------- | ----- |
-| sc1@kubernetes.io | Davanum Srinivas |
+| sc1@kubernetes.io | Stephen Augustus |
 | sc2@kubernetes.io | Paris Pittman |
 | sc3@kubernetes.io | Bob Killen |
 
