@@ -8,20 +8,20 @@ specific committee structure information.
 
 ### Term ends in October 2024
 
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google | 2y |
-| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google | 2y |
-| Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware | 2y |
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google |
+| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google |
+| Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware |
 
 ### Term ends in October 2023
 
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat | 2y |
-| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco | 2y |
-| Paris Pittman | **[@parispittman](https://github.com/parispittman)** | Apple | 2y |
-| Tim Pepper | **[@tpepper](https://github.com/tpepper)** | VMware | 2y |
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat |
+| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco |
+| Carlos Tadeu Panato Jr. | **[@cpanato](https://github.com/cpanato)**  |Chainguard |
+| Tim Pepper | **[@tpepper](https://github.com/tpepper)** | VMware |
 
 ### Emeritus
 
@@ -36,6 +36,7 @@ specific committee structure information.
 | Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** |
 | Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
+| Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
 | Brandon Philips | **[@philips](https://github.com/philips)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
 | Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
@@ -97,7 +98,7 @@ The steering committee delegates ownership of various Kubernetes community accou
 | Account | Owner |
 | ------- | ----- |
 | sc1@kubernetes.io | Stephen Augustus |
-| sc2@kubernetes.io | Paris Pittman |
+| sc2@kubernetes.io | **TBD** <!-- TODO: Resolve in https://github.com/kubernetes/steering/issues/260 --> |
 | sc3@kubernetes.io | Bob Killen |
 
 ## Zoom Admins
@@ -109,4 +110,4 @@ However, all Steering Committee members have access to the zoom host key.
 | ---- | ------- |
 | Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** |
 | Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
-| Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
+| **TBD**  <!-- TODO: Resolve in https://github.com/kubernetes/steering/issues/260 --> | **TBD** <!-- TODO: Resolve in https://github.com/kubernetes/steering/issues/260 --> |
