@@ -8,20 +8,20 @@ specific committee structure information.
 
 ### Term ends in October 2024
 
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google | 2y |
-| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google | 2y |
-| Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware | 2y |
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google |
+| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google |
+| Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware |
 
 ### Term ends in October 2023
 
-| Name | Profile | Affiliation | Term Length |
-| ---- | ------- | ----------- | ----------- |
-| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat | 2y |
-| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco | 2y |
-| Carlos Tadeu Panato Jr. | **[@cpanato](https://github.com/cpanato)**  |Chainguard | 2y |
-| Tim Pepper | **[@tpepper](https://github.com/tpepper)** | VMware | 2y |
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat |
+| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco |
+| Carlos Tadeu Panato Jr. | **[@cpanato](https://github.com/cpanato)**  |Chainguard |
+| Tim Pepper | **[@tpepper](https://github.com/tpepper)** | VMware |
 
 ### Emeritus
 
