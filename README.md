@@ -98,7 +98,7 @@ The steering committee delegates ownership of various Kubernetes community accou
 | Account | Owner |
 | ------- | ----- |
 | sc1@kubernetes.io | Stephen Augustus |
-| sc2@kubernetes.io | **TBD** <!-- TODO: Resolve in https://github.com/kubernetes/steering/issues/260 --> |
+| sc2@kubernetes.io | Nabarun Pal |
 | sc3@kubernetes.io | Bob Killen |
 
 ## Zoom Admins
