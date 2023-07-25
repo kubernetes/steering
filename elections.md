@@ -133,6 +133,7 @@ History of election officers:
 2020: jberkus, jdumars, idvoretskyi    
 2021: jberkus, alisondy, coderanger  
 2022: coderanger, kaslin, dims
+2023: kaslin, dims, bridgetkromhout
 
 ### Vacancies
 
@@ -161,7 +162,7 @@ self-nominate but are otherwise expected to adhere to this recusal.
 
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
 
-[election procedure]: https://git.k8s.io/community/events/elections/README.md
+[election procedure]: https://git.k8s.io/community/elections/README.md
 
 [devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
 [devstats-dashboard]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
