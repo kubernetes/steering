@@ -132,7 +132,7 @@ History of election officers:
 2019: mrbobbytables, castrojo, idvoretskyi  
 2020: jberkus, jdumars, idvoretskyi    
 2021: jberkus, alisondy, coderanger  
-2022: coderanger, kaslin, dims
+2022: coderanger, kaslin, dims  
 2023: kaslin, dims, bridgetkromhout
 
 ### Vacancies
