@@ -2,29 +2,29 @@
 
 This document outlines the process for steering committee elections.
 
-### For the current election, check the [Steering Elections][elections] directory
+**For the current election, check the [Steering Elections][elections] directory**
 
-### Eligibility for voting
+## Eligibility for voting
 
-Precise eligibility for voting in the current Election is 
+Precise eligibility for voting in the current Election is
 [defined in the current year's voter guide][elections]
 
 Eligibility to vote for steering committee members is generally defined by:
 
-* [Kubernetes Org Members][members] who had at least a certain number of 
-  contributions to the Kubernetes project over the past year, according to a 
+- [Kubernetes Org Members][members] who had at least a certain number of
+  contributions to the Kubernetes project over the past year, according to a
   data snapshot taken shortly before the election starts, based on
   the [devstats developer activity counts dashboard][devstats-dashboard].
   Contributions include GitHub events like creating issues, creating PRs,
   reviewing PRs, commenting on issues, etc. For full details see
   [the SQL query used by devstats for developer activity counts][devstats-sql].
   
-* Members of certain committees that involve substantial contributions to
-  Kubernetes that are frequently not recorded by DevStats, such as the 
+- Members of certain committees that involve substantial contributions to
+  Kubernetes that are frequently not recorded by DevStats, such as the
   Security Response Committee and the Code of Conduct Committee.
 
-* People who have submitted the voting exception form and are accepted by
-  the election committee. We *explicitly* believe the above heuristic will be
+- People who have submitted the voting exception form and are accepted by
+  the election committee. We _explicitly_ believe the above heuristic will be
   inaccurate and not represent the entire community. Thus we provide the form
   for those who have contributed to the project but may not meet the above
   criteria.  Acceptance of a form submission will be defined by a simple
@@ -35,13 +35,13 @@ It is the responsibility of the steering committee to refine these criteria
 prior to each election, including setting the number of required contributions,
 and adding any additional committee memberships that include eligibility.
 
-### Eligibility for candidacy
+## Eligibility for candidacy
 
 Eligibility for candidacy is defined by:
 
-* Acceptance of a nomination, or self-nomination (anyone may nominate, anyone
+- Acceptance of a nomination, or self-nomination (anyone may nominate, anyone
   may be nominated)
-* Endorsement by three eligible voters from three different employers (the
+- Endorsement by three eligible voters from three different employers (the
   candidate can self-endorse if they are eligible to vote)
 
 Check the current [election Voters Guide][elections] for the exact
@@ -51,13 +51,13 @@ Nominators are free to nominate as many people as they wish to. Eligible
 voters may endorse multiple nominees, but we expect endorsements to be in
 good faith.  If this turns out to be a problem, this will be reconsidered.
 
-### Election process
+## Election process
 
-Elections will be held using an online preference election system which 
-supports [Condorcet] elections. The most preferred candidates will be elected to 
+Elections will be held using an online preference election system which
+supports [Condorcet] elections. The most preferred candidates will be elected to
 the open seats.
 
-### Maximal representation
+## Maximal representation
 
 To encourage diversity there will be a maximum of one-third representation on
 the Steering Committee from any one company at any time. If the results of an
@@ -73,17 +73,17 @@ elections held. In the event of a question of company membership (for example
 evaluating independence of corporate subsidiaries) a majority of all
 non-involved Steering Committee members will decide.
 
-### Committee Conflicts of Interest
+## Committee Conflicts of Interest
 
 Potential committee conflicts of interest are detailed in the
 [election documentation in kubernetes/community][committee-coi].
 
-### Terms and Election Cycles
+## Terms and Election Cycles
 
 Steering committee members are elected to serve one, two year term. Members can
-serve two consecutive terms (4 years) and a lifetime of four terms (8 years). 
-Bootstrap and terms that result in equal to or less than one year served are 
-exempt.   
+serve two consecutive terms (4 years) and a lifetime of four terms (8 years).
+Bootstrap and terms that result in equal to or less than one year served are
+exempt.
 
 Election cycles are scheduled such that roughly half of the seats come up for
 re-election each year for purposes of continuity.  The exact number of seats
@@ -108,7 +108,7 @@ should consider the following rough schedule:
   - Election officers
   - Voter eligibility criteria
   - Election preparation
-- September   
+- September
   - Nomination period and election
 - October  
   - Conclusion of Election
@@ -135,7 +135,7 @@ History of election officers:
 2017: castrojo and parispittman  
 2018: castrojo, parispittman, idvoretskyi  
 2019: mrbobbytables, castrojo, idvoretskyi  
-2020: jberkus, jdumars, idvoretskyi    
+2020: jberkus, jdumars, idvoretskyi
 2021: jberkus, alisondy, coderanger  
 2022: coderanger, kaslin, dims  
 2023: kaslin, dims, bridgetkromhout
@@ -147,7 +147,7 @@ See [Steering Committee charter](/charter.md).
 ### Limiting Corporate Campaigning
 
 To reduce size of company advantages, candidates may not use their companies
-internal or external brand to campaign.  Their employers cannot solicit votes
+internal or external brand to campaign. Their employers cannot solicit votes
 on their behalf or endorse candidates from partner organizations.  Simply put,
 elections highlight individuals outside of their corporate role and should be
 treated as “brand free” activities.
@@ -165,14 +165,10 @@ and they _may_ vote, so long as this information is kept private.
 Steering committee members who intend to run for re-election _may_
 self-nominate but are otherwise expected to adhere to this recusal.
 
-[Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
-
 [committee-coi]: https://git.k8s.io/community/elections/committee-conflict-of-interest.md
-[election procedure]: https://git.k8s.io/community/elections/README.md
-
-[devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
+[Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
 [devstats-dashboard]: https://k8s.devstats.cncf.io/d/13/developer-activity-counts-by-repository-group?orgId=1&var-period_name=Last%20year&var-metric=contributions&var-repogroup_name=All
-
-[bootstrap committee member]: https://github.com/kubernetes/steering#initial-bootstrap-committee
-[elections]: https://github.com/kubernetes/community/tree/master/elections/steering
-[members]: https://github.com/kubernetes/community/blob/master/community-membership.md
+[devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
+[elections]: https://git.k8s.io/community/elections/steering
+[election procedure]: https://git.k8s.io/community/elections/README.md
+[members]: https://git.k8s.io/community/community-membership.md
