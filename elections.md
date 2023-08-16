@@ -73,6 +73,11 @@ elections held. In the event of a question of company membership (for example
 evaluating independence of corporate subsidiaries) a majority of all
 non-involved Steering Committee members will decide.
 
+### Committee Conflicts of Interest
+
+Potential committee conflicts of interest are detailed in the
+[election documentation in kubernetes/community][committee-coi].
+
 ### Terms and Election Cycles
 
 Steering committee members are elected to serve one, two year term. Members can
@@ -162,6 +167,7 @@ self-nominate but are otherwise expected to adhere to this recusal.
 
 [Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
 
+[committee-coi]: https://git.k8s.io/community/elections/committee-conflict-of-interest.md
 [election procedure]: https://git.k8s.io/community/elections/README.md
 
 [devstats-sql]: https://github.com/cncf/devstats/blob/master/metrics/shared/project_developer_stats.sql
