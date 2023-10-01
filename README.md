@@ -27,8 +27,11 @@ specific committee structure information.
 
 | Name | Profile |
 | ---- | ------- |
-| Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
+| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Brandon Philips | **[@philips](https://github.com/philips)** |
 | Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
+| Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
+| Clayton Coleman | **[@smarterclayton](https://github.com/smarterclayton)** |
 | Davanum Srinivas | **[@dims](https://github.com/dims)** |
 | Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** |
 | Joe Beda | **[@jbeda](https://github.com/jbeda)** |
@@ -37,12 +40,9 @@ specific committee structure information.
 | Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
-| Brandon Philips | **[@philips](https://github.com/philips)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
 | Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
 | Sarah Novotny | **[@sarahnovotny](https://github.com/sarahnovotny)** |
-| Clayton Coleman | **[@smarterclayton](https://github.com/smarterclayton)** |
-| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
 | Tim Hockin | **[@thockin](https://github.com/thockin)** |
 | Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** |
 
