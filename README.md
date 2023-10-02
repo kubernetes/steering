@@ -6,6 +6,15 @@ The Steering Committee is a 7 member body, overseeing the governance of the
 Kubernetes project. See the [Steering Committee Charter](charter.md) for
 specific committee structure information.
 
+### Term ends in October 2025
+
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Red Hat |
+| Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
+| Patrick Ohly | **[@pohly](https://github.com/pohly)** | Intel |
+| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco |
+
 ### Term ends in October 2024
 
 | Name | Profile | Affiliation |
@@ -14,21 +23,17 @@ specific committee structure information.
 | Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google |
 | Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware |
 
-### Term ends in October 2023
-
-| Name | Profile | Affiliation |
-| ---- | ------- | ----------- |
-| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | Red Hat |
-| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco |
-| Carlos Tadeu Panato Jr. | **[@cpanato](https://github.com/cpanato)**  |Chainguard |
-| Tim Pepper | **[@tpepper](https://github.com/tpepper)** | VMware |
-
 ### Emeritus
 
 | Name | Profile |
 | ---- | ------- |
-| Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
+| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Brandon Philips | **[@philips](https://github.com/philips)** |
 | Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
+| Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
+| Carlos Tadeu Panato Jr. | **[@cpanato](https://github.com/cpanato)** |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
+| Clayton Coleman | **[@smarterclayton](https://github.com/smarterclayton)** |
 | Davanum Srinivas | **[@dims](https://github.com/dims)** |
 | Derek Carr | **[@derekwaynecarr](https://github.com/derekwaynecarr)** |
 | Joe Beda | **[@jbeda](https://github.com/jbeda)** |
@@ -37,13 +42,11 @@ specific committee structure information.
 | Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
-| Brandon Philips | **[@philips](https://github.com/philips)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
 | Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
 | Sarah Novotny | **[@sarahnovotny](https://github.com/sarahnovotny)** |
-| Clayton Coleman | **[@smarterclayton](https://github.com/smarterclayton)** |
-| Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
 | Tim Hockin | **[@thockin](https://github.com/thockin)** |
+| Tim Pepper | **[@tpepper](https://github.com/tpepper)** |
 | Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** |
 
 ## Meetings
