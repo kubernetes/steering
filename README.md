@@ -56,7 +56,7 @@ specific committee structure information.
 We have two meetings every month.
 
 - We hold an open and recorded online meeting where the community is welcome to join the first Monday at 9:30am PT of every month if there is [quorum](charter.md#quorum).
-- We have a closed but recorded online meeting every 3rd Monday of the month at 9:30am PT if there is [quorum](charter.md#quorum).
+- We have a closed and not recorded online meeting every 3rd Monday of the month at 9:30am PT if there is [quorum](charter.md#quorum).
 
 ### Resources
 
