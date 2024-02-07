@@ -39,7 +39,7 @@ specific committee structure information.
 | Joe Beda | **[@jbeda](https://github.com/jbeda)** |
 | Jordan Liggitt | **[@liggitt](https://github.com/liggitt)** |
 | Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** |
-| Michelle Noorali | **[@michelleN](https://github.com/michelleN)** |
+| Michelle Dhanani | **[@michelleN](https://github.com/michelleN)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
@@ -49,14 +49,67 @@ specific committee structure information.
 | Tim Pepper | **[@tpepper](https://github.com/tpepper)** |
 | Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** |
 
-## Meetings
 
-### Schedule and Cadence
+## Kubernetes CNCF Governing Board Representative
+
+The Kubernetes Project is granted one of the two [Developer Representative]
+seats on the [CNCF Governing Board]. This seat may be held by current and
+former Kubernetes Steering Members and is elected to a two year term.
+
+| Name | Profile | Term |
+| ---- | ------- | ---- |
+| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** | 2025 |
+
+### Emeritus Kubernetes CNCF Governing Board Representatives
+
+| Name | Profile |
+| ---- | ------- |
+| Michelle Dhanani | **[@michelleN](https://github.com/michelleN)** |
+| Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
+
+[Developer Representative]: https://github.com/cncf/foundation/blob/main/maintainers-election-policy.md#developer-representation-on-the-cncf-gb
+[CNCF Governing Board]: https://www.cncf.io/people/governing-board/
+
+## CNCF Representative
+
+There are various cases when the Steering Committee may require interactions
+with CNCF, so a dedicated person from the CNCF Staff acts a primary
+communication point between Steering and CNCF.
+
+| Name | Profile |
+| ---- | ------- |
+| Jeff Sica | **[@jeefy](https://github.com/jeefy)** |
+
+For more details on the relationship between Steering and CNCF, please see a
+dedicated document [Relationship with the CNCF](operations/cncf-and-k8s.md).
+
+
+## Communication Channels
+
+- Public Slack: [#steering-committee](https://kubernetes.slack.com/messages/steering-committee)
+- Mailing List: steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
+- Private Mailing List: steering-private@kubernetes.io
+- [Open Community Issues/PRs](https://github.com/kubernetes/community/labels/committee%2Fsteering)
+- GitHub Teams:
+  - [@kubernetes/steering-committee](https://github.com/orgs/kubernetes/teams/steering-committee) - General Discussion
+
+### Private Communication Channels
+
+The Steering Committee often deals with sensitive topics and has several
+private slack channels to discuss and coordinate with our project representatives.
+
+- `#steering-private` - Private channel for Steering Members
+- `#steering-cncf-rep-private` - Private channel between Steering and the
+   current CNCF Representative.
+- `#steering-gb-rep-private` - Private channel between Steering and the current
+   Kubernetes CNCF Governing Board Representative.
+
+## Meetings
 
 We have two meetings every month.
 
-- We hold an open and recorded online meeting where the community is welcome to join the first Monday at 9:30am PT of every month if there is [quorum](charter.md#quorum).
-- We have a closed and not recorded online meeting every 3rd Monday of the month at 9:30am PT if there is [quorum](charter.md#quorum).
+- We hold an open and recorded online meeting where the community is welcome to join the first Wednesday at 8am PT of every month if there is [quorum](charter.md#quorum).
+- We have a closed and not recorded online meeting every 3rd Wednesday of the month at 8am PT if there is [quorum](charter.md#quorum).
 
 ### Resources
 
@@ -68,25 +121,6 @@ We have two meetings every month.
 - [Charter](charter.md)
 - [Backlog](https://github.com/orgs/kubernetes/projects/40)
 
-## Contact
-
-- Slack: [#steering-committee](https://kubernetes.slack.com/messages/steering-committee)
-- Mailing List: steering@kubernetes.io ([archive](https://groups.google.com/a/kubernetes.io/forum/#!forum/steering))
-- Private Mailing List: steering-private@kubernetes.io
-- [Open Community Issues/PRs](https://github.com/kubernetes/community/labels/committee%2Fsteering)
-- GitHub Teams:
-  - [@kubernetes/steering-committee](https://github.com/orgs/kubernetes/teams/steering-committee) - General Discussion
-
-## CNCF Representative
-
-There are various cases when the Steering Committee may require interactions with CNCF, so a dedicated person from the CNCF Staff acts a primary communication point between Steering and CNCF.
-
-| Name | Profile |
-| ---- | ------- |
-| Ihor Dvoretskyi | **[@idvoretskyi](https://github.com/idvoretskyi)** |
-
-For more details on the relationship between Steering and CNCF, please see a
-dedicated document [Relationship with the CNCF](operations/cncf-and-k8s.md).
 
 ### CNCF ServiceDesk access
 
@@ -104,13 +138,3 @@ The steering committee delegates ownership of various Kubernetes community accou
 | sc2@kubernetes.io | Nabarun Pal |
 | sc3@kubernetes.io | Bob Killen |
 
-## Zoom Admins
-
-The following committee members have zoom credentials for the `steering-private@kubernetes.io` account.
-However, all Steering Committee members have access to the zoom host key.
-
-| Name | Profile |
-| ---- | ------- |
-| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** |
-| Christoph Blecker | **[@cblecker](https://github.com/cblecker)** |
-| **TBD**  <!-- TODO: Resolve in https://github.com/kubernetes/steering/issues/260 --> | **TBD** <!-- TODO: Resolve in https://github.com/kubernetes/steering/issues/260 --> |
