@@ -16,10 +16,3 @@ approved by the Steering Committee, to provide legal and logistical assistance, 
 other assistance within the bounds approved by the CNCF Governance Board and Technical Oversight
 Committee upon request from the Steering Committee.
 
-Current standing CNCF-funded expenditures include:
-* Github, for private repos
-* Reviewable.io, for enterprise edition
-* Netlify.com, for documentation hosting
-* Zack Corleissen, for documentation editing
-* kubernetes.io, k8s.io domains
-* K8s birthday party
