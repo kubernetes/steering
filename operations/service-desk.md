@@ -6,6 +6,7 @@ of the Kubernetes project.
 
 **Community Groups:**
 - [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience#leadership)
+- [SIG etcd](https://git.k8s.io/community/sig-etcd#leadership)
 - [SIG Release](https://git.k8s.io/community/sig-release#leadership)
 
 
