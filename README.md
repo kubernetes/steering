@@ -20,7 +20,7 @@ specific committee structure information.
 | Name | Profile | Affiliation |
 | ---- | ------- | ----------- |
 | Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google |
-| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | Google |
+| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | CNCF |
 | Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware |
 
 ### Emeritus
