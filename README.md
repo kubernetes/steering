@@ -18,7 +18,7 @@ specific committee structure information.
 
 | Name | Profile | Affiliation |
 | ---- | ------- | ----------- |
-| Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Red Hat |
+| Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Defense Unicorns |
 | Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
 | Patrick Ohly | **[@pohly](https://github.com/pohly)** | Intel |
 | Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco |
