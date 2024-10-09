@@ -6,28 +6,29 @@ The Steering Committee is a 7 member body, overseeing the governance of the
 Kubernetes project. See the [Steering Committee Charter](charter.md) for
 specific committee structure information.
 
+### Term ends in October 2026
+
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Antonio Ojea | **[@aojea](https://github.com/aojea)** | Google |
+| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google |
+| Sascha Grunert | **[@saschagrunert](https://github.com/saschagrunert)** | Red Hat |
+
 ### Term ends in October 2025
 
 | Name | Profile | Affiliation |
 | ---- | ------- | ----------- |
-| Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Red Hat |
+| Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Defense Unicorns |
 | Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
 | Patrick Ohly | **[@pohly](https://github.com/pohly)** | Intel |
 | Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco |
-
-### Term ends in October 2024
-
-| Name | Profile | Affiliation |
-| ---- | ------- | ----------- |
-| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google |
-| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** | CNCF |
-| Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** | VMware |
 
 ### Emeritus
 
 | Name | Profile |
 | ---- | ------- |
 | Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** |
 | Brandon Philips | **[@philips](https://github.com/philips)** |
 | Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
 | Brian Grant | **[@bgrant0607](https://github.com/bgrant0607)** |
@@ -40,6 +41,7 @@ specific committee structure information.
 | Jordan Liggitt | **[@liggitt](https://github.com/liggitt)** |
 | Lachlan Evenson | **[@lachie83](https://github.com/lachie83)** |
 | Michelle Dhanani | **[@michelleN](https://github.com/michelleN)** |
+| Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
@@ -48,7 +50,6 @@ specific committee structure information.
 | Tim Hockin | **[@thockin](https://github.com/thockin)** |
 | Tim Pepper | **[@tpepper](https://github.com/tpepper)** |
 | Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** |
-
 
 ## Kubernetes CNCF Governing Board Representative
 
@@ -82,7 +83,6 @@ communication point between Steering and CNCF.
 
 For more details on the relationship between Steering and CNCF, please see a
 dedicated document [Relationship with the CNCF](operations/cncf-and-k8s.md).
-
 
 ## Communication Channels
 
@@ -121,7 +121,6 @@ We have two meetings every month.
 - [Charter](charter.md)
 - [Backlog](https://github.com/orgs/kubernetes/projects/40)
 
-
 ### CNCF ServiceDesk access
 
 The CNCF ServiceDesk policy for Kubernetes community is defined at [ServiceDesk](operations/service-desk.md).
@@ -132,9 +131,12 @@ The steering committee delegates ownership of various Kubernetes community accou
 
 ### Google Workspace
 
+<!--
+TODO(onboarding): Replace SC2 and SC3
+-->
+
 | Account | Owner |
 | ------- | ----- |
 | sc1@kubernetes.io | Stephen Augustus |
 | sc2@kubernetes.io | Nabarun Pal |
 | sc3@kubernetes.io | Bob Killen |
-
