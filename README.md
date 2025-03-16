@@ -21,7 +21,7 @@ specific committee structure information.
 | Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Defense Unicorns |
 | Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
 | Patrick Ohly | **[@pohly](https://github.com/pohly)** | Intel |
-| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Cisco |
+| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Bloomberg |
 
 ### Emeritus
 
