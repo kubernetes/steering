@@ -130,10 +130,12 @@ History of election officers:
 2017: castrojo and parispittman  
 2018: castrojo, parispittman, idvoretskyi  
 2019: mrbobbytables, castrojo, idvoretskyi  
-2020: jberkus, jdumars, idvoretskyi    
+2020: jberkus, jdumars, idvoretskyi
 2021: jberkus, alisondy, coderanger  
 2022: coderanger, kaslin, dims  
 2023: kaslin, dims, bridgetkromhout
+2024: bridgetkromhout, cblecker, Priyankasaggu11929
+2025: cblecker, npolshakova, sreeram-venkitesh
 
 ### Vacancies
 
