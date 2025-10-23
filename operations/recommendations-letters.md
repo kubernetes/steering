@@ -97,7 +97,7 @@ and, next to each one, provide direct links to the artifacts that prove it
 (e.g., pull requests, design docs, meeting notes).
 
 Once you have created this verification document, please share it with one or
-two Tech Leads or maintainers from the areas you've contributed to. They will
+two recognized leaders from the areas you've contributed to. They will
 need to review it and add their name, title, and a statement confirming the
 accuracy of the information. This will serve as their official signature.
 
