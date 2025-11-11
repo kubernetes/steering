@@ -6,6 +6,15 @@ The Steering Committee is a 7 member body, overseeing the governance of the
 Kubernetes project. See the [Steering Committee Charter](charter.md) for
 specific committee structure information.
 
+### Term ends in October 2027
+
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Kat Cosgrove | **[@katcosgrove](https://github.com/katcosgrove)** | Minimus |
+| Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Defense Unicorns |
+| Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
+| Rita Zhang | **[@ritazh](https://github.com/ritazh)** | Microsoft |
+
 ### Term ends in October 2026
 
 | Name | Profile | Affiliation |
@@ -13,15 +22,6 @@ specific committee structure information.
 | Antonio Ojea | **[@aojea](https://github.com/aojea)** | Google |
 | Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google |
 | Sascha Grunert | **[@saschagrunert](https://github.com/saschagrunert)** | Red Hat |
-
-### Term ends in October 2025
-
-| Name | Profile | Affiliation |
-| ---- | ------- | ----------- |
-| Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Defense Unicorns |
-| Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
-| Patrick Ohly | **[@pohly](https://github.com/pohly)** | Intel |
-| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** | Bloomberg |
 
 ### Emeritus
 
@@ -44,9 +44,11 @@ specific committee structure information.
 | Nabarun Pal | **[@palnabarun](https://github.com/palnabarun)** |
 | Nikhita Raghunath | **[@nikhita](https://github.com/nikhita)** |
 | Paris Pittman | **[@parispittman](https://github.com/parispittman)** |
+| Patrick Ohly | **[@pohly](https://github.com/pohly)** |
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
 | Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
 | Sarah Novotny | **[@sarahnovotny](https://github.com/sarahnovotny)** |
+| Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** |
 | Tim Hockin | **[@thockin](https://github.com/thockin)** |
 | Tim Pepper | **[@tpepper](https://github.com/tpepper)** |
 | Timothy St. Clair | **[@timothysc](https://github.com/timothysc)** |
