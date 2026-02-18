@@ -3,7 +3,7 @@
 The Kubernetes Steering Committee is committed to supporting the dedicated
 contributors who drive our project forward. We are often asked to provide
 letters of recommendation or statements of contribution for purposes such as
-visa applications, immigration proceedings, or professional recognition.
+visa applications, immigration proceedings.
 
 This document outlines a formal, consistent, and scalable process for handling
 these requests. Its purpose is to enable the Steering Committee to provide
