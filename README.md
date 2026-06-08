@@ -13,7 +13,7 @@ specific committee structure information.
 | Kat Cosgrove | **[@katcosgrove](https://github.com/katcosgrove)** | Minimus |
 | Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Defense Unicorns |
 | Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
-| Rita Zhang | **[@ritazh](https://github.com/ritazh)** | Microsoft |
+| Rita Zhang | **[@ritazh](https://github.com/ritazh)** | CoreWeave |
 
 ### Term ends in October 2026
 
