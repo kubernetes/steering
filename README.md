@@ -10,7 +10,7 @@ specific committee structure information.
 
 | Name | Profile | Affiliation |
 | ---- | ------- | ----------- |
-| Kat Cosgrove | **[@katcosgrove](https://github.com/katcosgrove)** | Minimus |
+| Kat Cosgrove | **[@katcosgrove](https://github.com/katcosgrove)** | VillageSQL |
 | Maciej Szulik | **[@soltysh](https://github.com/soltysh)** | Defense Unicorns |
 | Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
 | Rita Zhang | **[@ritazh](https://github.com/ritazh)** | CoreWeave |
