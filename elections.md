@@ -136,6 +136,7 @@ History of election officers:
 - 2023: kaslin, dims, bridgetkromhout
 - 2024: bridgetkromhout, cblecker, Priyankasaggu11929
 - 2025: cblecker, npolshakova, sreeram-venkitesh
+- 2026: npolshakova, sreeram-venkitesh, reylejano
 
 ### Vacancies
 
