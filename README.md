@@ -6,6 +6,14 @@ The Steering Committee is a 7 member body, overseeing the governance of the
 Kubernetes project. See the [Steering Committee Charter](charter.md) for
 specific committee structure information.
 
+### Term ends in October 2028
+
+| Name | Profile | Affiliation |
+| ---- | ------- | ----------- |
+| Janet Kuo | **[@janetkuo](https://github.com/janetkuo)** | Google |
+| Michael McCune | **[@elmiko](https://github.com/elmiko)** | Red Hat |
+| Priyanka Saggu | **[@Priyankasaggu11929](https://github.com/Priyankasaggu11929)** | SUSE |
+
 ### Term ends in October 2027
 
 | Name | Profile | Affiliation |
@@ -15,19 +23,13 @@ specific committee structure information.
 | Paco Xu 徐俊杰 | **[@pacoxu](https://github.com/pacoxu)** | DaoCloud |
 | Rita Zhang | **[@ritazh](https://github.com/ritazh)** | CoreWeave |
 
-### Term ends in October 2026
-
-| Name | Profile | Affiliation |
-| ---- | ------- | ----------- |
-| Antonio Ojea | **[@aojea](https://github.com/aojea)** | Google |
-| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** | Google |
-| Sascha Grunert | **[@saschagrunert](https://github.com/saschagrunert)** | Red Hat |
-
 ### Emeritus
 
 | Name | Profile |
 | ---- | ------- |
 | Aaron Crickenberger | **[@spiffxp](https://github.com/spiffxp)** |
+| Antonio Ojea | **[@aojea](https://github.com/aojea)** |
+| Benjamin Elder | **[@BenTheElder](https://github.com/bentheelder)** |
 | Bob Killen | **[@mrbobbytables](https://github.com/mrbobbytables)** |
 | Brandon Philips | **[@philips](https://github.com/philips)** |
 | Brendan Burns | **[@brendandburns](https://github.com/brendandburns)** |
@@ -48,6 +50,7 @@ specific committee structure information.
 | Phillip Wittrock | **[@pwittrock](https://github.com/pwittrock)** |
 | Quinton Hoole | **[@quinton-hoole](https://github.com/quinton-hoole)** |
 | Sarah Novotny | **[@sarahnovotny](https://github.com/sarahnovotny)** |
+| Sascha Grunert | **[@saschagrunert](https://github.com/saschagrunert)** |
 | Stephen Augustus | **[@justaugustus](https://github.com/justaugustus)** |
 | Tim Hockin | **[@thockin](https://github.com/thockin)** |
 | Tim Pepper | **[@tpepper](https://github.com/tpepper)** |
