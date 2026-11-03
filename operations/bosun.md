@@ -66,4 +66,4 @@ opportunity for each discussion topic.
 - Forward notes and announcement of next bosun to steering@kubernetes.io
 
 
-[quorum]: ./charter.md#quorum
+[quorum]: ../charter.md#quorum
