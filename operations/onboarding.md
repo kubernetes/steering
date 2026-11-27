@@ -7,7 +7,8 @@ members and off-board emeritus members.
       within 30 days from the date of their appointment:
   - [x] New steering member @gh_alias: <link to certificate>
 - [ ] Update the following files in the respective repos:
-  - [ ] [kubernetes/steering]: `OWNERS_ALIASES` and `README.md`
+  - [ ] [kubernetes/steering]: `OWNERS_ALIASES`, `README.md` and
+        `SECURITY_CONTACTS` (add new members, remove emeritus members)
   - [ ] [kubernetes/community]:
       - [ ] `sigs.yaml` (SC members and liaisons) and auto-generated content
       - [ ] slack usergroup - `communication/slack-config/usergroups.yaml`,
